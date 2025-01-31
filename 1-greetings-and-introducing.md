@@ -1,4 +1,28 @@
-## Begrüßen und Vorstellen (Greetings and introducing)
+# Begrüßen und Vorstellen (Greetings and Introducing)
+
+
+- [Begrüßen und Vorstellen (Greetings and Introducing)](#begrüßen-und-vorstellen-greetings-and-introducing)
+    - [**1. Name and Greetings**](#1-name-and-greetings)
+      - [**Introducing Yourself**](#introducing-yourself)
+      - [**Asking for Someone’s Name**](#asking-for-someones-name)
+      - [**Vocabulary**](#vocabulary)
+    - [**2. Talking About Where You’re From**](#2-talking-about-where-youre-from)
+      - [**Asking and Answering**](#asking-and-answering)
+    - [**3. Asking How Someone Is**](#3-asking-how-someone-is)
+      - [**Informal**](#informal)
+      - [**Formal**](#formal)
+      - [**Grammar Note**](#grammar-note)
+    - [**4. Additional Useful Phrases**](#4-additional-useful-phrases)
+      - [**Greetings**](#greetings)
+      - [**Goodbyes**](#goodbyes)
+    - [**5. Practice Dialogues**](#5-practice-dialogues)
+      - [**Dialogue 1: Introducing Yourself**](#dialogue-1-introducing-yourself)
+      - [**Dialogue 2: Asking How Someone Is**](#dialogue-2-asking-how-someone-is)
+    - [**6. Notes on Formality**](#6-notes-on-formality)
+    - [**7. W-Wörter (W-words)**](#7-w-wörter-w-words)
+      - [**Key Question Words**](#key-question-words)
+      - [**Grammar Note**](#grammar-note-1)
+
 
 ### **1. Name and Greetings**
 
@@ -34,7 +58,7 @@
 | Woher kommen Sie?         | Where are you from?      | Di dove è?               | Formal.                                    |
 | Ich komme aus Italien.    | I come from Italy.       | Vengo dall’Italia.       |                                            |
 | Ich komme aus der Schweiz.| I come from Switzerland. | Vengo dalla Svizzera.    |                                            |
-| Ich komme aus den USA.    | I come from the USA.     | Vengo dagli Stati Uniti. | Corrected: "Veroningten Staaten" → "USA."  |
+| Ich komme aus den USA.    | I come from the USA.     | Vengo dagli Stati Uniti. |                                            |
 
 ---
 
@@ -109,3 +133,24 @@
 ### **6. Notes on Formality**
 - **Du** is used for informal situations (friends, family, peers).
 - **Sie** is used for formal situations (strangers, elders, professionals).
+
+---
+
+### **7. W-Wörter (W-words)**
+
+#### **Key Question Words**
+| **German**               | **English**               | **Italian**               | **Example**                                |
+|--------------------------|--------------------------|--------------------------|--------------------------------------------|
+| Wer                      | Who?                     | Chi?                     | Wer ist das? (Who is that?)                |
+| Wie                      | How?                     | Come?                    | Wie geht’s? (How’s it going?)              |
+| Woher                    | Where from?              | Da dove?                 | Woher kommst du? (Where are you from?)     |
+| Wo                       | Where?                   | Dove?                    | Wo bist du? (Where are you?)               |
+| Was                      | What?                    | Cosa?                    | Was machst du? (What are you doing?)       |
+
+#### **Grammar Note**
+- If you don’t hear what someone said, use **“Wie bitte?”** (Excuse me?) instead of **“Was?”** (What?).  
+  Example:  
+  - **A**: Entschuldigung, wie bitte?  
+    (Excuse me, what did you say?)  
+  - **B**: Ich habe gesagt, „Guten Tag!“  
+    (I said, “Good day!”)
