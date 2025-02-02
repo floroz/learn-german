@@ -1,27 +1,32 @@
-# Begrüßen und Vorstellen (Greetings and Introducing)
+## Begrüßen und Vorstellen (Greetings and Introducing)
 
 
 - [Begrüßen und Vorstellen (Greetings and Introducing)](#begrüßen-und-vorstellen-greetings-and-introducing)
-    - [**1. Name and Greetings**](#1-name-and-greetings)
-      - [**Introducing Yourself**](#introducing-yourself)
-      - [**Asking for Someone’s Name**](#asking-for-someones-name)
-      - [**Vocabulary**](#vocabulary)
-    - [**2. Talking About Where You’re From**](#2-talking-about-where-youre-from)
-      - [**Asking and Answering**](#asking-and-answering)
-    - [**3. Asking How Someone Is**](#3-asking-how-someone-is)
-      - [**Informal**](#informal)
-      - [**Formal**](#formal)
-      - [**Grammar Note**](#grammar-note)
-    - [**4. Additional Useful Phrases**](#4-additional-useful-phrases)
-      - [**Greetings**](#greetings)
-      - [**Goodbyes**](#goodbyes)
-    - [**5. Practice Dialogues**](#5-practice-dialogues)
-      - [**Dialogue 1: Introducing Yourself**](#dialogue-1-introducing-yourself)
-      - [**Dialogue 2: Asking How Someone Is**](#dialogue-2-asking-how-someone-is)
-    - [**6. Notes on Formality**](#6-notes-on-formality)
-    - [**7. W-Wörter (W-words)**](#7-w-wörter-w-words)
-      - [**Key Question Words**](#key-question-words)
-      - [**Grammar Note**](#grammar-note-1)
+  - [**1. Name and Greetings**](#1-name-and-greetings)
+    - [**Introducing Yourself**](#introducing-yourself)
+    - [**Asking for Someone’s Name**](#asking-for-someones-name)
+    - [**Vocabulary**](#vocabulary)
+  - [**2. Talking About Where You’re From**](#2-talking-about-where-youre-from)
+    - [**Asking and Answering**](#asking-and-answering)
+  - [**3. Asking How Someone Is**](#3-asking-how-someone-is)
+    - [**Informal**](#informal)
+    - [**Formal**](#formal)
+    - [**Grammar Note**](#grammar-note)
+  - [**4. Additional Useful Phrases**](#4-additional-useful-phrases)
+    - [**Greetings**](#greetings)
+    - [**Goodbyes**](#goodbyes)
+  - [**5. Practice Dialogues**](#5-practice-dialogues)
+    - [**Dialogue 1: Introducing Yourself**](#dialogue-1-introducing-yourself)
+    - [**Dialogue 2: Asking How Someone Is**](#dialogue-2-asking-how-someone-is)
+  - [**6. Notes on Formality**](#6-notes-on-formality)
+  - [**7. W-Wörter (W-words)**](#7-w-wörter-w-words)
+    - [**Key Question Words**](#key-question-words)
+    - [**Examples with Pronouns**](#examples-with-pronouns)
+    - [**Grammar Note**](#grammar-note-1)
+  - [**8. Personal Pronouns**](#8-personal-pronouns)
+    - [**Pronouns in German**](#pronouns-in-german)
+    - [**Duzen and Siezen**](#duzen-and-siezen)
+    - [**When to Use Du vs. Sie**](#when-to-use-du-vs-sie)
 
 
 ### **1. Name and Greetings**
@@ -147,6 +152,14 @@
 | Wo                       | Where?                   | Dove?                    | Wo bist du? (Where are you?)               |
 | Was                      | What?                    | Cosa?                    | Was machst du? (What are you doing?)       |
 
+#### **Examples with Pronouns**
+- **Wer bist du?**  
+  (Who are you?)  
+  **Informal**.
+- **Wer sind Sie?**  
+  (Who are you?)  
+  **Formal**.
+
 #### **Grammar Note**
 - If you don’t hear what someone said, use **“Wie bitte?”** (Excuse me?) instead of **“Was?”** (What?).  
   Example:  
@@ -154,3 +167,43 @@
     (Excuse me, what did you say?)  
   - **B**: Ich habe gesagt, „Guten Tag!“  
     (I said, “Good day!”)
+
+---
+
+### **8. Personal Pronouns**
+
+#### **Pronouns in German**
+| **German** | **English**       | **Italian** | **Notes**                                   |
+|------------|-------------------|-------------|--------------------------------------------|
+| ich        | I                 | io          |                                            |
+| du         | you (informal)    | tu          | Used with friends, family, or peers.       |
+| er         | he                | lui         |                                            |
+| sie        | she               | lei         |                                            |
+| es         | it                | esso/essa   |                                            |
+| wir        | we                | noi         |                                            |
+| ihr        | you (plural)      | voi         | Informal, addressing a group.              |
+| sie        | they              | loro        |                                            |
+| Sie        | you (formal)      | Lei         | Formal, singular or plural.                |
+
+#### **Duzen and Siezen**
+- **Duzen** means using **du** (informal "you") when addressing someone.  
+  Example:  
+  - **Du kannst mich duzen.**  
+    (You can use “du” with me.)  
+    This is an invitation to speak informally.
+
+- **Siezen** means using **Sie** (formal "you") when addressing someone.  
+  Example:  
+  - **Bitte siezen Sie mich.**  
+    (Please use “Sie” with me.)  
+    This is a request to maintain formality.
+
+#### **When to Use Du vs. Sie**
+- Use **du** with:
+  - Friends, family, children, and peers.
+  - People who explicitly invite you to use **du**.
+- Use **Sie** with:
+  - Strangers, elders, professionals, and in formal settings.
+  - People you don’t know well or who are in a position of authority.
+
+---
