@@ -1,3 +1,24 @@
+- [German Verbs Guide](#german-verbs-guide)
+  - [1. Regular Verbs (Present Tense)](#1-regular-verbs-present-tense)
+    - [Conjugation of "spielen" (to play)](#conjugation-of-spielen-to-play)
+  - [2. Irregular Verbs (Present Tense)](#2-irregular-verbs-present-tense)
+    - [Conjugation of "sein" (to be)](#conjugation-of-sein-to-be)
+    - [Conjugation of "haben" (to have)](#conjugation-of-haben-to-have)
+  - [3. Modal Verbs](#3-modal-verbs)
+    - [Common Modal Verbs](#common-modal-verbs)
+  - [4. Separable Verbs](#4-separable-verbs)
+    - [Example: "aufstehen" (to get up)](#example-aufstehen-to-get-up)
+  - [5. Reflexive Verbs](#5-reflexive-verbs)
+    - [Example: "sich freuen" (to be happy)](#example-sich-freuen-to-be-happy)
+  - [6. Practice Dialogues](#6-practice-dialogues)
+    - [Dialogue 1: Using Regular Verbs](#dialogue-1-using-regular-verbs)
+    - [Dialogue 2: Using Modal Verbs](#dialogue-2-using-modal-verbs)
+    - [Dialogue 3: Using Reflexive Verbs](#dialogue-3-using-reflexive-verbs)
+  - [7. Common Verbs](#7-common-verbs)
+    - [Essential Verbs for Beginners](#essential-verbs-for-beginners)
+    - [Notes on Verb Conjugation](#notes-on-verb-conjugation)
+
+
 #  German Verbs Guide
 
 ##  1. Regular Verbs (Present Tense) 
@@ -95,7 +116,8 @@ Separable verbs have prefixes that detach and move to the end of the sentence in
 ##  5. Reflexive Verbs
 Reflexive verbs require a reflexive pronoun (e.g., mich, dich) because the subject performs the action on themselves.  
 
-###  Example: "sich freuen" (to be happy)**  
+###  Example: "sich freuen" (to be happy)
+
 | **Pronoun** | **German**         | **English**          | **Italian**         |  
 |-------------|--------------------|----------------------|---------------------|  
 | ich         | freue **mich**     | I am happy           | sono felice         |  
@@ -111,21 +133,21 @@ Reflexive verbs require a reflexive pronoun (e.g., mich, dich) because the subje
 
 ---
 
-##  6. Practice Dialogues**  
+##  6. Practice Dialogues  
 
-###  Dialogue 1: Using Regular Verbs**  
+###  Dialogue 1: Using Regular Verbs  
 - **A**: Was machst du? (What are you doing?) → Che fai?  
 - **B**: Ich **lerne** Deutsch. (I am learning German.) → Sto imparando il tedesco.  
 - **A**: **Spielst** du Fußball? (Do you play soccer?) → Giochi a calcio?  
 - **B**: Ja, ich **spiele** jeden Tag. (Yes, I play every day.) → Sì, gioco ogni giorno.  
 
-###  Dialogue 2: Using Modal Verbs**  
+###  Dialogue 2: Using Modal Verbs  
 - **A**: **Kannst** du mir helfen? (Can you help me?) → Puoi aiutarmi?  
 - **B**: Ja, ich **kann** dir helfen. (Yes, I can help you.) → Sì, posso aiutarti.  
 - **A**: **Muss** ich jetzt gehen? (Do I have to go now?) → Devo andare adesso?  
 - **B**: Nein, du **musst** nicht gehen. (No, you don’t have to go.) → No, non devi andare.  
 
-###  Dialogue 3: Using Reflexive Verbs**  
+###  Dialogue 3: Using Reflexive Verbs
 - **A**: **Freust** du **dich** auf die Party? (Are you looking forward to the party?) → Non vedi l’ora della festa?  
 - **B**: Ja, ich **freue mich** sehr. (Yes, I am very excited.) → Sì, non vedo l’ora.  
 - **A**: Wir **freuen uns** auch. (We are excited too.) → Anche noi non vediamo l’ora.  
@@ -133,9 +155,9 @@ Reflexive verbs require a reflexive pronoun (e.g., mich, dich) because the subje
 
 ___
 
-### Common Verbs
+## 7. Common Verbs
 
-#### Essential Verbs for Beginners
+### Essential Verbs for Beginners
 
 | **German**  | **English** | **Italian** | **Conjugation (ich/du)** | **Example**                          |  
 |-------------|-------------|-------------|--------------------------|--------------------------------------|  
@@ -154,7 +176,7 @@ ___
 
 ---
 
-### **Notes on Verb Conjugation**
+### Notes on Verb Conjugation
 1. **Regular Verbs**: Most verbs follow the pattern:  
    - **ich**: stem + **-e** (e.g., ich spiele).  
    - **du**: stem + **-st** (e.g., du spielst).  

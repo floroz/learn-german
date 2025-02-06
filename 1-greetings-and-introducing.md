@@ -27,13 +27,8 @@
     - [Pronouns in German](#pronouns-in-german)
     - [Duzen and Siezen](#duzen-and-siezen)
     - [When to Use Du vs. Sie](#when-to-use-du-vs-sie)
-  - [Common Expressions](#common-expressions)
+  - [11. Common Expressions](#11-common-expressions)
     - [Politeness and Everyday Phrases](#politeness-and-everyday-phrases)
-  - [**11. Common Expressions**](#11-common-expressions)
-    - [**Politeness and Everyday Phrases**](#politeness-and-everyday-phrases-1)
-  - [**Alternative Format (Bulleted List in Table Cell)**](#alternative-format-bulleted-list-in-table-cell)
-  - [**11. Common Expressions**](#11-common-expressions-1)
-    - [**Politeness and Everyday Phrases**](#politeness-and-everyday-phrases-2)
   - [Practice Sentences](#practice-sentences)
 
 
@@ -222,24 +217,11 @@
 
 ---
 
-### Common Expressions
+### 11. Common Expressions
 
 #### Politeness and Everyday Phrases
 These expressions are essential for daily interactions in German. Pay attention to context, as some phrases have multiple meanings.
 
-The issue with the table layout is likely due to the **line breaks** within the **Notes** column for **Bitte**. To fix this, we can either:  
-1. Keep the notes concise and avoid line breaks, or  
-2. Use a **bulleted list** within the table cell (if supported by your Markdown editor).  
-
-Here’s the corrected version:
-
----
-
-### **11. Common Expressions**
-
-#### **Politeness and Everyday Phrases**
-These expressions are essential for daily interactions in German. Pay attention to context, as some phrases have multiple meanings.
-
 | **German**         | **English**          | **Italian**         | **Notes**                                   |  
 |---------------------|----------------------|---------------------|--------------------------------------------|  
 | **Entschuldigung!** | Excuse me! / I’m sorry! | Scusa! / Mi dispiace! | Use to apologize or get someone’s attention. |  
@@ -249,31 +231,6 @@ These expressions are essential for daily interactions in German. Pay attention 
 | **Nichts zu danken.**| You’re welcome.      | Non c'è di che.     | Literally: “Nothing to thank for.”         |  
 | **Gern geschehen.** | My pleasure.         | È stato un piacere. | A polite response to “Danke.”              |  
 
----
-
-### **Alternative Format (Bulleted List in Table Cell)**
-If your Markdown editor supports it, you can use a bulleted list within the table cell for **Bitte**:
-The issue with the table layout is likely due to the **line breaks** within the **Notes** column for **Bitte**. To fix this, we can either:  
-1. Keep the notes concise and avoid line breaks, or  
-2. Use a **bulleted list** within the table cell (if supported by your Markdown editor).  
-
-Here’s the corrected version:
-
----
-
-### **11. Common Expressions**
-
-#### **Politeness and Everyday Phrases**
-These expressions are essential for daily interactions in German. Pay attention to context, as some phrases have multiple meanings.
-
-| **German**         | **English**          | **Italian**         | **Notes**                                   |  
-|---------------------|----------------------|---------------------|--------------------------------------------|  
-| **Entschuldigung!** | Excuse me! / I’m sorry! | Scusa! / Mi dispiace! | Use to apologize or get someone’s attention. |  
-| **Tut mir leid.**   | I’m sorry.           | Mi dispiace.        | A more personal way to apologize.          |  
-| **Bitte.**          | Please. / You’re welcome. / Here you go. | Prego. / Per favore. | Context determines meaning. Examples: **Bitte schön!** (Here you go!), **Bitte?** (Pardon?), **Danke! – Bitte!** (Thank you! – You’re welcome!). |  
-| **Danke.**          | Thank you.           | Grazie.             | Common in all situations.                  |  
-| **Nichts zu danken.**| You’re welcome.      | Non c'è di che.     | Literally: “Nothing to thank for.”         |  
-| **Gern geschehen.** | My pleasure.         | È stato un piacere. | A polite response to “Danke.”              |  
 
 ___
 
