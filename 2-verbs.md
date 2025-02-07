@@ -173,6 +173,7 @@ ___
 | **tanzen**  | to dance    | ballare     | ich tanze / du tanzt      | Wir **tanzen** zusammen. (We are dancing together.) |  
 | **lieben**  | to love     | amare       | ich liebe / du liebst     | Ich **liebe** dich. (I love you.) |  
 | **heißen**  | to be called| chiamarsi   | ich heiße / du heißt      | Wie **heißt** du? (What is your name?) |  
+| **hören**   | to hear/listen | ascoltare | ich höre / du hörst       | Ich **höre** Musik. (I am listening to music.) |  
 
 ---
 

@@ -1,19 +1,22 @@
-- ["ch"](#ch)
-  - [**1. Soft "ch" \[ç\] (like a hiss)**](#1-soft-ch-ç-like-a-hiss)
-  - [**2. Harsh "ch" \[x\] (like clearing your throat)**](#2-harsh-ch-x-like-clearing-your-throat)
-  - [**3. "ch" at the Beginning of Words**](#3-ch-at-the-beginning-of-words)
-  - [**4. "ch" in Loanwords**](#4-ch-in-loanwords)
-  - [**5. Special Cases**](#5-special-cases)
-  - [**Quick Summary Table**](#quick-summary-table)
-- [Diphthongs and Complex Phonetics\*\*](#diphthongs-and-complex-phonetics)
-    - [**Diphthongs**](#diphthongs)
-    - [**Vowel Length**](#vowel-length)
-    - [**Umlauts (Ä, Ö, Ü)**](#umlauts-ä-ö-ü)
-    - [**Consonant Clusters**](#consonant-clusters)
-    - [**The Glottal Stop**](#the-glottal-stop)
-    - [**R-Sounds**](#r-sounds)
-  - [**Quick Summary Table**](#quick-summary-table-1)
 
+- [Aussprache](#aussprache)
+  - ["ch"](#ch)
+    - [**1. Soft "ch" \[ç\] (like a hiss)**](#1-soft-ch-ç-like-a-hiss)
+    - [**2. Harsh "ch" \[x\] (like clearing your throat)**](#2-harsh-ch-x-like-clearing-your-throat)
+    - [**3. "ch" at the Beginning of Words**](#3-ch-at-the-beginning-of-words)
+    - [**4. "ch" in Loanwords**](#4-ch-in-loanwords)
+    - [**5. Special Cases**](#5-special-cases)
+    - [**Quick Summary Table**](#quick-summary-table)
+  - [Diphthongs and Complex Phonetics\*\*](#diphthongs-and-complex-phonetics)
+      - [**Diphthongs**](#diphthongs)
+      - [**Vowel Length**](#vowel-length)
+      - [**Umlauts (Ä, Ö, Ü)**](#umlauts-ä-ö-ü)
+      - [**Consonant Clusters**](#consonant-clusters)
+      - [**The Glottal Stop**](#the-glottal-stop)
+      - [**R-Sounds**](#r-sounds)
+    - [**Quick Summary Table**](#quick-summary-table-1)
+
+# Aussprache
 
 ## "ch" 
 
@@ -95,10 +98,6 @@ In German, the pronunciation of **"ch"** changes depending on its position in a 
 | Beginning of word          | [ç] or [k]       | **China**, **Chor** |  
 | Loanwords                  | [k] or [ʃ]       | **Chef**, **Charakter** |  
 | "-chen" suffix             | [ç]              | **Mädchen**         |  
-
----
-
-Certainly! Here’s a new section that explains the pronunciation of **diphthongs** and other **complex German phonetics**, following the same structured format as before.
 
 ---
 
