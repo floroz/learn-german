@@ -38,34 +38,34 @@ All German nouns are capitalized and have one of three genders: **masculine (der
 
 | **German**         | **English**       | **Italian**       | **Example**                                | **Notes**                      |  
 |---------------------|-------------------|-------------------|--------------------------------------------|--------------------------------|  
-| der Mann            | the man           | l'uomo            | **Der Mann** ist freundlich.               | Masculine nouns often end in -er, -ig, -ling. |  
-| die Frau            | the woman         | la donna          | **Die Frau** arbeitet hier.                | Feminine nouns often end in -ung, -keit, -ion. |  
-| das Kind            | the child         | il bambino        | **Das Kind** spielt.                       | Neuter nouns often end in -chen, -lein, -ment. |  
+| der Mann            | the man           | l'uomo            | **Der Mann** ist freundlich.               | Masculine nouns often end in -er, -ig, -ling, -ismus. |  
+| die Frau            | the woman         | la donna          | **Die Frau** arbeitet hier.                | Feminine nouns often end in -ung, -keit, -ion, -ur, -e, -ei, -ie. |  
+| das Kind            | the child         | il bambino        | **Das Kind** spielt.                       | Neuter nouns often end in -chen, -lein, and many Latin-based words. |  
 | die Häuser (pl.)    | the houses        | le case           | **Die Häuser** sind groß.                  | Plural nouns always use **die**. |  
-
 
 There are some rules and patterns to help determine the gender of a noun.
 
 #### Common Gender Rules
 
 - **Masculine (der)**: 
-  - Most nouns ending in *-er, -en, -el* (e.g., **der Lehrer** – the teacher, **der Apfel** – the apple).
-  - Days, months, seasons (e.g., **der Montag**, **der Januar**, **der Sommer**).
-  - Many nouns referring to male people and animals (**der Vater** – father, **der Hahn** – rooster).
+  - Most nouns ending in *-er, -en, -el, -ismus, -ling* (e.g., **der Lehrer** – the teacher, **der Apfel** – the apple, **der Optimismus** – optimism).  
+  - Days, months, seasons (e.g., **der Montag**, **der Januar**, **der Sommer**).  
+  - Many nouns referring to male people and professions (**der Vater** – father, **der Arzt** – doctor).  
+  - Cars and alcoholic drinks (**der BMW**, **der Wein** – wine, **der Whisky**).  
 
 - **Feminine (die)**: 
-  - Most nouns ending in *-e* (e.g., **die Blume** – the flower, **die Lampe** – the lamp).
-  - Nouns ending in *-heit, -keit, -ung, -schaft, -ion, -ik* (**die Freiheit**, **die Lösung**, **die Nation**).
-  - Many nouns referring to female people, professions and animals (**die Mutter** – mother, **Die Ärztin** - doctor,  **die Kuh** – cow).
+  - Most nouns ending in *-e, -ei, -ie* (e.g., **die Blume** – the flower, **die Bäckerei** – the bakery, **die Melodie** – the melody).  
+  - Nouns ending in *-heit, -keit, -ung, -schaft, -ion, -ik, -ur* (**die Freiheit**, **die Lösung**, **die Nation**, **die Natur**).  
+  - Many nouns referring to female people and professions (**die Mutter** – mother, **die Ärztin** – female doctor).  
 
 - **Neuter (das)**:
-  - Nouns ending in *-chen, -lein* (diminutives, e.g., **das Mädchen** – the girl, **das Fräulein** – the young lady).
-  - Many nouns starting with *Ge-* (**das Gebäude** – the building, **das Gespräch** – the conversation).
-  - Infinitives used as nouns (**das Essen** – eating, **das Leben** – life).
+  - All nouns ending in *-chen, -lein* (diminutives, e.g., **das Mädchen** – the girl, **das Fräulein** – the young lady).  
+  - Many nouns starting with *Ge-* (**das Gebäude** – the building, **das Gespräch** – the conversation).  
+  - Infinitives used as nouns (**das Essen** – eating, **das Leben** – life).  
+  - Most Latin-based words (**das Museum**, **das Zentrum** – the center).  
 
 There are exceptions, so it’s best to learn the article with each noun!
-
----
+___
 
 ### **2. Pronouns**  
 Pronouns replace nouns and change based on **case** (nominative, accusative, dative).  
