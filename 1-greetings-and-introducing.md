@@ -19,6 +19,8 @@
     - [Dialogue 1: Introducing Yourself](#dialogue-1-introducing-yourself)
     - [Dialogue 2: Asking How Someone Is](#dialogue-2-asking-how-someone-is)
   - [6. Notes on Formality](#6-notes-on-formality)
+    - [Duzen and Siezen](#duzen-and-siezen)
+    - [When to Use Du vs. Sie](#when-to-use-du-vs-sie)
   - [7. W-Wörter (W-words)](#7-w-wörter-w-words)
     - [Key Question Words](#key-question-words)
     - [Examples with Pronouns](#examples-with-pronouns)
@@ -146,6 +148,29 @@
 | Duzen     | To use "du" with someone     | Dare del "tu"    | Becoming informal with someone.              |  
 | Siezen    | To use "Sie" with someone    | Dare del "Lei"   | Keeping the formal "Sie" form.               |  
 
+#### Duzen and Siezen
+
+- **Duzen** means using **du** (informal "you") when addressing someone.  
+  Example:  
+  - **Du kannst mich duzen.**  
+    *(You can use “du” with me.)*  
+    → This is an invitation to speak informally.  
+
+- **Siezen** means using **Sie** (formal "you") when addressing someone.  
+  Example:  
+  - **Bitte siezen Sie mich.**  
+    *(Please use “Sie” with me.)*  
+    → This is a request to maintain formality.  
+
+#### When to Use Du vs. Sie
+
+- Use **du** with:  
+  - Friends, family, children, and peers.  
+  - People who explicitly invite you to use **du**.  
+
+- Use **Sie** with:  
+  - Strangers, elders, professionals, and in formal settings.  
+  - People you don’t know well or who are in a position of authority.  
 ---
 
 ### 7. W-Wörter (W-words) 
