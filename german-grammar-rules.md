@@ -56,7 +56,7 @@ There are some rules and patterns to help determine the gender of a noun.
 - **Feminine (die)**: 
   - Most nouns ending in *-e* (e.g., **die Blume** – the flower, **die Lampe** – the lamp).
   - Nouns ending in *-heit, -keit, -ung, -schaft, -ion, -ik* (**die Freiheit**, **die Lösung**, **die Nation**).
-  - Many nouns referring to female people and animals (**die Mutter** – mother, **die Kuh** – cow).
+  - Many nouns referring to female people, professions and animals (**die Mutter** – mother, **Die Ärztin** - doctor,  **die Kuh** – cow).
 
 - **Neuter (das)**:
   - Nouns ending in *-chen, -lein* (diminutives, e.g., **das Mädchen** – the girl, **das Fräulein** – the young lady).
