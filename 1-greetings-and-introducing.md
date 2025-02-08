@@ -23,11 +23,7 @@
     - [Key Question Words](#key-question-words)
     - [Examples with Pronouns](#examples-with-pronouns)
     - [Grammar Note](#grammar-note-1)
-  - [8. Personal Pronouns](#8-personal-pronouns)
-    - [Pronouns in German](#pronouns-in-german)
-    - [Duzen and Siezen](#duzen-and-siezen)
-    - [When to Use Du vs. Sie](#when-to-use-du-vs-sie)
-  - [11. Common Expressions](#11-common-expressions)
+  - [Common Expressions](#common-expressions)
     - [Politeness and Everyday Phrases](#politeness-and-everyday-phrases)
   - [Practice Sentences](#practice-sentences)
 
@@ -175,49 +171,7 @@
 
 ---
 
-### 8. Personal Pronouns
-
-#### Pronouns in German 
-
-| **German** | **English**       | **Italian** | **Notes**                                   |  
-|-----------|-------------------|-------------|--------------------------------------------|  
-| ich       | I                 | io          |                                            |  
-| du        | you (informal)    | tu          | Used with friends, family, or peers.       |  
-| er        | he                | lui         |                                            |  
-| sie       | she               | lei         |                                            |  
-| es        | it                | esso/essa   |                                            |  
-| wir       | we                | noi         |                                            |  
-| ihr       | you (plural)      | voi         | Informal, addressing a group.              |  
-| sie       | they              | loro        |                                            |  
-| Sie       | you (formal)      | Lei         | Formal, singular or plural.                |  
-
-#### Duzen and Siezen
-
-- **Duzen** means using **du** (informal "you") when addressing someone.  
-  Example:  
-  - **Du kannst mich duzen.**  
-    *(You can use “du” with me.)*  
-    → This is an invitation to speak informally.  
-
-- **Siezen** means using **Sie** (formal "you") when addressing someone.  
-  Example:  
-  - **Bitte siezen Sie mich.**  
-    *(Please use “Sie” with me.)*  
-    → This is a request to maintain formality.  
-
-#### When to Use Du vs. Sie
-
-- Use **du** with:  
-  - Friends, family, children, and peers.  
-  - People who explicitly invite you to use **du**.  
-
-- Use **Sie** with:  
-  - Strangers, elders, professionals, and in formal settings.  
-  - People you don’t know well or who are in a position of authority.  
-
----
-
-### 11. Common Expressions
+### Common Expressions
 
 #### Politeness and Everyday Phrases
 These expressions are essential for daily interactions in German. Pay attention to context, as some phrases have multiple meanings.
