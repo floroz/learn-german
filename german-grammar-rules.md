@@ -2,6 +2,7 @@
 
 - [German Grammar rules for A1/A2](#german-grammar-rules-for-a1a2)
   - [**1. Nouns and Gender**](#1-nouns-and-gender)
+    - [Common Gender Rules](#common-gender-rules)
   - [**2. Pronouns**](#2-pronouns)
     - [**Personal Pronouns (Nominative Case)**](#personal-pronouns-nominative-case)
   - [**3. Verbs**](#3-verbs)
@@ -23,6 +24,13 @@
   - [**10. Practice Dialogues**](#10-practice-dialogues)
     - [**At a Café**](#at-a-café)
     - [**Asking for Directions**](#asking-for-directions)
+  - [Personal Pronouns](#personal-pronouns)
+    - [Pronouns in German](#pronouns-in-german)
+    - [Duzen and Siezen](#duzen-and-siezen)
+    - [When to Use Du vs. Sie](#when-to-use-du-vs-sie)
+  - [Reflexive Pronouns](#reflexive-pronouns)
+  - [Possessive Pronouns](#possessive-pronouns)
+  - [Other Important Pronouns](#other-important-pronouns)
 
 
 ### **1. Nouns and Gender**  
@@ -34,6 +42,28 @@ All German nouns are capitalized and have one of three genders: **masculine (der
 | die Frau            | the woman         | la donna          | **Die Frau** arbeitet hier.                | Feminine nouns often end in -ung, -keit, -ion. |  
 | das Kind            | the child         | il bambino        | **Das Kind** spielt.                       | Neuter nouns often end in -chen, -lein, -ment. |  
 | die Häuser (pl.)    | the houses        | le case           | **Die Häuser** sind groß.                  | Plural nouns always use **die**. |  
+
+
+There are some rules and patterns to help determine the gender of a noun.
+
+#### Common Gender Rules
+
+- **Masculine (der)**: 
+  - Most nouns ending in *-er, -en, -el* (e.g., **der Lehrer** – the teacher, **der Apfel** – the apple).
+  - Days, months, seasons (e.g., **der Montag**, **der Januar**, **der Sommer**).
+  - Many nouns referring to male people and animals (**der Vater** – father, **der Hahn** – rooster).
+
+- **Feminine (die)**: 
+  - Most nouns ending in *-e* (e.g., **die Blume** – the flower, **die Lampe** – the lamp).
+  - Nouns ending in *-heit, -keit, -ung, -schaft, -ion, -ik* (**die Freiheit**, **die Lösung**, **die Nation**).
+  - Many nouns referring to female people and animals (**die Mutter** – mother, **die Kuh** – cow).
+
+- **Neuter (das)**:
+  - Nouns ending in *-chen, -lein* (diminutives, e.g., **das Mädchen** – the girl, **das Fräulein** – the young lady).
+  - Many nouns starting with *Ge-* (**das Gebäude** – the building, **das Gespräch** – the conversation).
+  - Infinitives used as nouns (**das Essen** – eating, **das Leben** – life).
+
+There are exceptions, so it’s best to learn the article with each noun!
 
 ---
 
@@ -169,3 +199,92 @@ Common prepositions with their cases:
 #### **Asking for Directions**  
 - **A**: Entschuldigung, wo ist der Bahnhof? (Excuse me, where is the train station?)  
 - **B**: Gehen Sie geradeaus. (Go straight ahead.)  
+
+### Personal Pronouns
+
+#### Pronouns in German 
+
+| **German** | **English**       | **Italian** | **Notes**                                   |  
+|-----------|-------------------|-------------|--------------------------------------------|  
+| ich       | I                 | io          |                                            |  
+| du        | you (informal)    | tu          | Used with friends, family, or peers.       |  
+| er        | he                | lui         |                                            |  
+| sie       | she               | lei         |                                            |  
+| es        | it                | esso/essa   |                                            |  
+| wir       | we                | noi         |                                            |  
+| ihr       | you (plural)      | voi         | Informal, addressing a group.              |  
+| sie       | they              | loro        |                                            |  
+| Sie       | you (formal)      | Lei         | Formal, singular or plural.                |  
+
+#### Duzen and Siezen
+
+- **Duzen** means using **du** (informal "you") when addressing someone.  
+  Example:  
+  - **Du kannst mich duzen.**  
+    *(You can use “du” with me.)*  
+    → This is an invitation to speak informally.  
+
+- **Siezen** means using **Sie** (formal "you") when addressing someone.  
+  Example:  
+  - **Bitte siezen Sie mich.**  
+    *(Please use “Sie” with me.)*  
+    → This is a request to maintain formality.  
+
+#### When to Use Du vs. Sie
+
+- Use **du** with:  
+  - Friends, family, children, and peers.  
+  - People who explicitly invite you to use **du**.  
+
+- Use **Sie** with:  
+  - Strangers, elders, professionals, and in formal settings.  
+  - People you don’t know well or who are in a position of authority.  
+
+---
+
+### Reflexive Pronouns
+
+Used with reflexive verbs (e.g., *sich waschen* - to wash oneself). The pronoun reflects back to the subject.
+
+| **German** | **English**       | **Italian** | **Example**                   | **Translation** |
+|-----------|-------------------|-------------|-------------------------------|----------------|
+| mich      | myself            | mi          | Ich sehe **mich** im Spiegel. | I see myself in the mirror. |
+| dich      | yourself (informal)| ti          | Du interessierst **dich**.    | You are interested. |
+| sich      | himself/herself/itself | si   | Er freut **sich**.            | He is happy. |
+| uns       | ourselves         | ci          | Wir kümmern **uns** darum.    | We take care of it. |
+| euch      | yourselves        | vi          | Ihr beeilt **euch**.          | You hurry up. |
+| sich      | themselves/yourself (formal) | si | Sie bedanken **sich**. | They thank you. |
+
+---
+
+### Possessive Pronouns
+
+Indicate ownership. Must agree in gender and number with the noun they modify.
+
+| **German** | **English**       | **Italian** | **Example**                   | **Translation** |
+|-----------|-------------------|-------------|-------------------------------|----------------|
+| mein(e)   | my                | mio/mia     | **Mein** Auto ist neu.        | My car is new. |
+| dein(e)   | your (informal)   | tuo/tua     | Ist das **dein** Hund?        | Is that your dog? |
+| sein(e)   | his/its           | suo/sua     | **Sein** Haus ist groß.       | His house is big. |
+| ihr(e)    | her/its           | suo/sua     | **Ihre** Tasche ist rot.      | Her bag is red. |
+| unser(e)  | our               | nostro/nostra | **Unsere** Eltern sind nett.  | Our parents are nice. |
+| euer/eure | your (plural)     | vostro/vostra | Ist das **euer** Lehrer? | Is that your teacher? |
+| ihr(e)    | their             | loro        | **Ihre** Freunde kommen.      | Their friends are coming. |
+| Ihr(e)    | your (formal)     | Suo/Sua     | Ist das **Ihr** Buch?         | Is that your book? |
+
+---
+
+### Other Important Pronouns
+
+| **German** | **English**       | **Italian** | **Example**                   | **Translation** |
+|-----------|-------------------|-------------|-------------------------------|----------------|
+| dieser/diese/dieses | this      | questo/questa | **Diese** Blume ist schön. | This flower is beautiful. |
+| jener/jene/jenes    | that      | quello/quella | **Jener** Mann ist alt.   | That man is old. |
+| welcher/welche/welches | which  | quale         | **Welche** Farbe magst du? | Which color do you like? |
+| man       | one/people        | si (impersonal) | **Man** sagt das oft.     | People say that often. |
+| niemand   | nobody            | nessuno       | **Niemand** war da.        | Nobody was there. |
+| jemand    | somebody          | qualcuno      | **Jemand** ruft dich.      | Somebody is calling you. |
+| alle      | everyone/all      | tutti/tutte   | **Alle** sind gekommen.    | Everyone came. |
+| etwas     | something         | qualcosa      | Ich habe **etwas** gekauft.| I bought something. |
+| nichts    | nothing           | niente        | Ich weiß **nichts**.       | I know nothing. |
+
