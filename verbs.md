@@ -16,6 +16,7 @@
     - [Dialogue 3: Using Reflexive Verbs](#dialogue-3-using-reflexive-verbs)
   - [7. Common Verbs](#7-common-verbs)
     - [Essential Verbs for Beginners](#essential-verbs-for-beginners)
+  - [| **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) |  re\*\* in Italien |](#-geboren--to-be-born---nascere------ich-bin-geboren--du-bist-geboren--ich-bin-in-berlin-geboren-i-was-born-in-berlin---re-in-italien-)
     - [Notes on Verb Conjugation](#notes-on-verb-conjugation)
 
 
@@ -166,6 +167,7 @@ ___
 | **kochen**  | to cook     | cucinare    | ich koche / du kochst     | Sie **kocht** das Abendessen. (She is cooking dinner.) |  
 | **machen**  | to make/do  | fare        | ich mache / du machst     | Was **machst** du? (What are you doing?) |  
 | **wohnen**  | to live     | vivere      | ich wohne / du wohnst     | Ich **wohne** in Berlin. (I live in Berlin.) |  
+| **leben**   | to live     | vivere      | ich lebe / du lebst       | Sie **lebt** in Wien. (She lives in Vienna.) |  
 | **spielen** | to play     | giocare     | ich spiele / du spielst   | Die Kinder **spielen** im Park. (The children are playing in the park.) |  
 | **kaufen**  | to buy      | comprare    | ich kaufe / du kaufst     | Er **kauft** Brot. (He is buying bread.) |  
 | **parken**  | to park     | parcheggiare| ich parke / du parkst     | Wo kann ich **parken**? (Where can I park?) |  
@@ -174,7 +176,10 @@ ___
 | **lieben**  | to love     | amare       | ich liebe / du liebst     | Ich **liebe** dich. (I love you.) |  
 | **heißen**  | to be called| chiamarsi   | ich heiße / du heißt      | Wie **heißt** du? (What is your name?) |  
 | **hören**   | to hear/listen | ascoltare | ich höre / du hörst       | Ich **höre** Musik. (I am listening to music.) |  
-
+| **essen**   | to eat      | mangiare    | ich esse / du isst        | Ich **esse** Pizza. (I eat pizza.) |  
+| **geben**   | to give     | dare        | ich gebe / du gibst       | Ich **gebe** dir das Buch. (I give you the book.) |  
+| **sprechen**| to speak/talk | parlare    | ich spreche / du sprichst | Ich **spreche** Italienisch. (I speak Italian.) |  
+| **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) |  re** in Italien |  
 ---
 
 ### Notes on Verb Conjugation

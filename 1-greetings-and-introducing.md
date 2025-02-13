@@ -6,7 +6,7 @@
     - [Introducing Yourself](#introducing-yourself)
     - [Asking for Someone’s Name](#asking-for-someones-name)
     - [Vocabulary](#vocabulary)
-  - [2. Talking About Where You’re From](#2-talking-about-where-youre-from)
+  - [2. Talking About Where You’re From and Live](#2-talking-about-where-youre-from-and-live)
     - [Asking and Answering](#asking-and-answering)
   - [3. Asking How Someone Is](#3-asking-how-someone-is)
     - [Informal](#informal)
@@ -22,8 +22,6 @@
     - [Duzen and Siezen](#duzen-and-siezen)
     - [When to Use Du vs. Sie](#when-to-use-du-vs-sie)
   - [7. W-Wörter (W-words)](#7-w-wörter-w-words)
-    - [Key Question Words](#key-question-words)
-    - [Examples with Pronouns](#examples-with-pronouns)
     - [Grammar Note](#grammar-note-1)
   - [Common Expressions](#common-expressions)
     - [Politeness and Everyday Phrases](#politeness-and-everyday-phrases)
@@ -55,16 +53,19 @@
 
 ---
 
-### 2. Talking About Where You’re From
+### 2. Talking About Where You’re From and Live
 
 #### Asking and Answering  
 | **German**               | **English**               | **Italian**               | **Notes**                                   |  
 |--------------------------|--------------------------|--------------------------|--------------------------------------------|  
 | Woher kommst du?          | Where are you from?      | Di dove sei?             | Informal.                                  |  
 | Woher kommen Sie?         | Where are you from?      | Di dove è?               | Formal.                                    |  
-| Ich komme aus Italien.    | I come from Italy.       | Vengo dall’Italia.       |                                            |  
-| Ich komme aus der Schweiz.| I come from Switzerland. | Vengo dalla Svizzera.    |                                            |  
-| Ich komme aus den USA.    | I come from the USA.     | Vengo dagli Stati Uniti. |                                            |  
+| Ich komme aus Italien.    | I come from Italy.       | Vengo dall’Italia.       | Use "aus" for countries in German.         |  
+| Ich komme aus der Schweiz.| I come from Switzerland. | Vengo dalla Svizzera.    | "Der Schweiz" is feminine in German.       |  
+| Ich komme aus den USA.    | I come from the USA.     | Vengo dagli Stati Uniti. | "Den USA" is plural in German.             |  
+| Wo wohnst du?            | Where do you live?       | Dove vivi?               | Informal.                                  |  
+| Wo wohnen Sie?           | Where do you live?       | Dove vive?               | Formal.                                    |  
+| Ich wohne in Berlin.     | I live in Berlin.        | Vivo a Berlino.          | Use "in" for cities/countries in German.   |  
 
 ---
 
@@ -175,7 +176,6 @@
 
 ### 7. W-Wörter (W-words) 
 
-#### Key Question Words
 | **German**  | **English**   | **Italian**  | **Example**                               |  
 |------------|-------------|-------------|---------------------------------------|  
 | Wer        | Who?        | Chi?        | **Wer** ist das? (*Who is that?*)         |  
@@ -183,8 +183,8 @@
 | Woher      | Where from? | Da dove?    | **Woher** kommst du? (*Where are you from?*) |  
 | Wo         | Where?      | Dove?       | **Wo** bist du? (*Where are you?*)        |  
 | Was        | What?       | Cosa?       | **Was** machst du? (*What are you doing?*)|  
+| Welche     | Which?      | Quali?      | **Welche** Sprachen sprichst du? (*Which languages do you speak?*)|  
 
-#### Examples with Pronouns 
 - **Wer bist du?** *(Who are you?)* → Informal  
 - **Wer sind Sie?** *(Who are you?)* → Formal  
 
@@ -208,8 +208,9 @@ These expressions are essential for daily interactions in German. Pay attention 
 | **Bitte.**          | Please. / You’re welcome. / Here you go. | Prego. / Per favore. | Context determines meaning. Examples: **Bitte schön!** (Here you go!), **Bitte?** (Pardon?), **Danke! – Bitte!** (Thank you! – You’re welcome!). |  
 | **Danke.**          | Thank you.           | Grazie.             | Common in all situations.                  |  
 | **Nichts zu danken.**| You’re welcome.      | Non c'è di che.     | Literally: “Nothing to thank for.”         |  
-| **Gern geschehen.** | My pleasure.         | È stato un piacere. | A polite response to “Danke.”              |  
-
+| **Gern geschehen.** | My pleasure.         | È stato un piacere. | A polite response to “Danke.”       
+| **Können Sie das bitte wiederholen?** | Can you repeat please?         | Può ripetere per favore? | A polite way to ask to repeat what you just said            |  
+| **Wie ist deine Telefonnummer?** | What is your telephone number?         | Quale é il tuo numero di telefono? |    Also **Wie lautet deine Telefonnummer?**        |  
 
 ___
 
@@ -222,3 +223,4 @@ ___
 6. Was **machst** du heute? (What are you doing today?)  
 
 ---
+
