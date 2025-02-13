@@ -21,8 +21,7 @@
   - [6. Notes on Formality](#6-notes-on-formality)
     - [Duzen and Siezen](#duzen-and-siezen)
     - [When to Use Du vs. Sie](#when-to-use-du-vs-sie)
-  - [7. W-Wörter (W-words)](#7-w-wörter-w-words)
-    - [Grammar Note](#grammar-note-1)
+  - [7. Asking if someone is married](#7-asking-if-someone-is-married)
   - [Common Expressions](#common-expressions)
     - [Politeness and Everyday Phrases](#politeness-and-everyday-phrases)
   - [Practice Sentences](#practice-sentences)
@@ -174,27 +173,9 @@
   - People you don’t know well or who are in a position of authority.  
 ---
 
-### 7. W-Wörter (W-words) 
+### 7. Asking if someone is married
 
-| **German**  | **English**   | **Italian**  | **Example**                               |  
-|------------|-------------|-------------|---------------------------------------|  
-| Wer        | Who?        | Chi?        | **Wer** ist das? (*Who is that?*)         |  
-| Wie        | How?        | Come?       | **Wie** geht’s? (*How’s it going?*)       |  
-| Woher      | Where from? | Da dove?    | **Woher** kommst du? (*Where are you from?*) |  
-| Wo         | Where?      | Dove?       | **Wo** bist du? (*Where are you?*)        |  
-| Was        | What?       | Cosa?       | **Was** machst du? (*What are you doing?*)|  
-| Welche     | Which?      | Quali?      | **Welche** Sprachen sprichst du? (*Which languages do you speak?*)|  
-
-- **Wer bist du?** *(Who are you?)* → Informal  
-- **Wer sind Sie?** *(Who are you?)* → Formal  
-
-#### Grammar Note  
-- If you don’t hear what someone said, use **"Wie bitte?"** *(Excuse me?)* instead of **"Was?"** *(What?)*.  
-  Example:  
-  - **A**: Entschuldigung, wie bitte? *(Excuse me, what did you say?)*  
-  - **B**: Ich habe gesagt, „Guten Tag!“ *(I said, “Good day!”)*  
-
----
+___
 
 ### Common Expressions
 
