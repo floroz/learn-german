@@ -1,31 +1,29 @@
-## Begrüßen und Vorstellen (Greetings and Introducing)
-
+# Begrüßen und Vorstellen (Greetings and Introducing)
 
 - [Begrüßen und Vorstellen (Greetings and Introducing)](#begrüßen-und-vorstellen-greetings-and-introducing)
-  - [1. Name and Greetings](#1-name-and-greetings)
-    - [Introducing Yourself](#introducing-yourself)
-    - [Asking for Someone’s Name](#asking-for-someones-name)
-    - [Vocabulary](#vocabulary)
-  - [2. Talking About Where You’re From and Live](#2-talking-about-where-youre-from-and-live)
-    - [Asking and Answering](#asking-and-answering)
-  - [3. Asking How Someone Is](#3-asking-how-someone-is)
-    - [Informal](#informal)
-    - [Formal](#formal)
-    - [Grammar Note](#grammar-note)
-  - [4. Additional Useful Phrases](#4-additional-useful-phrases)
-    - [Greetings](#greetings)
-    - [Goodbyes](#goodbyes)
-  - [5. Practice Dialogues](#5-practice-dialogues)
-    - [Dialogue 1: Introducing Yourself](#dialogue-1-introducing-yourself)
-    - [Dialogue 2: Asking How Someone Is](#dialogue-2-asking-how-someone-is)
-  - [6. Notes on Formality](#6-notes-on-formality)
-    - [Duzen and Siezen](#duzen-and-siezen)
-    - [When to Use Du vs. Sie](#when-to-use-du-vs-sie)
-  - [7. Asking if someone is married](#7-asking-if-someone-is-married)
-  - [Common Expressions](#common-expressions)
-    - [Politeness and Everyday Phrases](#politeness-and-everyday-phrases)
-  - [Practice Sentences](#practice-sentences)
+    - [1. Name and Greetings](#1-name-and-greetings)
+      - [Introducing Yourself](#introducing-yourself)
+      - [Asking for Someone’s Name](#asking-for-someones-name)
+      - [Vocabulary](#vocabulary)
+    - [2. Talking About Where You’re From and Live](#2-talking-about-where-youre-from-and-live)
+      - [Asking and Answering](#asking-and-answering)
+    - [3. Asking How Someone Is](#3-asking-how-someone-is)
+      - [Informal](#informal)
+      - [Formal](#formal)
+      - [Grammar Note](#grammar-note)
+    - [4. Asking About Age](#4-asking-about-age)
+    - [5. Asking About Occupation](#5-asking-about-occupation)
+    - [6. Asking About Marital Status](#6-asking-about-marital-status)
+    - [7. Additional Useful Phrases](#7-additional-useful-phrases)
+      - [Greetings](#greetings)
+      - [Goodbyes](#goodbyes)
+    - [8. Practice Dialogues](#8-practice-dialogues)
+      - [Dialogue 1: Introducing Yourself](#dialogue-1-introducing-yourself)
+      - [Dialogue 2: Asking How Someone Is](#dialogue-2-asking-how-someone-is)
+    - [9. Notes on Formality](#9-notes-on-formality)
+    - [10. Cultural Notes](#10-cultural-notes)
 
+---
 
 ### 1. Name and Greetings
 
@@ -93,7 +91,38 @@
 
 ---
 
-### 4. Additional Useful Phrases  
+### 4. Asking About Age
+
+| **German**               | **English**               | **Italian**               | **Notes**                                   |  
+|--------------------------|--------------------------|--------------------------|--------------------------------------------|  
+| Wie alt bist du?          | How old are you?         | Quanti anni hai?         | Informal.                                  |  
+| Wie alt sind Sie?         | How old are you?         | Quanti anni ha?          | Formal.                                    |  
+| Ich bin ___ Jahre alt.    | I am ___ years old.      | Ho ___ anni.             |                                            |  
+
+---
+
+### 5. Asking About Occupation
+
+| **German**               | **English**               | **Italian**               | **Notes**                                   |  
+|--------------------------|--------------------------|--------------------------|--------------------------------------------|  
+| Was machst du beruflich?  | What do you do for a living? | Che lavoro fai?        | Informal.                                  |  
+| Was machen Sie beruflich? | What do you do for a living? | Che lavoro fa?         | Formal.                                    |  
+| Ich bin Lehrer/Lehrerin.  | I am a teacher.          | Sono insegnante.         |                                            |  
+
+---
+
+### 6. Asking About Marital Status
+
+| **German**               | **English**               | **Italian**               | **Notes**                                   |  
+|--------------------------|--------------------------|--------------------------|--------------------------------------------|  
+| Bist du verheiratet?      | Are you married?         | Sei sposato/a?           | Informal.                                  |  
+| Sind Sie verheiratet?     | Are you married?         | È sposato/a?             | Formal.                                    |  
+| Ich bin verheiratet.      | I am married.            | Sono sposato/a.          |                                            |  
+| Ich bin ledig.            | I am single.             | Sono single.             |                                            |  
+
+---
+
+### 7. Additional Useful Phrases  
 
 #### Greetings
 | **German**      | **English**         | **Italian**       | **Notes**                          |  
@@ -109,10 +138,11 @@
 | Tschüss!        | Bye!              | Ciao!         | Informal.                   |  
 | Auf Wiedersehen! | Goodbye!          | Arrivederci!  | Formal.                      |  
 | Bis bald!       | See you soon!      | A presto!     | Informal.                   |  
+| Bis später!     | See you later!     | A dopo!       | Informal.                   |  
 
 ---
 
-### 5. Practice Dialogues  
+### 8. Practice Dialogues  
 
 #### Dialogue 1: Introducing Yourself
 - **A**: Guten Tag! Wie heißen Sie?  
@@ -129,14 +159,14 @@
 #### Dialogue 2: Asking How Someone Is
 - **A**: Hallo! Wie geht’s?  
   *(Hi! How’s it going?)*  
-- **B**: Gut, und dir?  
-  *(Good, and you?)*  
+- **B**: Gut, und dir? Danke!  
+  *(Good, and you? Thanks!)*  
 - **A**: Sehr gut, danke!  
   *(Very good, thanks!)*  
 
 ---
 
-### 6. Notes on Formality
+### 9. Notes on Formality
 
 - **Du** is used for informal situations (friends, family, peers).  
 - **Sie** is used for formal situations (strangers, elders, professionals).  
@@ -148,60 +178,12 @@
 | Duzen     | To use "du" with someone     | Dare del "tu"    | Becoming informal with someone.              |  
 | Siezen    | To use "Sie" with someone    | Dare del "Lei"   | Keeping the formal "Sie" form.               |  
 
-#### Duzen and Siezen
-
-- **Duzen** means using **du** (informal "you") when addressing someone.  
-  Example:  
-  - **Du kannst mich duzen.**  
-    *(You can use “du” with me.)*  
-    → This is an invitation to speak informally.  
-
-- **Siezen** means using **Sie** (formal "you") when addressing someone.  
-  Example:  
-  - **Bitte siezen Sie mich.**  
-    *(Please use “Sie” with me.)*  
-    → This is a request to maintain formality.  
-
-#### When to Use Du vs. Sie
-
-- Use **du** with:  
-  - Friends, family, children, and peers.  
-  - People who explicitly invite you to use **du**.  
-
-- Use **Sie** with:  
-  - Strangers, elders, professionals, and in formal settings.  
-  - People you don’t know well or who are in a position of authority.  
 ---
 
-### 7. Asking if someone is married
+### 10. Cultural Notes
 
-___
-
-### Common Expressions
-
-#### Politeness and Everyday Phrases
-These expressions are essential for daily interactions in German. Pay attention to context, as some phrases have multiple meanings.
-
-| **German**         | **English**          | **Italian**         | **Notes**                                   |  
-|---------------------|----------------------|---------------------|--------------------------------------------|  
-| **Entschuldigung!** | Excuse me! / I’m sorry! | Scusa! / Mi dispiace! | Use to apologize or get someone’s attention. |  
-| **Tut mir leid.**   | I’m sorry.           | Mi dispiace.        | A more personal way to apologize.          |  
-| **Bitte.**          | Please. / You’re welcome. / Here you go. | Prego. / Per favore. | Context determines meaning. Examples: **Bitte schön!** (Here you go!), **Bitte?** (Pardon?), **Danke! – Bitte!** (Thank you! – You’re welcome!). |  
-| **Danke.**          | Thank you.           | Grazie.             | Common in all situations.                  |  
-| **Nichts zu danken.**| You’re welcome.      | Non c'è di che.     | Literally: “Nothing to thank for.”         |  
-| **Gern geschehen.** | My pleasure.         | È stato un piacere. | A polite response to “Danke.”       
-| **Können Sie das bitte wiederholen?** | Can you repeat please?         | Può ripetere per favore? | A polite way to ask to repeat what you just said            |  
-| **Wie ist deine Telefonnummer?** | What is your telephone number?         | Quale é il tuo numero di telefono? |    Also **Wie lautet deine Telefonnummer?**        |  
-
-___
-
-### Practice Sentences
-1. **Entschuldigung**, wo ist die Toilette? (Excuse me, where is the bathroom?)  
-2. **Tut mir leid**, ich habe keine Zeit. (I’m sorry, I don’t have time.)  
-3. **Bitte** helfen Sie mir! (Please help me!)  
-4. **Danke** für das Geschenk! (Thank you for the gift!)  
-5. Ich **wohne** in Rom. (I live in Rome.)  
-6. Was **machst** du heute? (What are you doing today?)  
+- **Handshakes**: A firm handshake is common when greeting someone in formal settings.
+- **Eye Contact**: Maintaining eye contact during conversations is considered polite.
+- **Punctuality**: Being on time is highly valued in German-speaking countries.
 
 ---
-
