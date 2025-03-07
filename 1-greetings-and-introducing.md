@@ -23,6 +23,7 @@
     - [9. Notes on Formality](#9-notes-on-formality)
     - [10. Cultural Notes](#10-cultural-notes)
 
+
 ---
 
 ### 1. Name and Greetings
