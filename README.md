@@ -6,6 +6,17 @@ Welcome to your personal German language learning repository! This space is desi
 
 We are currently focusing on A1 topics. As you progress, this document will be updated to reflect your journey.
 
+## Processing Temporary Notes (tmp.md)
+
+When new notes are added to `tmp.md`, follow these steps:
+
+1.  **Read the entire 'tmp.md' file.**
+2.  **Understand and categorize all the elements in there.**
+3.  **Review whether the new learnings are already included in other files.**
+4.  **Abstract away from the notes into creating a structured learning.** For example, if it's a list of verbs, some should go into `verbs.md`, or new examples should be added to existing files (e.g., a verb about eating should generate an example in `3-eating-and-drinking.md`).
+5.  **Ensure all spelling is correct.**
+6.  **Synthesize the content to avoid redundancy.**
+
 ## Table of Contents
 
 ### A1 Topics
