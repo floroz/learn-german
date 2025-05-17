@@ -16,6 +16,10 @@
       - [4.2. Describing Location](#42-describing-location)
       - [4.3. Asking about Qualities](#43-asking-about-qualities)
       - [4.4. Other Useful Phrases](#44-other-useful-phrases)
+    - [4.4 Asking about liking something](#44-asking-about-liking-something)
+      - [Asking about liking something](#asking-about-liking-something)
+      - [Responding to "Wie gefällt...?"](#responding-to-wie-gefällt)
+      - [Note](#note)
     - [5. Grammar Notes](#5-grammar-notes)
 
 ---
@@ -172,6 +176,32 @@ Use "Wie ist...?" (How is...?) / "Com'è...?" (How is...?) to ask about the qual
 *   **Hat Steffi ein neues Haus?** (Does Steffi have a new house?) / **Steffi ha una casa nuova?**
 
 ---
+
+### 4.4 Asking about liking something
+
+#### Asking about liking something
+
+*   Wie gefällt dir meine Wohnung? (How do you like my apartment?)
+*   Wie gefällt Ihnen meine Wohnung? (How do you like my apartment?) - Formal
+*   Wie gefällt dir das Sofa? (How do you like the sofa?)
+*   Wie gefällt dir der Tisch? (How do you like the table?)
+*   Wie gefallen dir die Stühle? (How do you like the chairs?) - Plural
+
+#### Responding to "Wie gefällt...?"
+
+*   Es gefällt mir. / Das gefällt mir. (I like it.)
+*   Es gefällt mir sehr. / Das gefällt mir sehr. (I like it very much.)
+*   Es gefällt mir sehr gut. / Das gefällt mir sehr gut. (I like it very much.)
+*   Es gefällt mir nicht. / Das gefällt mir nicht. (I don't like it.)
+*   Es gefällt mir nicht so gut. / Das gefällt mir nicht so gut. (I don't like it so much.)
+*   Es gefällt mir überhaupt nicht. / Das gefällt mir überhaupt nicht. (I don't like it at all.)
+
+#### Note
+"gefällt" is used for singular nouns (e.g., das Sofa, der Tisch, die Wohnung).
+"gefallen" is used for plural nouns (e.g., die Stühle).
+
+---
+
 
 ### 5. Grammar Notes
 

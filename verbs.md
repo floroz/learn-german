@@ -234,29 +234,9 @@ The conjugated auxiliary verb (**haben** or **sein**) is in the second position,
 | **essen**   | to eat      | mangiare    | ich esse / du isst        | Ich **esse** Pizza. (I eat pizza.) |  
 | **geben**   | to give     | dare        | ich gebe / du gibst       | Ich **gebe** dir das Buch. (I give you the book.) |  
 | **sprechen**| to speak/talk | parlare    | ich spreche / du sprichst | Ich **spreche** Italienisch. (I speak Italian.) |
-| **gefallen**| to please     | piacere     | ich gefalle / du gefällst | Wie **gefällt** dir das Sofa? (How do you like the sofa?) |
+| **gefallen**| to please     | piacere     | ich gefalle / du gefällst | See examples in "4-home-and-living.md" |
 | **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) |  re** in Italien |
 ---
-
-*Note on "gefallen":*
-"gefallen" means "to please". It's often used in the construction "Wie gefällt...?", which translates to "How do you like...?".
-
-Here are some examples:
-
-*   Wie gefällt dir...? (How do you like...?) - Informal
-*   Wie gefallen dir...? (How do you like...?) - Informal (plural)
-*   Wie gefällt Ihnen...? (How do you like...?) - Formal
-
-"gefällt" is the 3rd person singular form of "gefallen". "gefallen" is used in the infinitive or plural forms.
-
-Examples:
-
-*   Es gefällt mir. (I like it.)
-*   Es gefällt mir sehr. (I like it very much.)
-*   Es gefällt mir sehr gut. (I like it very much.)
-*   Es gefällt mir nicht. (I don't like it.)
-*   Es gefällt mir nicht so gut. (I don't like it so much.)
-*   Es gefällt mir überhaupt nicht. (I don't like it at all.)
 
 
 ### Notes on Verb Conjugation (Present Tense Focus)
