@@ -1,24 +1,24 @@
 # Noun Genders between German and Italian
 
 - [Noun Genders between German and Italian](#noun-genders-between-german-and-italian)
-  - [**1. Words Ending in -e Are Often Feminine in German but Not in Italian**](#1-words-ending-in--e-are-often-feminine-in-german-but-not-in-italian)
-    - [**Examples:**](#examples)
-  - [**2. German Neuter Nouns (Das) Can Be Either Masculine or Feminine in Italian**](#2-german-neuter-nouns-das-can-be-either-masculine-or-feminine-in-italian)
-    - [**Examples:**](#examples-1)
-  - [**3. Nature and Astronomy Words Often Flip Gender**](#3-nature-and-astronomy-words-often-flip-gender)
-  - [**4. Greek-Origin Words Often Stay Masculine in Italian but Change in German**](#4-greek-origin-words-often-stay-masculine-in-italian-but-change-in-german)
-  - [**5. Food Words Can Be Unpredictable**](#5-food-words-can-be-unpredictable)
-  - [**6. Some German Masculine Words Are Feminine in Italian**](#6-some-german-masculine-words-are-feminine-in-italian)
-  - [**How to Spot These Faster?**](#how-to-spot-these-faster)
+  - [1. Words Ending in -e Are Often Feminine in German but Not in Italian](#1-words-ending-in--e-are-often-feminine-in-german-but-not-in-italian)
+    - [Examples:](#examples)
+  - [2. German Neuter Nouns (Das) Can Be Either Masculine or Feminine in Italian](#2-german-neuter-nouns-das-can-be-either-masculine-or-feminine-in-italian)
+    - [Examples:](#examples-1)
+  - [3. Nature and Astronomy Words Often Flip Gender](#3-nature-and-astronomy-words-often-flip-gender)
+  - [4. Greek-Origin Words Often Stay Masculine in Italian but Change in German](#4-greek-origin-words-often-stay-masculine-in-italian-but-change-in-german)
+  - [5. Food Words Can Be Unpredictable](#5-food-words-can-be-unpredictable)
+  - [6. Some German Masculine Words Are Feminine in Italian](#6-some-german-masculine-words-are-feminine-in-italian)
+  - [How to Spot These Faster?](#how-to-spot-these-faster)
 
 
 There isn't a perfect one-to-one match between German and Italian grammatical genders. While linguistic studies and observed patterns can give an idea of correspondence, the exact percentage of mismatches can vary. For an Italian speaker learning German, it's common to encounter a notable number of gender differences (sometimes estimated in the range of 15-20%, though this is a general approximation). Spotting these can be tricky, but there are some **patterns and signals** that can help you anticipate them. Here’s how you can identify potential mismatches more easily:
 
 ---
 
-## **1. Words Ending in -e Are Often Feminine in German but Not in Italian**  
+## 1. Words Ending in -e Are Often Feminine in German but Not in Italian
 Many **German nouns ending in -e are feminine**, while their Italian equivalents are masculine.  
-### **Examples:**  
+### Examples:
 - **Die Blume** (feminine) → **Il fiore** (masculine)  
 - **Die Schlange** (feminine) → **Il serpente** (masculine)  
 - **Die Brücke** (feminine) → **Il ponte** (masculine)  
@@ -28,10 +28,10 @@ Many **German nouns ending in -e are feminine**, while their Italian equivalents
 
 ---
 
-## **2. German Neuter Nouns (Das) Can Be Either Masculine or Feminine in Italian**  
+## 2. German Neuter Nouns (Das) Can Be Either Masculine or Feminine in Italian
 Since Italian has no **neuter gender**, German **neuter nouns (das)** can shift to either **masculine or feminine** in Italian.  
 
-### **Examples:**  
+### Examples:
 - **Das Mädchen** (neuter) → **La ragazza** (feminine)  
 - **Das Messer** (neuter) → **Il coltello** (masculine)  
 - **Das Herz** (neuter) → **Il cuore** (masculine)  
@@ -41,7 +41,7 @@ Since Italian has no **neuter gender**, German **neuter nouns (das)** can shift 
 
 ---
 
-## **3. Nature and Astronomy Words Often Flip Gender**  
+## 3. Nature and Astronomy Words Often Flip Gender
 Many words related to natural elements, celestial bodies, and time **swap gender between German and Italian**.  
 
 **Examples:**  
@@ -54,7 +54,7 @@ Many words related to natural elements, celestial bodies, and time **swap gender
 
 ---
 
-## **4. Greek-Origin Words Often Stay Masculine in Italian but Change in German**  
+## 4. Greek-Origin Words Often Stay Masculine in Italian but Change in German
 Many **Greek-origin words** that end in **-ma, -ta, -pa** stay **masculine in Italian** but **become neuter in German** (even though they seem masculine).  
 
 **Examples:**  
@@ -66,7 +66,7 @@ Many **Greek-origin words** that end in **-ma, -ta, -pa** stay **masculine in It
 
 ---
 
-## **5. Food Words Can Be Unpredictable**  
+## 5. Food Words Can Be Unpredictable
 Many **food names** (fruits, vegetables, drinks) don’t follow gender logic and often **don’t match** between German and Italian.  
 
 **Examples:**  
@@ -79,7 +79,7 @@ Many **food names** (fruits, vegetables, drinks) don’t follow gender logic and
 
 ---
 
-## **6. Some German Masculine Words Are Feminine in Italian**  
+## 6. Some German Masculine Words Are Feminine in Italian
 Some **random objects and abstract concepts** are **masculine in German** but **feminine in Italian** (and vice versa).  
 
 **Examples:**  
@@ -92,7 +92,7 @@ Some **random objects and abstract concepts** are **masculine in German** but **
 
 ---
 
-## **How to Spot These Faster?**
+## How to Spot These Faster?
 1. **Look for patterns in endings** (e.g., -e in German = often feminine, -ma in Italian = often masculine).  
 2. **Be careful with neuter German words ("das"), as they have no clear equivalent in Italian.**  
 3. **Watch for category-based mismatches**, especially **nature, celestial bodies, Greek-origin words, and food names**.  

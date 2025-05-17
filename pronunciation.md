@@ -1,20 +1,20 @@
 
 - [Aussprache](#aussprache)
   - ["ch"](#ch)
-    - [**1. Soft "ch" \[ç\] (like a hiss)**](#1-soft-ch-ç-like-a-hiss)
-    - [**2. Harsh "ch" \[x\] (like clearing your throat)**](#2-harsh-ch-x-like-clearing-your-throat)
-    - [**3. "ch" at the Beginning of Words**](#3-ch-at-the-beginning-of-words)
-    - [**4. "ch" in Loanwords**](#4-ch-in-loanwords)
-    - [**5. Special Cases**](#5-special-cases)
-    - [**Quick Summary Table**](#quick-summary-table)
-  - [Diphthongs and Complex Phonetics\*\*](#diphthongs-and-complex-phonetics)
-      - [**Diphthongs**](#diphthongs)
-      - [**Vowel Length**](#vowel-length)
-      - [**Umlauts (Ä, Ö, Ü)**](#umlauts-ä-ö-ü)
-      - [**Consonant Clusters**](#consonant-clusters)
-      - [**The Glottal Stop**](#the-glottal-stop)
-      - [**R-Sounds**](#r-sounds)
-    - [**Quick Summary Table**](#quick-summary-table-1)
+    - [1. Soft "ch" \[ç\] (like a hiss)](#1-soft-ch-ç-like-a-hiss)
+    - [2. Harsh "ch" \[x\] (like clearing your throat)](#2-harsh-ch-x-like-clearing-your-throat)
+    - [3. "ch" at the Beginning of Words](#3-ch-at-the-beginning-of-words)
+    - [4. "ch" in Loanwords](#4-ch-in-loanwords)
+    - [5. Special Cases](#5-special-cases)
+    - [Quick Summary Table](#quick-summary-table)
+  - [Diphthongs and Complex Phonetics](#diphthongs-and-complex-phonetics)
+      - [Diphthongs](#diphthongs)
+      - [Vowel Length](#vowel-length)
+      - [Umlauts (Ä, Ö, Ü)](#umlauts-ä-ö-ü)
+      - [Consonant Clusters](#consonant-clusters)
+      - [The Glottal Stop](#the-glottal-stop)
+      - [R-Sounds](#r-sounds)
+    - [Quick Summary Table](#quick-summary-table-1)
 
 # Aussprache
 
@@ -24,7 +24,7 @@ In German, the pronunciation of **"ch"** changes depending on its position in a 
 
 ---
 
-### **1. Soft "ch" [ç] (like a hiss)**
+### 1. Soft "ch" [ç] (like a hiss)
 - **After front vowels**: **e, i, ä, ö, ü, eu/äu**  
   | **German** | **IPA**  | **English**       | **Example**              |  
   |------------|----------|-------------------|--------------------------|  
@@ -41,7 +41,7 @@ In German, the pronunciation of **"ch"** changes depending on its position in a 
 
 ---
 
-### **2. Harsh "ch" [x] (like clearing your throat)**
+### 2. Harsh "ch" [x] (like clearing your throat)
 - **After back vowels**: **a, o, u, au**  
   | **German** | **IPA**  | **English**       | **Example**               |  
   |------------|----------|-------------------|---------------------------|  
@@ -52,7 +52,7 @@ In German, the pronunciation of **"ch"** changes depending on its position in a 
 
 ---
 
-### **3. "ch" at the Beginning of Words**
+### 3. "ch" at the Beginning of Words
 - Usually pronounced [ç], like the soft "ch":  
   | **German** | **IPA**    | **English**       | **Example**               |  
   |------------|------------|-------------------|---------------------------|  
@@ -66,7 +66,7 @@ In German, the pronunciation of **"ch"** changes depending on its position in a 
 
 ---
 
-### **4. "ch" in Loanwords**
+### 4. "ch" in Loanwords
 - Pronounced [k] or [ʃ] (like English "sh"):  
   | **German**   | **IPA**    | **English**       | **Example**                |  
   |--------------|------------|-------------------|----------------------------|  
@@ -75,7 +75,7 @@ In German, the pronunciation of **"ch"** changes depending on its position in a 
 
 ---
 
-### **5. Special Cases**
+### 5. Special Cases
 - **"-chen" diminutive suffix**: Always soft [ç], even after back vowels:  
   | **German** | **IPA**     | **English**       | **Example**               |  
   |------------|-------------|-------------------|---------------------------|  
@@ -90,7 +90,7 @@ In German, the pronunciation of **"ch"** changes depending on its position in a 
 
 ---
 
-### **Quick Summary Table**
+### Quick Summary Table
 | **Context**                | **Pronunciation** | **Example**       |  
 |----------------------------|-------------------|-------------------|  
 | After **e, i, ä, ö, ü**    | [ç] (soft)        | **ich**, **Bücher** |  
@@ -101,9 +101,9 @@ In German, the pronunciation of **"ch"** changes depending on its position in a 
 
 ---
 
-##  Diphthongs and Complex Phonetics**
+##  Diphthongs and Complex Phonetics
 
-#### **Diphthongs**  
+#### Diphthongs
 Diphthongs are combinations of two vowel sounds within the same syllable. German has three main diphthongs:
 
 | **Diphthong** | **IPA**  | **English Equivalent** | **German Example**       | **English Translation** | **Italian Translation** |  
@@ -118,7 +118,7 @@ Diphthongs are combinations of two vowel sounds within the same syllable. German
 
 ---
 
-#### **Vowel Length**  
+#### Vowel Length
 German vowels can be **short** or **long**, and the length changes the meaning of words.  
 
 | **Vowel** | **Short (IPA)** | **Long (IPA)** | **Example (Short)** | **Example (Long)** |  
@@ -135,7 +135,7 @@ German vowels can be **short** or **long**, and the length changes the meaning o
 
 ---
 
-#### **Umlauts (Ä, Ö, Ü)**  
+#### Umlauts (Ä, Ö, Ü)
 Umlauts change the pronunciation of vowels and often indicate grammatical changes (e.g., plural forms).  
 
 | **Umlaut** | **IPA**  | **English Equivalent** | **German Example**       | **English Translation** | **Italian Translation** |  
@@ -151,7 +151,7 @@ Umlauts change the pronunciation of vowels and often indicate grammatical change
 
 ---
 
-#### **Consonant Clusters**  
+#### Consonant Clusters
 Certain consonant combinations have unique pronunciations:  
 
 | **Cluster** | **IPA**  | **English Equivalent** | **German Example**       | **English Translation** | **Italian Translation** |  
@@ -168,7 +168,7 @@ Certain consonant combinations have unique pronunciations:
 
 ---
 
-#### **The Glottal Stop**  
+#### The Glottal Stop
 The glottal stop [ʔ] occurs before vowels at the beginning of words or syllables.  
 
 | **German** | **IPA**      | **English Translation** | **Italian Translation** |  
@@ -181,7 +181,7 @@ The glottal stop [ʔ] occurs before vowels at the beginning of words or syllable
 
 ---
 
-#### **R-Sounds**  
+#### R-Sounds
 The German **r** can be pronounced in two ways:  
 1. **Guttural "r"** [ʁ] (common in standard German):  
    - **rot** [ʁoːt] (red).  
@@ -196,7 +196,7 @@ The German **r** can be pronounced in two ways:
 
 ---
 
-### **Quick Summary Table**
+### Quick Summary Table
 | **Phonetic Feature** | **IPA**  | **Example**       | **English Translation** | **Italian Translation** |  
 |-----------------------|----------|-------------------|-------------------------|-------------------------|  
 | **au**                | [aʊ]     | **Haus**          | house                   | casa                    |  

@@ -1,6 +1,6 @@
-### **Pronouns**
+### Pronouns
 
-#### **Personal Pronouns**
+#### Personal Pronouns
 
 | **German** | **English**       | **Italian** | **Notes**                                   |  
 |------------|-------------------|-------------|--------------------------------------------|  
@@ -21,7 +21,7 @@
 
 ---
 
-#### **Reflexive Pronouns**
+#### Reflexive Pronouns
 
 Reflexive pronouns are used with reflexive verbs (e.g., *sich freuen* - to be happy). They reflect back to the subject and must match the subject in person and number.
 
@@ -40,7 +40,7 @@ Reflexive pronouns are used with reflexive verbs (e.g., *sich freuen* - to be ha
 
 ---
 
-#### **Possessive Pronouns**
+#### Possessive Pronouns
 
 Possessive pronouns indicate ownership and must agree in **gender**, **number**, and **case** with the noun they modify.  
 
@@ -69,7 +69,7 @@ Possessive pronouns indicate ownership and must agree in **gender**, **number**,
 
 ---
 
-#### **Demonstrative Pronouns**
+#### Demonstrative Pronouns
 
 Demonstrative pronouns (this, that) must agree in gender and number with the noun they replace.
 
@@ -86,7 +86,7 @@ Demonstrative pronouns (this, that) must agree in gender and number with the nou
 
 ---
 
-#### **Indefinite Pronouns**
+#### Indefinite Pronouns
 
 Indefinite pronouns refer to non-specific people or things.
 
@@ -105,7 +105,7 @@ Indefinite pronouns refer to non-specific people or things.
 
 ---
 
-#### **Relative Pronouns**
+#### Relative Pronouns
 
 Relative pronouns (who, which, that) introduce relative clauses and agree in gender and number with the noun they refer to.
 

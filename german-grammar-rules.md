@@ -1,32 +1,32 @@
 ## German Grammar rules for A1/A2
 
 - [German Grammar rules for A1/A2](#german-grammar-rules-for-a1a2)
-  - [**1. Nouns and Gender**](#1-nouns-and-gender)
+  - [1. Nouns and Gender](#1-nouns-and-gender)
     - [Common Gender Rules](#common-gender-rules)
 - [There are exceptions, so it’s best to learn the article with each noun!](#there-are-exceptions-so-its-best-to-learn-the-article-with-each-noun)
-  - [**2. Pronouns**](#2-pronouns)
-    - [**Personal Pronouns (Nominative Case)**](#personal-pronouns-nominative-case)
-  - [**3. Verbs**](#3-verbs)
-    - [**Regular Verb Conjugation (Present Tense)**](#regular-verb-conjugation-present-tense)
-    - [**Modal Verbs**](#modal-verbs)
-  - [**4. Articles and Cases**](#4-articles-and-cases)
-    - [**Definite Articles**](#definite-articles)
-    - [**Indefinite Articles (Nominative \& Accusative)**](#indefinite-articles-nominative--accusative)
-    - [**Basic Adjective Endings (Nominative \& Accusative - A1 Focus)**](#basic-adjective-endings-nominative--accusative---a1-focus)
-  - [**5. Sentence Structure**](#5-sentence-structure)
-    - [**Main Clauses**](#main-clauses)
-    - [**Questions**](#questions)
-  - [**6. Negation**](#6-negation)
-  - [**7. Prepositions**](#7-prepositions)
-  - [**8. Numbers and Time**](#8-numbers-and-time)
-    - [**Numbers 1-10**](#numbers-1-10)
-    - [**Telling Time**](#telling-time)
-  - [**9. Common Phrases**](#9-common-phrases)
-    - [**Greetings**](#greetings)
-    - [**Shopping**](#shopping)
-  - [**10. Practice Dialogues**](#10-practice-dialogues)
-    - [**At a Café**](#at-a-café)
-    - [**Asking for Directions**](#asking-for-directions)
+  - [2. Pronouns](#2-pronouns)
+    - [Personal Pronouns (Nominative Case)](#personal-pronouns-nominative-case)
+  - [3. Verbs](#3-verbs)
+    - [Regular Verb Conjugation (Present Tense)](#regular-verb-conjugation-present-tense)
+    - [Modal Verbs](#modal-verbs)
+  - [4. Articles and Cases](#4-articles-and-cases)
+    - [Definite Articles](#definite-articles)
+    - [Indefinite Articles (Nominative \& Accusative)](#indefinite-articles-nominative--accusative)
+    - [Basic Adjective Endings (Nominative \& Accusative - A1 Focus)](#basic-adjective-endings-nominative--accusative---a1-focus)
+  - [5. Sentence Structure](#5-sentence-structure)
+    - [Main Clauses](#main-clauses)
+    - [Questions](#questions)
+  - [6. Negation](#6-negation)
+  - [7. Prepositions](#7-prepositions)
+  - [8. Numbers and Time](#8-numbers-and-time)
+    - [Numbers 1-10](#numbers-1-10)
+    - [Telling Time](#telling-time)
+  - [9. Common Phrases](#9-common-phrases)
+    - [Greetings](#greetings)
+    - [Shopping](#shopping)
+  - [10. Practice Dialogues](#10-practice-dialogues)
+    - [At a Café](#at-a-café)
+    - [Asking for Directions](#asking-for-directions)
   - [Personal Pronouns](#personal-pronouns)
     - [Pronouns in German](#pronouns-in-german)
     - [Duzen and Siezen](#duzen-and-siezen)
@@ -36,7 +36,7 @@
   - [Other Important Pronouns](#other-important-pronouns)
 
 
-### **1. Nouns and Gender**  
+### 1. Nouns and Gender
 All German nouns are capitalized and have one of three genders: **masculine (der)**, **feminine (die)**, or **neuter (das)**.  
 
 | **German**         | **English**       | **Italian**       | **Example**                                | **Notes**                      |  
@@ -70,10 +70,10 @@ There are some rules and patterns to help determine the gender of a noun.
 There are exceptions, so it’s best to learn the article with each noun!
 ---
 
-### **2. Pronouns**  
+### 2. Pronouns
 Pronouns replace nouns and change based on **case** (nominative, accusative, dative).  
 
-#### **Personal Pronouns (Nominative Case)**  
+#### Personal Pronouns (Nominative Case)
 | **German** | **English** | **Italian** | **Example**                          |  
 |------------|-------------|-------------|---------------------------------------|  
 | ich        | I           | io          | **Ich** bin Student. (I am a student.) |  
@@ -89,8 +89,8 @@ Pronouns replace nouns and change based on **case** (nominative, accusative, dat
 
 ---
 
-### **3. Verbs**  
-#### **Regular Verb Conjugation (Present Tense)**  
+### 3. Verbs
+#### Regular Verb Conjugation (Present Tense)
 Example: **spielen** (to play)  
 
 | **Pronoun** | **German** | **English**      | **Italian**       |  
@@ -102,7 +102,7 @@ Example: **spielen** (to play)
 | ihr         | spielt     | you (pl.) play   | voi giocate       |  
 | sie/Sie     | spielen    | they/you (formal) play | loro/Lei giocano |  
 
-#### **Modal Verbs**  
+#### Modal Verbs
 | **German** | **English** | **Italian** | **Example**                                |  
 |------------|-------------|-------------|--------------------------------------------|  
 | können     | can         | potere       | Ich **kann** schwimmen. (I can swim.)      |  
@@ -111,10 +111,10 @@ Example: **spielen** (to play)
 
 ---
 
-### **4. Articles and Cases**  
+### 4. Articles and Cases
 German uses four cases: **nominative** (subject), **accusative** (direct object), **dative** (indirect object), and **genitive** (possession).  
 
-#### **Definite Articles**  
+#### Definite Articles
 | **Case**    | **Masculine** | **Feminine** | **Neuter** | **Plural** |  
 |-------------|---------------|--------------|------------|------------|  
 | Nominative  | der           | die          | das        | die        |  
@@ -126,7 +126,7 @@ German uses four cases: **nominative** (subject), **accusative** (direct object)
 - Accusative: Ich sehe **den Hund**. (I see the dog.)  
 - Dative: Ich gebe **dem Hund** Essen. (I give the dog food.)  
 
-#### **Indefinite Articles (Nominative & Accusative)**
+#### Indefinite Articles (Nominative & Accusative)
 Similar to definite articles, indefinite articles (**ein, eine, ein**) also change with case.
 | **Case**    | **Masculine** | **Feminine** | **Neuter** | **Plural** |
 |-------------|---------------|--------------|------------|------------|
@@ -137,7 +137,7 @@ Similar to definite articles, indefinite articles (**ein, eine, ein**) also chan
 - Nominative: **Ein Hund** bellt. (A dog barks.)
 - Accusative: Ich sehe **einen Hund**. (I see a dog.)
 
-#### **Basic Adjective Endings (Nominative & Accusative - A1 Focus)**
+#### Basic Adjective Endings (Nominative & Accusative - A1 Focus)
 Adjectives take endings that depend on the gender of the noun, the case, and whether a definite article (der, die, das), indefinite article (ein, eine, ein), or no article is used. For A1, we'll focus on common patterns with definite and indefinite articles.
 
 **With Definite Article (der, die, das):**
@@ -174,13 +174,13 @@ Adjectives take endings that depend on the gender of the noun, the case, and whe
 
 ---
 
-### **5. Sentence Structure**  
-#### **Main Clauses**  
+### 5. Sentence Structure
+#### Main Clauses
 - **Verb in second position**:  
   - **Ich** **lese** ein Buch. (I am reading a book.)  
   - **Heute** **gehe** ich ins Kino. (Today, I am going to the cinema.)  
 
-#### **Questions**  
+#### Questions
 - **Yes/No Questions**: Verb first.  
   - **Sprichst** du Deutsch? (Do you speak German?) → **Parli** tedesco?  
 - **W-Questions**: Question word + verb + subject.  
@@ -188,7 +188,7 @@ Adjectives take endings that depend on the gender of the noun, the case, and whe
 
 ---
 
-### **6. Negation**  
+### 6. Negation
 - **Nicht** (not) negates verbs or entire sentences:  
   - Ich verstehe **nicht**. (I don’t understand.) → Non capisco.  
 - **Kein** (no/none) replaces indefinite articles:  
@@ -196,7 +196,7 @@ Adjectives take endings that depend on the gender of the noun, the case, and whe
 
 ---
 
-### **7. Prepositions**  
+### 7. Prepositions
 Common prepositions with their cases:  
 
 | **Preposition** | **Case**  | **Example**                                |  
@@ -208,8 +208,8 @@ Common prepositions with their cases:
 
 ---
 
-### **8. Numbers and Time**  
-#### **Numbers 1-10**  
+### 8. Numbers and Time
+#### Numbers 1-10
 | **German** | **English** | **Italian** |  
 |------------|-------------|-------------|  
 | eins       | one         | uno         |  
@@ -217,15 +217,15 @@ Common prepositions with their cases:
 | drei       | three       | tre         |  
 | ...        | ...         | ...         |  
 
-#### **Telling Time**  
+#### Telling Time
 - **Wie spät ist es?** (What time is it?) → Che ore sono?  
   - Es ist **drei Uhr**. (It’s 3 o’clock.) → Sono le tre.  
   - Es ist **halb vier**. (It’s 3:30.) → Sono le tre e mezza.  
 
 ---
 
-### **9. Common Phrases**  
-#### **Greetings**  
+### 9. Common Phrases
+#### Greetings
 | **German**          | **English**          | **Italian**         | **Formality** |  
 |---------------------|----------------------|---------------------|---------------|  
 | Guten Morgen!       | Good morning!        | Buongiorno!         | Formal/Neutral|  
@@ -233,19 +233,19 @@ Common prepositions with their cases:
 | Wie geht’s?         | How are you?         | Come va?            | Informal      |  
 | Auf Wiedersehen!    | Goodbye!             | Arrivederci!        | Formal        |  
 
-#### **Shopping**  
+#### Shopping
 - **Wie viel kostet das?** (How much does this cost?) → Quanto costa?  
 - **Ich möchte zahlen.** (I’d like to pay.) → Vorrei pagare.  
 
 ---
 
-### **10. Practice Dialogues**  
-#### **At a Café**  
+### 10. Practice Dialogues
+#### At a Café
 - **A**: Guten Tag! Ich möchte einen Kaffee, bitte. (Good day! I’d like a coffee, please.)  
 - **B**: Mit Zucker? (With sugar?)  
 - **A**: Nein, danke. (No, thank you.)  
 
-#### **Asking for Directions**  
+#### Asking for Directions
 - **A**: Entschuldigung, wo ist der Bahnhof? (Excuse me, where is the train station?)  
 - **B**: Gehen Sie geradeaus. (Go straight ahead.)  
 
