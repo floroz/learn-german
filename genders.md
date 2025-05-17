@@ -12,9 +12,7 @@
   - [**How to Spot These Faster?**](#how-to-spot-these-faster)
 
 
-There isn't a perfect one-to-one match between German and Italian grammatical genders, but we can estimate how often German masculine + neuter correspond to Italian masculine and German feminine corresponds to Italian feminine based on linguistic studies and patterns.
-
-As an Italian learning German, spotting the **15-20% of gender mismatches** can be tricky, but there are some **patterns and signals** that can help you anticipate them. Here’s how you can identify potential mismatches more easily:  
+There isn't a perfect one-to-one match between German and Italian grammatical genders. While linguistic studies and observed patterns can give an idea of correspondence, the exact percentage of mismatches can vary. For an Italian speaker learning German, it's common to encounter a notable number of gender differences (sometimes estimated in the range of 15-20%, though this is a general approximation). Spotting these can be tricky, but there are some **patterns and signals** that can help you anticipate them. Here’s how you can identify potential mismatches more easily:
 
 ---
 

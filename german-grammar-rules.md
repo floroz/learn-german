@@ -3,6 +3,7 @@
 - [German Grammar rules for A1/A2](#german-grammar-rules-for-a1a2)
   - [**1. Nouns and Gender**](#1-nouns-and-gender)
     - [Common Gender Rules](#common-gender-rules)
+- [There are exceptions, so it’s best to learn the article with each noun!](#there-are-exceptions-so-its-best-to-learn-the-article-with-each-noun)
   - [**2. Pronouns**](#2-pronouns)
     - [**Personal Pronouns (Nominative Case)**](#personal-pronouns-nominative-case)
   - [**3. Verbs**](#3-verbs)
@@ -10,6 +11,8 @@
     - [**Modal Verbs**](#modal-verbs)
   - [**4. Articles and Cases**](#4-articles-and-cases)
     - [**Definite Articles**](#definite-articles)
+    - [**Indefinite Articles (Nominative \& Accusative)**](#indefinite-articles-nominative--accusative)
+    - [**Basic Adjective Endings (Nominative \& Accusative - A1 Focus)**](#basic-adjective-endings-nominative--accusative---a1-focus)
   - [**5. Sentence Structure**](#5-sentence-structure)
     - [**Main Clauses**](#main-clauses)
     - [**Questions**](#questions)
@@ -65,7 +68,7 @@ There are some rules and patterns to help determine the gender of a noun.
   - Most Latin-based words (**das Museum**, **das Zentrum** – the center).  
 
 There are exceptions, so it’s best to learn the article with each noun!
-___
+---
 
 ### **2. Pronouns**  
 Pronouns replace nouns and change based on **case** (nominative, accusative, dative).  
@@ -122,6 +125,52 @@ German uses four cases: **nominative** (subject), **accusative** (direct object)
 - Nominative: **Der Hund** bellt. (The dog barks.)  
 - Accusative: Ich sehe **den Hund**. (I see the dog.)  
 - Dative: Ich gebe **dem Hund** Essen. (I give the dog food.)  
+
+#### **Indefinite Articles (Nominative & Accusative)**
+Similar to definite articles, indefinite articles (**ein, eine, ein**) also change with case.
+| **Case**    | **Masculine** | **Feminine** | **Neuter** | **Plural** |
+|-------------|---------------|--------------|------------|------------|
+| Nominative  | ein           | eine         | ein        | keine      |
+| Accusative  | einen         | eine         | ein        | keine      |
+
+**Example**:
+- Nominative: **Ein Hund** bellt. (A dog barks.)
+- Accusative: Ich sehe **einen Hund**. (I see a dog.)
+
+#### **Basic Adjective Endings (Nominative & Accusative - A1 Focus)**
+Adjectives take endings that depend on the gender of the noun, the case, and whether a definite article (der, die, das), indefinite article (ein, eine, ein), or no article is used. For A1, we'll focus on common patterns with definite and indefinite articles.
+
+**With Definite Article (der, die, das):**
+*   **Nominative:**
+    *   Masculine: der gut**e** Mann (the good man)
+    *   Feminine: die gut**e** Frau (the good woman)
+    *   Neuter: das gut**e** Kind (the good child)
+    *   Plural: die gut**en** Leute (the good people)
+*   **Accusative:**
+    *   Masculine: den gut**en** Mann (the good man)
+    *   Feminine: die gut**e** Frau (the good woman)
+    *   Neuter: das gut**e** Kind (the good child)
+    *   Plural: die gut**en** Leute (the good people)
+
+**With Indefinite Article (ein, eine, ein):**
+*   **Nominative:**
+    *   Masculine: ein gut**er** Mann (a good man)
+    *   Feminine: eine gut**e** Frau (a good woman)
+    *   Neuter: ein gut**es** Kind (a good child)
+*   **Accusative:**
+    *   Masculine: einen gut**en** Mann (a good man)
+    *   Feminine: eine gut**e** Frau (a good woman)
+    *   Neuter: ein gut**es** Kind (a good child)
+
+**General Pattern (Simplified for A1):**
+- After **der/die/das** (definite articles), the adjective often ends in **-e** or **-en**.
+- After **ein/eine/ein** (indefinite articles), the adjective ending often shows the gender and case more clearly (e.g., -er for masculine nominative, -es for neuter nominative).
+
+**Examples:**
+- Der **kleine** Tisch ist neu. (The small table is new.) - *Nominative, Masculine, Definite*
+- Ich kaufe einen **neuen** Tisch. (I am buying a new table.) - *Accusative, Masculine, Indefinite*
+- Eine **nette** Frau hilft mir. (A nice woman helps me.) - *Nominative, Feminine, Indefinite*
+- Das **rote** Auto ist schnell. (The red car is fast.) - *Nominative, Neuter, Definite*
 
 ---
 
@@ -287,4 +336,3 @@ Indicate ownership. Must agree in gender and number with the noun they modify.
 | alle      | everyone/all      | tutti/tutte   | **Alle** sind gekommen.    | Everyone came. |
 | etwas     | something         | qualcosa      | Ich habe **etwas** gekauft.| I bought something. |
 | nichts    | nothing           | niente        | Ich weiß **nichts**.       | I know nothing. |
-

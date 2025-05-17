@@ -10,14 +10,18 @@
     - [Example: "aufstehen" (to get up)](#example-aufstehen-to-get-up)
   - [5. Reflexive Verbs](#5-reflexive-verbs)
     - [Example: "sich freuen" (to be happy)](#example-sich-freuen-to-be-happy)
-  - [6. Practice Dialogues](#6-practice-dialogues)
+  - [6. The Perfekt Tense (Present Perfect)](#6-the-perfekt-tense-present-perfect)
+    - [Formation with "haben" or "sein"](#formation-with-haben-or-sein)
+    - [Partizip II (Past Participle) Formation](#partizip-ii-past-participle-formation)
+    - [Examples of Perfekt Tense](#examples-of-perfekt-tense)
+  - [7. Practice Dialogues](#7-practice-dialogues)
     - [Dialogue 1: Using Regular Verbs](#dialogue-1-using-regular-verbs)
     - [Dialogue 2: Using Modal Verbs](#dialogue-2-using-modal-verbs)
     - [Dialogue 3: Using Reflexive Verbs](#dialogue-3-using-reflexive-verbs)
-  - [7. Common Verbs](#7-common-verbs)
+  - [8. Common Verbs](#8-common-verbs)
     - [Essential Verbs for Beginners](#essential-verbs-for-beginners)
   - [| **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) |  re\*\* in Italien |](#-geboren--to-be-born---nascere------ich-bin-geboren--du-bist-geboren--ich-bin-in-berlin-geboren-i-was-born-in-berlin---re-in-italien-)
-    - [Notes on Verb Conjugation](#notes-on-verb-conjugation)
+    - [Notes on Verb Conjugation (Present Tense Focus)](#notes-on-verb-conjugation-present-tense-focus)
 
 
 #  German Verbs Guide
@@ -134,7 +138,58 @@ Reflexive verbs require a reflexive pronoun (e.g., mich, dich) because the subje
 
 ---
 
-##  6. Practice Dialogues  
+## 6. The Perfekt Tense (Present Perfect)
+The Perfekt tense is used to talk about completed actions in the past, especially in spoken German. It's formed with the auxiliary verb **haben** (to have) or **sein** (to be) in the present tense, plus the **Partizip II** (past participle) of the main verb.
+
+### Formation with "haben" or "sein"
+*   Most verbs form the Perfekt with **haben**.
+*   Verbs indicating a change of location (e.g., gehen - to go, fahren - to drive, fliegen - to fly) or a change of state (e.g., aufwachen - to wake up, sterben - to die) usually form the Perfekt with **sein**.
+*   **Sein** (to be) and **bleiben** (to stay) also use **sein** as their auxiliary verb.
+
+### Partizip II (Past Participle) Formation
+
+*   **Regular Verbs (Weak Verbs):**
+    *   Prefix **ge-** + verb stem + **-t**
+    *   Example: spielen (to play) → **ge**spiel**t**
+    *   Example: lernen (to learn) → **ge**lern**t**
+    *   Example: arbeiten (to work) → **ge**arbeit**et** (if stem ends in -d or -t, add -et)
+
+*   **Irregular Verbs (Strong Verbs):**
+    *   Often prefix **ge-** + changed verb stem + **-en**
+    *   These must be memorized.
+    *   Example: sehen (to see) → **ge**seh**en**
+    *   Example: gehen (to go) → **ge**gang**en**
+    *   Example: trinken (to drink) → **ge**trunk**en**
+
+*   **Verbs with Inseparable Prefixes (be-, emp-, ent-, er-, ge-, miss-, ver-, zer-):**
+    *   Do **not** take **ge-** in the Partizip II.
+    *   Example: besuchen (to visit) → besuch**t**
+    *   Example: verstehen (to understand) → verstand**en**
+
+*   **Verbs ending in -ieren:**
+    *   Do **not** take **ge-** and end in **-t**.
+    *   Example: studieren (to study) → studier**t**
+
+### Examples of Perfekt Tense
+
+| Sentence (Present)             | Auxiliary | Partizip II | Sentence (Perfekt)                      | English (Perfekt)            | Italian (Perfekt Equivalent) |
+|--------------------------------|-----------|-------------|-----------------------------------------|------------------------------|------------------------------|
+| Ich spiele Fußball.            | haben     | gespielt    | Ich **habe** Fußball **gespielt**.        | I played soccer. / I have played soccer. | Ho giocato a calcio.         |
+| Du lernst Deutsch.             | haben     | gelernt     | Du **hast** Deutsch **gelernt**.        | You learned German.          | Hai imparato il tedesco.     |
+| Er sieht einen Film.           | haben     | gesehen     | Er **hat** einen Film **gesehen**.        | He saw a movie.              | Ha visto un film.            |
+| Wir gehen ins Kino.            | sein      | gegangen    | Wir **sind** ins Kino **gegangen**.       | We went to the cinema.       | Siamo andati al cinema.      |
+| Sie fährt nach Berlin.         | sein      | gefahren    | Sie **ist** nach Berlin **gefahren**.     | She drove to Berlin.         | È andata a Berlino (in auto).|
+| Ich studiere Medizin.          | haben     | studiert    | Ich **habe** Medizin **studiert**.      | I studied medicine.          | Ho studiato medicina.        |
+| Er besucht seine Tante.        | haben     | besucht     | Er **hat** seine Tante **besucht**.     | He visited his aunt.         | Ha visitato sua zia.         |
+
+**Sentence Structure in Perfekt:**
+The conjugated auxiliary verb (**haben** or **sein**) is in the second position, and the **Partizip II** is at the end of the clause.
+- Subject + **Auxiliary Verb** + ... + **Partizip II**.
+  - *Ich **habe** gestern einen Apfel **gegessen**.* (I ate an apple yesterday.)
+
+---
+
+##  7. Practice Dialogues  
 
 ###  Dialogue 1: Using Regular Verbs  
 - **A**: Was machst du? (What are you doing?) → Che fai?  
@@ -154,9 +209,9 @@ Reflexive verbs require a reflexive pronoun (e.g., mich, dich) because the subje
 - **A**: Wir **freuen uns** auch. (We are excited too.) → Anche noi non vediamo l’ora.  
 
 
-___
+---
 
-## 7. Common Verbs
+## 8. Common Verbs
 
 ### Essential Verbs for Beginners
 
@@ -182,7 +237,7 @@ ___
 | **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) |  re** in Italien |  
 ---
 
-### Notes on Verb Conjugation
+### Notes on Verb Conjugation (Present Tense Focus)
 1. **Regular Verbs**: Most verbs follow the pattern:  
    - **ich**: stem + **-e** (e.g., ich spiele).  
    - **du**: stem + **-st** (e.g., du spielst).  
