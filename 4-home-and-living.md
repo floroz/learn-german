@@ -4,7 +4,8 @@
     - [1. Vocabulary](#1-vocabulary)
       - [1.1. Rooms and Parts of the House](#11-rooms-and-parts-of-the-house)
       - [1.2. Furniture](#12-furniture)
-      - [1.3. Other](#13-other)
+      - [1.3. Kitchen and Bathroom Items](#13-kitchen-and-bathroom-items)
+      - [1.4. Other](#14-other)
     - [2. Prepositions and Location](#2-prepositions-and-location)
       - [2.1. Basic Directions](#21-basic-directions)
       - [2.2. Prepositions with Locations](#22-prepositions-with-locations)
@@ -16,6 +17,7 @@
       - [4.2. Describing Location](#42-describing-location)
       - [4.3. Asking about Qualities](#43-asking-about-qualities)
       - [4.4. Other Useful Phrases](#44-other-useful-phrases)
+      - [4.5 Describing Rooms and Items](#45-describing-rooms-and-items)
     - [4.4 Asking about liking something](#44-asking-about-liking-something)
       - [Asking about liking something](#asking-about-liking-something)
       - [Responding to "Wie gefällt...?"](#responding-to-wie-gefällt)
@@ -68,7 +70,22 @@
 | die Lampe        | lamp            | la lampada         | die Lampen     |           |
 | der Teppich      | carpet / rug    | il tappeto         | die Teppiche   |           |
 
-#### 1.3. Other
+#### 1.3. Kitchen and Bathroom Items
+
+| **German**         | **English**        | **Italian**             | **Plural**        | **Notes** |
+|--------------------|--------------------|-------------------------|-------------------|-----------|
+| der Küchenschrank  | kitchen cupboard   | il mobile da cucina     | die Küchenschränke |           |
+| der Herd           | stove / cooker     | il fornello / la cucina | die Herde         |           |
+| der Kühlschrank    | refrigerator      | il frigorifero          | die Kühlschränke  |           |
+| die Spüle          | sink (kitchen)     | il lavello              | die Spülen        |           |
+| die Waschmaschine  | washing machine    | la lavatrice            | die Waschmaschinen|           |
+| die Dusche         | shower             | la doccia               | die Duschen       |           |
+| die Badewanne      | bathtub            | la vasca da bagno       | die Badewannen    |           |
+| das Waschbecken    | sink (bathroom)    | il lavandino            | die Waschbecken   |           |
+| der Spiegel        | mirror             | lo specchio             | die Spiegel       |           |
+| die Toilette       | toilet             | il gabinetto / il WC    | die Toiletten     |           |
+
+#### 1.4. Other
 
 | **German**    | **English** | **Italian** | **Plural**    | **Notes** |
 |---------------|-------------|-------------|---------------|-----------|
@@ -174,6 +191,10 @@ Use "Wie ist...?" (How is...?) / "Com'è...?" (How is...?) to ask about the qual
 *   **Das ist doch toll!** (That's great!) / **È fantastico! / È magnifico!** - *'doch' adds emphasis or contradicts a negative assumption (DE)*
 *   **Hast du eine Wohnung?** (Do you have an apartment?) / **Hai un appartamento?** - *Informal 'you'*
 *   **Hat Steffi ein neues Haus?** (Does Steffi have a new house?) / **Steffi ha una casa nuova?**
+
+#### 4.5 Describing Rooms and Items
+*   In der Küche haben wir eine Spüle und einen großen Küchenschrank. Daneben ist der Herd und der Kühlschrank. (In the kitchen, we have a sink and a large kitchen cupboard. Next to it is the stove and the refrigerator.)
+*   Wir haben zwei Badezimmer. In einem ist die Badewanne und die Waschmaschine. (We have two bathrooms. In one is the bathtub and the washing machine.)
 
 ---
 
