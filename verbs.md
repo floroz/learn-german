@@ -20,8 +20,7 @@
     - [Dialogue 3: Using Reflexive Verbs](#dialogue-3-using-reflexive-verbs)
   - [8. Common Verbs](#8-common-verbs)
     - [Essential Verbs for Beginners](#essential-verbs-for-beginners)
-  - [| **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) |  re\*\* in Italien |](#-geboren--to-be-born---nascere------ich-bin-geboren--du-bist-geboren--ich-bin-in-berlin-geboren-i-was-born-in-berlin---re-in-italien-)
-    - [Notes on Verb Conjugation (Present Tense Focus)](#notes-on-verb-conjugation-present-tense-focus)
+  - [| **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) | Ich **bin** in Italien **geboren**. (I was born in Italy.) |](#-geboren--to-be-born---nascere------ich-bin-geboren--du-bist-geboren--ich-bin-in-berlin-geboren-i-was-born-in-berlin--ich-bin-in-italien-geboren-i-was-born-in-italy-)
 
 
 #  German Verbs Guide
@@ -235,20 +234,5 @@ The conjugated auxiliary verb (**haben** or **sein**) is in the second position,
 | **geben**   | to give     | dare        | ich gebe / du gibst       | Ich **gebe** dir das Buch. (I give you the book.) |  
 | **sprechen**| to speak/talk | parlare    | ich spreche / du sprichst | Ich **spreche** Italienisch. (I speak Italian.) |
 | **gefallen**| to please     | piacere     | ich gefalle / du gefällst | See examples in "4-home-and-living.md" |
-| **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) |  re** in Italien |
----
-
-
-### Notes on Verb Conjugation (Present Tense Focus)
-1. **Regular Verbs**: Most verbs follow the pattern:  
-   - **ich**: stem + **-e** (e.g., ich spiele).  
-   - **du**: stem + **-st** (e.g., du spielst).  
-
-2. **Irregular Verbs**: Some verbs change their stem in the **du** and **er/sie/es** forms:  
-   - **gehen**: du **gehst**, er **geht**.  
-   - **heißen**: du **heißt**, er **heißt**.  
-
-3. **Modal Verbs**: These are irregular and often used with another verb:  
-   - **können** (can), **müssen** (must), **wollen** (want).  
-
+| **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) | Ich **bin** in Italien **geboren**. (I was born in Italy.) |
 ---
