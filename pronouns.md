@@ -55,17 +55,36 @@ Possessive pronouns indicate ownership and must agree in **gender**, **number**,
 | ihr(e)     | their             | loro        | **Ihre** Freunde kommen.      | Their friends are coming. |
 | Ihr(e)     | your (formal)     | Suo/Sua     | Ist das **Ihr** Buch?         | Is that your book? |
 
-**Gender and Number Rules**:  
-1. **Masculine Nouns**: Use the base form (e.g., **mein Hund** - my dog).  
-2. **Feminine Nouns**: Add **-e** (e.g., **meine Katze** - my cat).  
-3. **Neuter Nouns**: Use the base form (e.g., **mein Haus** - my house).  
-4. **Plural Nouns**: Use the feminine form (e.g., **meine Bücher** - my books).  
+**Basic Endings for Possessive Pronouns (Nominative Case):**
+Possessive pronouns take endings depending on the gender and number of the noun they describe.
+*   **No ending** for masculine and neuter singular nouns.
+    *   *mein Bruder* (my brother - masculine)
+    *   *dein Buch* (your book - neuter)
+    *   *sein Auto* (his/its car - neuter)
+*   **-e ending** for feminine and plural nouns.
+    *   *meine Schwester* (my sister - feminine)
+    *   *deine Katzen* (your cats - plural)
+    *   *seine Tassen* (his/its cups - plural)
 
-**Examples**:  
-- **Sein** Bruder (his brother) → Masculine.  
-- **Ihre** Schwester (her sister) → Feminine.  
-- **Unser** Kind (our child) → Neuter.  
-- **Eure** Eltern (your parents) → Plural.  
+**Specific Examples and similar pronouns:**
+*   **dein** - used for masculine and neuter nouns (e.g., *dein Stuhl*, *dein Kind*)
+*   **deine** - used for feminine and plural nouns (e.g., *deine Lampe*, *deine Freunde*)
+*   **sein** - used for masculine and neuter nouns (e.g., *sein Tisch*, *sein Fahrrad*)
+*   **seine** - used for feminine and plural nouns (e.g., *seine Uhr*, *seine Schuhe*)
+*   **ihr** (her/their) - used for masculine and neuter nouns (e.g., *ihr Garten*, *ihr Heft*)
+*   **ihre** (her/their) - used for feminine and plural nouns (e.g., *ihre Blume*, *ihre Kinder*)
+*   **Ihr** (your formal) - used for masculine and neuter nouns (e.g., *Ihr Büro*, *Ihr Glas*)
+*   **Ihre** (your formal) - used for feminine and plural nouns (e.g., *Ihre Firma*, *Ihre Papiere*)
+
+**Note:** For possessive pronouns like *unser* (our) and *euer* (your plural), the stem can sometimes change before adding endings (e.g., *unser* vs. *unsere*; *euer* vs. *eure* or *eurem*). These also follow the general pattern of no ending for masculine/neuter and -e for feminine/plural in the nominative case.
+
+Possessive pronouns also change their endings in other cases (Accusative, Dative, Genitive). For full declension tables, refer to more comprehensive grammar resources or the [Cases](./cases.md) and [Adjective Endings](./adjective-endings.md) files for patterns.
+
+**Examples in Sentences**:
+- **Sein** Bruder ist nett. (His brother is nice.)
+- **Deine** Schwester lernt Deutsch. (Your sister learns German.)
+- Ist das **ihr** Kind? (Is that her/their child?)
+- **Unsere** Eltern kommen heute. (Our parents are coming today.)
 
 ---
 
