@@ -1,10 +1,11 @@
 # Numbers
 
-## Basic Numbers (1–20)
+## Basic Numbers (0–20)
 These are the foundational numbers in German. Pay attention to spelling and pronunciation.
 
 | **German**   | **English** | **Italian** | **Notes**                                   |  
 |--------------|-------------|-------------|--------------------------------------------|  
+| **null**       | zero        | zero        |                                            |
 | **eins**     | one         | uno         | Used alone; becomes **ein-** in compounds. |  
 | **zwei**     | two         | due         |                                            |  
 | **drei**     | three       | tre         |                                            |  
