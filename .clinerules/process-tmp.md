@@ -14,3 +14,7 @@ When new notes are added to `tmp.md`, follow these steps:
 7.  **Synthesize the content** to avoid redundancy and ensure clarity.
 8.  **Update links** in other relevant files if new files are created or major restructuring occurs.
 9.  **Clear `tmp.md`** after its contents have been successfully processed and integrated.
+
+Remember the overall goal is to create a list of files that allows for a comprehensive overview of the main aspects of the German language, from A1 to B2 levels.
+
+Not everything in tmp.md should automatically be promoted to be integrated - if you believe an information, example or rule is already covered, you should notify of this decision and skip over that content.

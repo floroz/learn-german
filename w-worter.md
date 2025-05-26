@@ -16,6 +16,7 @@
 |             |                    |                | **Wohin** fährt dieser Bus? (*Where does this bus go?*)         |
 | Wann        | When?              | Quando?        | **Wann** beginnt der Film? (*When does the movie start?*)       |
 |             |                    |                | **Wann** hast du Geburtstag? (*When is your birthday?*)         |
+|             |                    |                | **Wann** kommt er nach Hause? (*When does he come home?*)       |
 | Warum       | Why?               | Perché?        | **Warum** lernst du Deutsch? (*Why are you learning German?*)   |
 |             |                    |                | **Warum** ist der Himmel blau? (*Why is the sky blue?*)          |
 | Welche      | Which? (+ noun)    | Quale/Quali?   | **Welche** Sprachen sprichst du? (*Which languages do you speak?*)|

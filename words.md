@@ -136,3 +136,16 @@ This file contains categorized vocabulary lists relevant for the A1 level.
 | günstig                 | cheap, affordable         | conveniente                   | teuer                   |
 
 ---
+
+## General Nouns (Allgemeine Nomen)
+
+| German (Gender, Plural) | English                   | Italian (Gender, Plural)      |
+|-------------------------|---------------------------|-------------------------------|
+| der Zahn (m, Zähne)     | tooth                     | il dente (m, denti)           |
+| das Essen (n, -)        | food, meal                | il cibo (m), il pasto (m)     |
+| der Besuch (m, Besuche) | visit                     | la visita (f, visite)         |
+| das Spiel (n, Spiele)   | game                      | il gioco (m, giochi)          |
+| das Computerspiel (n, Computerspiele) | computer game | il videogioco (m, videogiochi) |
+| der Spaß (m, Späße)     | fun                       | il divertimento (m)           |
+
+---

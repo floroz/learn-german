@@ -19,9 +19,11 @@ A common mnemonic is **DOGFUB** (or FUDGE-O, or similar):
 *   **U**m (around - for location/time, at - for time)
     *   Wir gehen **um den See**. (We walk around the lake.)
     *   Der Film beginnt **um 20 Uhr**. (The movie starts at 8 PM.)
+    *   **Um 12 Uhr** geht Timo schlafen. (At 12 o'clock Timo goes to sleep.)
 *   **B**is (until, by - for time/destination, often used with another preposition for destination)
     *   Ich warte **bis morgen**. (I'll wait until tomorrow.)
     *   Wir fahren **bis Berlin**. (We are driving as far as Berlin.)
+    *   Er arbeitet **bis 5 Uhr**. (He works until 5 o'clock.)
 *   **Entlang** (along) - Can sometimes follow the noun it modifies.
     *   Wir gehen **den Fluss entlang**. (We walk along the river.)
 
@@ -42,9 +44,11 @@ Common ones include:
 *   **Mit** (with)
     *   Ich fahre **mit dem Zug**. (I travel by train.)
     *   Sie spricht **mit ihrer Freundin**. (She speaks with her friend.)
+    *   Um halb 9 fährt er **mit dem Bus** zur Arbeit. (At half past 8, he goes to work by bus.)
 *   **Nach** (after, to - for cities/countries/home)
     *   **Nach der Schule** gehe ich nach Hause. (After school, I go home.)
     *   Wir fliegen **nach Spanien**. (We are flying to Spain.)
+    *   Wenn er **nach Hause** kommt, räumt er die Wohnung auf. (When he comes home, he cleans up the apartment.)
 *   **Seit** (since - time)
     *   Ich lerne Deutsch **seit einem Jahr**. (I have been learning German for a year.)
 *   **Von** (from, by, of)
@@ -53,6 +57,8 @@ Common ones include:
 *   **Zu** (to - for people/places within a town, for a purpose)
     *   Ich gehe **zum Arzt**. (I am going to the doctor.) - *zu + dem = zum*
     *   Wir fahren **zur Universität**. (We are driving to the university.) - *zu + der = zur*
+    *   Um halb 9 fährt er mit dem Bus **zur Arbeit**. (At half past 8, he goes to work by bus.) - *zur = zu + der*
+    *   Am Abend kommen seine Freunde **zu Besuch**. (In the evening, his friends come for a visit.)
 *   **Gegenüber** (opposite, towards - can come before or after the noun)
     *   Die Post ist **dem Bahnhof gegenüber**. / **Gegenüber dem Bahnhof** ist die Post. (The post office is opposite the train station.)
 
@@ -67,6 +73,7 @@ The common two-way prepositions are:
 *   **An** (on - vertical surface, at, to)
     *   Das Bild hängt **an der Wand**. (The picture hangs on the wall.) - *Wo? Dative*
     *   Ich hänge das Bild **an die Wand**. (I hang the picture onto the wall.) - *Wohin? Accusative*
+    *   **Am Abend** kommen seine Freunde zu Besuch. (In the evening, his friends come for a visit.) - *Wann? Dative (fixed expression for time)* - *am = an + dem*
 *   **Auf** (on - horizontal surface, upon, to)
     *   Das Buch liegt **auf dem Tisch**. (The book lies on the table.) - *Wo? Dative*
     *   Ich lege das Buch **auf den Tisch**. (I lay the book onto the table.) - *Wohin? Accusative*
@@ -96,6 +103,83 @@ The common two-way prepositions are:
 ---
 
 ## 4. Prepositional Contractions
+Some prepositions commonly contract with definite articles:
+*   an + dem = **am**
+*   an + das = **ans**
+*   bei + dem = **beim**
+*   in + dem = **im**
+*   in + das = **ins**
+*   von + dem = **vom**
+*   zu + dem = **zum**
+*   zu + der = **zur**
+
+---
+
+## 5. Prepositions of Direction
+
+Prepositions of direction answer the question **Wohin?** (Where to?). The choice of preposition often depends on the destination (e.g., country, city, building, person, home).
+
+*   **Nach:** Used for:
+    *   Geographical places without an article (most cities, countries, continents):
+        *   *Wir fliegen **nach Deutschland**.* (We are flying to Germany.)
+        *   *Er fährt **nach Berlin**.* (He is driving to Berlin.)
+    *   The word "Hause" (home):
+        *   *Ich gehe **nach Hause**.* (I am going home.)
+        *   *Wenn er **nach Hause** kommt, räumt er die Wohnung auf.* (When he comes home, he cleans up the apartment.)
+    *   Directions (left, right, up, down):
+        *   *Gehen Sie **nach links**.* (Go left.)
+
+*   **In:** Used for:
+    *   Countries that have a grammatical gender (and thus use an article), e.g., *die Schweiz, die Türkei, die USA (plural)*. Requires accusative for direction.
+        *   *Wir fahren **in die Schweiz**.* (We are going to Switzerland.)
+        *   *Er fliegt **in die USA**.* (He is flying to the USA.)
+    *   Buildings or enclosed spaces (when entering them). Requires accusative for direction.
+        *   *Ich gehe **ins Kino** (in das Kino).* (I am going into the cinema.)
+        *   *Sie geht **in den Supermarkt**.* (She is going into the supermarket.)
+
+*   **Zu:** Used for:
+    *   People:
+        *   *Ich gehe **zum Arzt** (zu dem Arzt).* (I am going to the doctor.)
+        *   *Sie fährt **zu ihrer Freundin**.* (She is going to her friend's place.)
+    *   Places within a town or specific locations/buildings (often implying going towards, but not necessarily inside):
+        *   *Wir fahren **zur Post** (zu der Post).* (We are going to the post office.)
+        *   *Um halb 9 fährt er mit dem Bus **zur Arbeit**.* (At half past 8, he goes to work by bus.)
+    *   Activities or purposes:
+        *   *Am Abend kommen seine Freunde **zu Besuch**.* (In the evening, his friends come for a visit.)
+        *   *Ich gehe **zum Essen**.* (I am going to eat / for a meal.)
+
+*   **An:** Used for:
+    *   Going to a border, edge, or body of water. Requires accusative for direction.
+        *   *Wir fahren **ans Meer** (an das Meer).* (We are going to the sea.)
+        *   *Er geht **an den Fluss**.* (He goes to the river.)
+
+*   **Auf:** Used for:
+    *   Going onto an open space or a horizontal surface. Requires accusative for direction.
+        *   *Die Kinder gehen **auf den Spielplatz**.* (The children are going to the playground.)
+        *   *Ich gehe **auf die Post** (colloquial, meaning to the post office building, often implying going inside for a service).*
+
+**Key Distinction: `nach` vs. `zu` vs. `in`**
+*   **`nach`**: Primarily for geographical names (cities, countries without articles) and `Hause`.
+*   **`zu`**: For people, specific places/buildings within a town (general direction towards), activities.
+*   **`in`**: For entering enclosed spaces, countries with articles.
+
+---
+
+## 6. Common Phrases with "Hause"
+
+The word "Hause" (home) is often used with specific prepositions to indicate location or direction:
+
+| German Phrase | Meaning        | Italian Equivalent | Case Governed | Example Sentence                                      |
+|---------------|----------------|--------------------|---------------|-------------------------------------------------------|
+| **nach Hause**| (to) home      | a casa (moto a luogo) | Dative (fixed) | *Ich gehe **nach Hause**.* (I am going home.)         |
+| **zu Hause**  | at home        | a casa (stato in luogo)| Dative (fixed) | *Ich bin **zu Hause**.* (I am at home.)               |
+| **von zu Hause**| from home    | da casa            | Dative (fixed) | *Ich arbeite **von zu Hause**.* (I work from home.)   |
+
+*Note: While "nach" usually indicates direction and would imply accusative with two-way prepositions, "nach Hause" is a fixed dative expression.*
+
+---
+
+## 7. Prepositional Contractions
 Some prepositions commonly contract with definite articles:
 *   an + dem = **am**
 *   an + das = **ans**

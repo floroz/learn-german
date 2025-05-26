@@ -6,7 +6,8 @@
     - [3. Expressing Gratitude and Responses](#3-expressing-gratitude-and-responses)
     - [4. Duzen and Siezen](#4-duzen-and-siezen)
       - [When to Use Du vs. Sie](#when-to-use-du-vs-sie)
-    - [5. Practice Sentences](#5-practice-sentences)
+    - [5. Expressing Feelings/States](#5-expressing-feelingsstates)
+    - [6. Practice Sentences](#6-practice-sentences)
 
 ---
 
@@ -67,11 +68,19 @@
 
 - Use **Sie** with:  
   - Strangers, elders, professionals, and in formal settings.  
-  - People you don’t know well or who are in a position of authority.  
+    - People you don’t know well or who are in a position of authority.  
+
 ---
 
+### 5. Expressing Feelings/States
 
-### 5. Practice Sentences
+| **German**               | **English**               | **Italian**               | **Notes**                                   |
+|--------------------------|--------------------------|--------------------------|--------------------------------------------|
+| Spaß haben               | to have fun              | divertirsi               | *Sie haben viel Spaß.* (They have a lot of fun.) |
+
+---
+
+### 6. Practice Sentences
 
 1. **Entschuldigung**, wo ist die Toilette? (Excuse me, where is the bathroom?)  
 2. **Tut mir leid**, ich habe keine Zeit. (I’m sorry, I don’t have time.)  

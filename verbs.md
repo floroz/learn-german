@@ -7,9 +7,9 @@
   - [3. Modal Verbs](#3-modal-verbs)
     - [Common Modal Verbs](#common-modal-verbs)
   - [4. Separable Verbs](#4-separable-verbs)
-    - [Example: "aufstehen" (to get up)](#example-aufstehen-to-get-up)
+    - [Examples of Separable Verbs:](#examples-of-separable-verbs)
   - [5. Reflexive Verbs](#5-reflexive-verbs)
-    - [Example: "sich freuen" (to be happy)](#example-sich-freuen-to-be-happy)
+    - [Examples of Reflexive Verbs:](#examples-of-reflexive-verbs)
   - [6. The Perfekt Tense (Present Perfect)](#6-the-perfekt-tense-present-perfect)
     - [Formation with "haben" or "sein"](#formation-with-haben-or-sein)
     - [Partizip II (Past Participle) Formation](#partizip-ii-past-participle-formation)
@@ -98,42 +98,103 @@ Modal verbs express ability, necessity, or permission. They are conjugated irreg
 
 ---
 
-##  4. Separable Verbs 
-Separable verbs have prefixes that detach and move to the end of the sentence in the present tense.  
+##  4. Separable Verbs
+Separable verbs have prefixes that detach and move to the end of the sentence in main clauses in the present or simple past tense. In subordinate clauses or with modal verbs (in the infinitive form), the prefix rejoins the verb.
 
-###  Example: "aufstehen" (to get up) 
-| **Pronoun** | **German**         | **English**          | **Italian**         |  
-|-------------|--------------------|----------------------|---------------------|  
-| ich         | stehe **auf**      | I get up             | mi alzo             |  
-| du          | stehst **auf**     | you get up           | ti alzi             |  
-| er/sie/es   | steht **auf**      | he/she/it gets up    | si alza             |  
-| wir         | stehen **auf**     | we get up            | ci alziamo          |  
-| ihr         | steht **auf**      | you (pl.) get up     | vi alzate           |  
-| sie/Sie     | stehen **auf**     | they/you (formal) get up | si alzano      |  
+**General Rule:**
+*   **Main Clause (Present/Past Simple):** Prefix separates and goes to the end.
+    *   Example: *Er **steht** um 7 Uhr **auf**.* (He gets up at 7 o'clock.)
+*   **Subordinate Clause / With Modal Verb / Infinitive Constructions:** Prefix does not separate. The verb (often in infinitive or Partizip II form) stays together.
+    *   Example (Modal): *Er **möchte** früh **aufstehen**.* (He wants to get up early.)
+    *   Example (Subordinate): *..., weil er früh **aufstehen** muss.* (...because he has to get up early.)
 
-**Examples**:  
-- Ich **stehe** um 7 Uhr **auf**. (I get up at 7 a.m.) → Mi alzo alle 7.  
-- Wir **stehen** früh **auf**. (We get up early.) → Ci alziamo presto.  
+###  Examples of Separable Verbs:
+
+**"aufstehen" (to get up)**
+| **Pronoun** | **German (Main Clause)** | **English**          | **Italian**         |
+|-------------|--------------------------|----------------------|---------------------|
+| ich         | stehe **auf**            | I get up             | mi alzo             |
+| er/sie/es   | steht **auf**            | he/she/it gets up    | si alza             |
+*   *Ich **stehe** um 7 Uhr **auf**.* (I get up at 7 a.m.)
+*   *Timo **steht auf**.* (Tim gets up.)
+
+**"anziehen" (to put on clothes, to dress)**
+*   Main Clause: *Er **zieht** sich **an**.* (He gets dressed.)
+*   Infinitive with Modal: *Ich **möchte** mich **anziehen**.* (I want to get dressed.)
+
+**"aufräumen" (to clean up, to tidy up)**
+*   Main Clause (in a conditional sentence structure): *Wenn er nach Hause kommt, **räumt** er die Wohnung **auf**.* (When he comes home, he cleans up the apartment.)
+    *   Note: Here, `aufräumen` is in a main clause that follows a subordinate clause.
+
+**"einkaufen gehen" (to go shopping)**
+*   This is a combination of `einkaufen` (separable verb: to shop) and `gehen` (to go).
+*   Main Clause: *Er **geht einkaufen**.* (He goes shopping.) - `einkaufen` acts like a separable prefix here in usage, though it's an infinitive.
+    *   More strictly, for `einkaufen` itself: *Ich **kaufe** im Supermarkt **ein**.* (I shop at the supermarket.)
+
+**"fernsehen" (to watch TV)**
+*   Main Clause: *Sie **sehen fern**.* (They watch TV.)
+
+**More Examples:**
+*   *Ich **mache** das Fenster **auf**.* (I open the window.) - `aufmachen`
+*   *Du **rufst** deine Freundin **an**.* (You call your friend.) - `anrufen`
 
 ---
 
 ##  5. Reflexive Verbs
-Reflexive verbs require a reflexive pronoun (e.g., mich, dich) because the subject performs the action on themselves.  
+Reflexive verbs require a reflexive pronoun (e.g., mich, dich, sich) because the subject performs the action on themselves. The reflexive pronoun usually comes directly after the conjugated verb.
 
-###  Example: "sich freuen" (to be happy)
+**Reflexive Pronouns (Accusative):**
+*   ich: **mich** (myself)
+*   du: **dich** (yourself)
+*   er/sie/es: **sich** (himself/herself/itself)
+*   wir: **uns** (ourselves)
+*   ihr: **euch** (yourselves)
+*   sie/Sie: **sich** (themselves/yourself formal)
 
-| **Pronoun** | **German**         | **English**          | **Italian**         |  
-|-------------|--------------------|----------------------|---------------------|  
-| ich         | freue **mich**     | I am happy           | sono felice         |  
-| du          | freust **dich**    | you are happy        | sei felice          |  
-| er/sie/es   | freut **sich**     | he/she/it is happy   | è felice            |  
-| wir         | freuen **uns**     | we are happy         | siamo felici        |  
-| ihr         | freut **euch**     | you (pl.) are happy  | siete felici        |  
-| sie/Sie     | freuen **sich**    | they/you (formal) are happy | sono felici |  
+**Reflexive Pronouns (Dative):**
+Sometimes, the reflexive pronoun is in the dative case, especially if there's another direct object (accusative) in the sentence.
+*   ich: **mir** (to/for myself)
+*   du: **dir** (to/for yourself)
+*   er/sie/es: **sich** (to/for himself/herself/itself)
+*   wir: **uns** (to/for ourselves)
+*   ihr: **euch** (to/for yourselves)
+*   sie/Sie: **sich** (to/for themselves/yourself formal)
 
-**Examples**:  
-- Ich **freue mich** auf das Wochenende. (I am looking forward to the weekend.) → Non vedo l’ora del weekend.  
-- Wir **freuen uns** über das Geschenk. (We are happy about the gift.) → Siamo felici del regalo.  
+###  Examples of Reflexive Verbs:
+
+**"sich freuen" (to be happy, to look forward to)** - Accusative
+| **Pronoun** | **German**         | **English**          | **Italian**         |
+|-------------|--------------------|----------------------|---------------------|
+| ich         | freue **mich**     | I am happy           | sono felice         |
+| du          | freust **dich**    | you are happy        | sei felice          |
+| er/sie/es   | freut **sich**     | he/she/it is happy   | è felice            |
+| wir         | freuen **uns**     | we are happy         | siamo felici        |
+| ihr         | freut **euch**     | you (pl.) are happy  | siete felici        |
+| sie/Sie     | freuen **sich**    | they/you (formal) are happy | sono felici |
+*   *Ich **freue mich** auf das Wochenende.* (I am looking forward to the weekend.)
+
+**"sich die Zähne putzen" (to brush one's teeth)** - Dative reflexive pronoun (`mir`, `dir`, `sich`) because `die Zähne` is the accusative object.
+*   *Ich **putze mir** die Zähne.* (I brush my teeth. - Literally: I clean to-myself the teeth.)
+*   *Er **putzt sich** die Zähne.* (He brushes his teeth.)
+
+**"sich anziehen" (to get dressed)** - Accusative
+*   *Er **zieht sich an**.* (He gets dressed.)
+*   *Ich **möchte mich anziehen**.* (I want to get dressed.) - with modal verb, not separated.
+
+**"sich waschen" (to wash oneself)** - Accusative
+*   *Ich **wasche mich**.* (I wash myself.)
+*   If washing a specific body part, it often becomes dative reflexive: *Ich **wasche mir** die Hände.* (I wash my hands.)
+
+**"sich kämmen" (to comb one's hair)** - Accusative
+*   *Ich **kämme mich**.* (I comb my hair.)
+*   Dative reflexive: *Ich **kämme mir** die Haare.* (I comb my hair.)
+
+**Note on Italian Comparison:**
+When you see a reflexive verb in Italian (like *lavarsi*, *pettinarsi*, *vestirsi*), you can often expect a similar reflexive structure in German (e.g., *sich waschen*, *sich kämmen*, *sich anziehen*).
+
+**Corrected Example from `tmp.md`:**
+The phrase "Ich wollen mich putzen" should be "Ich **möchte** mich putzen" (I would like to clean myself) or "Ich **will** mich putzen" (I want to clean myself).
+*   *Ich **möchte mich** (die Zähne) **putzen**.* (I would like to brush my teeth.)
 
 ---
 
@@ -214,24 +275,28 @@ The conjugated auxiliary verb (**haben** or **sein**) is in the second position,
 
 ### Essential Verbs for Beginners
 
-| **German**  | **English** | **Italian** | **Conjugation (ich/du)** | **Example**                          |  
-|-------------|-------------|-------------|--------------------------|--------------------------------------|  
-| **kommen**  | to come     | venire      | ich komme / du kommst     | Ich **komme** aus Italien. (I come from Italy.) |  
-| **gehen**   | to go       | andare      | ich gehe / du gehst       | Wir **gehen** ins Kino. (We are going to the cinema.) |  
-| **kochen**  | to cook     | cucinare    | ich koche / du kochst     | Sie **kocht** das Abendessen. (She is cooking dinner.) |  
-| **machen**  | to make/do  | fare        | ich mache / du machst     | Was **machst** du? (What are you doing?) |  
-| **wohnen**  | to live     | vivere      | ich wohne / du wohnst     | Ich **wohne** in Berlin. (I live in Berlin.) |  
-| **leben**   | to live     | vivere      | ich lebe / du lebst       | Sie **lebt** in Wien. (She lives in Vienna.) |  
-| **spielen** | to play     | giocare     | ich spiele / du spielst   | Die Kinder **spielen** im Park. (The children are playing in the park.) |  
-| **kaufen**  | to buy      | comprare    | ich kaufe / du kaufst     | Er **kauft** Brot. (He is buying bread.) |  
-| **parken**  | to park     | parcheggiare| ich parke / du parkst     | Wo kann ich **parken**? (Where can I park?) |  
-| **singen**  | to sing     | cantare     | ich singe / du singst     | Sie **singt** ein Lied. (She is singing a song.) |  
-| **tanzen**  | to dance    | ballare     | ich tanze / du tanzt      | Wir **tanzen** zusammen. (We are dancing together.) |  
-| **lieben**  | to love     | amare       | ich liebe / du liebst     | Ich **liebe** dich. (I love you.) |  
-| **heißen**  | to be called| chiamarsi   | ich heiße / du heißt      | Wie **heißt** du? (What is your name?) |  
-| **hören**   | to hear/listen | ascoltare | ich höre / du hörst       | Ich **höre** Musik. (I am listening to music.) |  
-| **essen**   | to eat      | mangiare    | ich esse / du isst        | Ich **esse** Pizza. (I eat pizza.) |  
-| **geben**   | to give     | dare        | ich gebe / du gibst       | Ich **gebe** dir das Buch. (I give you the book.) |  
+| **German**  | **English** | **Italian** | **Conjugation (ich/du)** | **Example**                          |
+|-------------|-------------|-------------|--------------------------|--------------------------------------|
+| **arbeiten**| to work     | lavorare    | ich arbeite / du arbeitest | Er **arbeitet** bis 5 Uhr. (He works until 5 o'clock.) |
+| **kommen**  | to come     | venire      | ich komme / du kommst     | Ich **komme** aus Italien. (I come from Italy.) |
+| **gehen**   | to go       | andare      | ich gehe / du gehst       | Wir **gehen** ins Kino. (We are going to the cinema.) |
+| **fahren**  | to drive/go | andare (con mezzo) | ich fahre / du fährst | Er **fährt** mit dem Bus. (He goes by bus.) |
+| **kochen**  | to cook     | cucinare    | ich koche / du kochst     | Sie **kocht** das Abendessen. (She is cooking dinner.) |
+| **machen**  | to make/do  | fare        | ich mache / du machst     | Was **machst** du? (What are you doing?) |
+| **wohnen**  | to live     | vivere      | ich wohne / du wohnst     | Ich **wohne** in Berlin. (I live in Berlin.) |
+| **leben**   | to live     | vivere      | ich lebe / du lebst       | Sie **lebt** in Wien. (She lives in Vienna.) |
+| **spielen** | to play     | giocare     | ich spiele / du spielst   | Die Kinder **spielen** im Park. (The children are playing in the park.) |
+| **kaufen**  | to buy      | comprare    | ich kaufe / du kaufst     | Er **kauft** Brot. (He is buying bread.) |
+| **putzen**  | to clean/brush | pulire   | ich putze / du putzt     | Er **putzt** die Zähne. (He brushes his teeth.) |
+| **parken**  | to park     | parcheggiare| ich parke / du parkst     | Wo kann ich **parken**? (Where can I park?) |
+| **singen**  | to sing     | cantare     | ich singe / du singst     | Sie **singt** ein Lied. (She is singing a song.) |
+| **tanzen**  | to dance    | ballare     | ich tanze / du tanzt      | Wir **tanzen** zusammen. (We are dancing together.) |
+| **lieben**  | to love     | amare       | ich liebe / du liebst     | Ich **liebe** dich. (I love you.) |
+| **heißen**  | to be called| chiamarsi   | ich heiße / du heißt      | Wie **heißt** du? (What is your name?) |
+| **hören**   | to hear/listen | ascoltare | ich höre / du hörst       | Ich **höre** Musik. (I am listening to music.) |
+| **essen**   | to eat      | mangiare    | ich esse / du isst        | Ich **esse** Pizza. (I eat pizza.) |
+| **trinken** | to drink    | bere        | ich trinke / du trinkst   | Sie **trinken** Bier. (They drink beer.) |
+| **geben**   | to give     | dare        | ich gebe / du gibst       | Ich **gebe** dir das Buch. (I give you the book.) |
 | **sprechen**| to speak/talk | parlare    | ich spreche / du sprichst | Ich **spreche** Italienisch. (I speak Italian.) |
 | **gefallen**| to please     | piacere     | ich gefalle / du gefällst | See examples in "4-home-and-living.md" |
 | **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) | Ich **bin** in Italien **geboren**. (I was born in Italy.) |

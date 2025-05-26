@@ -110,5 +110,7 @@ Common ones: *dass* (that), *weil* (because), *obwohl* (although), *wenn* (if/wh
 - Main Clause, **Subordinating Conjunction** Subject - Other elements - Verb (conjugated).
   - Ich lerne Deutsch, **weil** ich in Deutschland arbeiten möchte. (I learn German because I want to work in Germany.)
   - Er sagt, **dass** er müde ist. (He says that he is tired.)
+  - **Wenn** er nach Hause kommt, räumt er die Wohnung auf. (When he comes home, he cleans up the apartment.)
+    - *Note: In this example, the subordinate clause (`Wenn er nach Hause kommt`) comes first. This causes the main clause (`räumt er die Wohnung auf`) to invert, with its verb (`räumt`) in the first position of the main clause (which is the second overall element after the entire subordinate clause).*
 
 This is a brief overview. Sentence structure can become more complex with more elements and different types of clauses.
