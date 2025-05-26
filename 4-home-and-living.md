@@ -1,34 +1,34 @@
 # Wohnen (Home and Living)
 
 - [Wohnen (Home and Living)](#wohnen-home-and-living)
-    - [1. Vocabulary](#1-vocabulary)
-      - [1.1. Rooms and Parts of the House](#11-rooms-and-parts-of-the-house)
-      - [1.2. Furniture](#12-furniture)
-      - [1.3. Kitchen and Bathroom Items](#13-kitchen-and-bathroom-items)
-      - [1.4. Other](#14-other)
-    - [2. Prepositions and Location](#2-prepositions-and-location)
-      - [2.1. Basic Directions](#21-basic-directions)
-      - [2.2. Prepositions with Locations](#22-prepositions-with-locations)
-    - [3. Adjectives](#3-adjectives)
-      - [3.1. Common Adjectives](#31-common-adjectives)
-      - [3.2. Asking about Qualities](#32-asking-about-qualities)
-    - [4. Basic Phrases and Questions](#4-basic-phrases-and-questions)
-      - [4.1. Asking for Location](#41-asking-for-location)
-      - [4.2. Describing Location](#42-describing-location)
-      - [4.3. Asking about Qualities](#43-asking-about-qualities)
-      - [4.4. Other Useful Phrases](#44-other-useful-phrases)
-      - [4.5 Describing Rooms and Items](#45-describing-rooms-and-items)
-    - [4.4 Asking about liking something](#44-asking-about-liking-something)
+  - [1. Vocabulary](#1-vocabulary)
+    - [1.1. Rooms and Parts of the House](#11-rooms-and-parts-of-the-house)
+    - [1.2. Furniture](#12-furniture)
+    - [1.3. Kitchen and Bathroom Items](#13-kitchen-and-bathroom-items)
+    - [1.4. Other](#14-other)
+  - [2. Prepositions and Location](#2-prepositions-and-location)
+    - [2.1. Basic Directions](#21-basic-directions)
+    - [2.2. Prepositions with Locations](#22-prepositions-with-locations)
+  - [3. Adjectives](#3-adjectives)
+    - [3.1. Common Adjectives](#31-common-adjectives)
+    - [3.2. Asking about Qualities](#32-asking-about-qualities)
+  - [4. Basic Phrases and Questions](#4-basic-phrases-and-questions)
+    - [4.1. Asking for Location](#41-asking-for-location)
+    - [4.2. Describing Location](#42-describing-location)
+    - [4.3. Asking about Qualities](#43-asking-about-qualities)
+    - [4.4. Other Useful Phrases](#44-other-useful-phrases)
+    - [4.5. Describing Rooms and Items](#45-describing-rooms-and-items)
+    - [4.6. Asking about Liking Something (gefallen)](#46-asking-about-liking-something-gefallen)
       - [Asking about liking something](#asking-about-liking-something)
       - [Responding to "Wie gefällt...?"](#responding-to-wie-gefällt)
       - [Note](#note)
-    - [5. Grammar Notes](#5-grammar-notes)
+  - [5. Grammar Notes](#5-grammar-notes)
 
 ---
 
-### 1. Vocabulary
+## 1. Vocabulary
 
-#### 1.1. Rooms and Parts of the House
+### 1.1. Rooms and Parts of the House
 
 | **German**         | **English**        | **Italian**             | **Plural**        | **Notes**                                   |
 |--------------------|--------------------|-------------------------|-------------------|---------------------------------------------|
@@ -55,7 +55,7 @@
 | der dritte Stock   | third floor        | il terzo piano          | -                 | *Ordinal number*                            |
 | der Dachboden      | attic / loft       | la soffitta             | die Dachböden     | *Gender differs*                            |
 
-#### 1.2. Furniture
+### 1.2. Furniture
 
 | **German**       | **English**     | **Italian**        | **Plural**     | **Notes** |
 |------------------|-----------------|--------------------|----------------|-----------|
@@ -70,7 +70,7 @@
 | die Lampe        | lamp            | la lampada         | die Lampen     |           |
 | der Teppich      | carpet / rug    | il tappeto         | die Teppiche   |           |
 
-#### 1.3. Kitchen and Bathroom Items
+### 1.3. Kitchen and Bathroom Items
 
 | **German**         | **English**        | **Italian**             | **Plural**        | **Notes** |
 |--------------------|--------------------|-------------------------|-------------------|-----------|
@@ -85,7 +85,7 @@
 | der Spiegel        | mirror             | lo specchio             | die Spiegel       |           |
 | die Toilette       | toilet             | il gabinetto / il WC    | die Toiletten     |           |
 
-#### 1.4. Other
+### 1.4. Other
 
 | **German**    | **English** | **Italian** | **Plural**    | **Notes** |
 |---------------|-------------|-------------|---------------|-----------|
@@ -94,9 +94,9 @@
 
 ---
 
-### 2. Prepositions and Location
+## 2. Prepositions and Location
 
-#### 2.1. Basic Directions
+### 2.1. Basic Directions
 
 | **German** | **English** | **Italian** | **Notes** |
 |------------|-------------|-------------|-----------|
@@ -106,7 +106,7 @@
 | vorne      | in front / at the front | davanti     |           |
 | neben      | next to / beside | accanto a   | *Requires dative case in German* |
 
-#### 2.2. Prepositions with Locations
+### 2.2. Prepositions with Locations
 
 Use **in dem** (contracted to **im**) for masculine (der) and neuter (das) nouns in the dative case when indicating location within.
 Use **in der** for feminine (die) nouns in the dative case.
@@ -128,9 +128,9 @@ Italian uses prepositions like 'in', 'a', 'nel', 'nella', etc., depending on the
 
 ---
 
-### 3. Adjectives
+## 3. Adjectives
 
-#### 3.1. Common Adjectives
+### 3.1. Common Adjectives
 
 | **German** | **English** | **Italian** | **Antonym (German)** | **Antonym (English)** | **Antonym (Italian)** |
 |------------|-------------|-------------|----------------------|-----------------------|-----------------------|
@@ -145,7 +145,7 @@ Italian uses prepositions like 'in', 'a', 'nel', 'nella', etc., depending on the
 | klein      | small       | piccolo     | groß                 | big / large           | grande                |
 | groß       | big / large | grande      | klein                | small                 | piccolo               |
 
-#### 3.2. Asking about Qualities
+### 3.2. Asking about Qualities
 
 Use "Wie ist...?" (How is...?) / "Com'è...?" (How is...?) to ask about the quality or state of something. Remember to use the correct form of the noun and article.
 
@@ -163,16 +163,16 @@ Use "Wie ist...?" (How is...?) / "Com'è...?" (How is...?) to ask about the qual
 
 ---
 
-### 4. Basic Phrases and Questions
+## 4. Basic Phrases and Questions
 
-#### 4.1. Asking for Location
+### 4.1. Asking for Location
 
 *   **Wo ist das Wohnzimmer?** (Where is the living room?) / **Dov'è il soggiorno?**
 *   **Wo ist das Bad?** (Where is the bathroom?) / **Dov'è il bagno?**
 *   **Was ist rechts von der Küche?** (What is to the right of the kitchen?) / **Cosa c'è a destra della cucina?** - *Requires dative case for 'von' (DE)*
 *   **Was ist neben dem Badezimmer?** (What is next to the bathroom?) / **Cosa c'è accanto al bagno?** - *Requires dative case for 'neben' (DE)*
 
-#### 4.2. Describing Location
+### 4.2. Describing Location
 
 *   Das Wohnzimmer ist **neben der Küche**. (The living room is next to the kitchen.) / Il soggiorno è **accanto alla cucina**.
 *   Das Bad ist **hinten**. (The bathroom is at the back.) / Il bagno è **dietro**.
@@ -180,25 +180,25 @@ Use "Wie ist...?" (How is...?) / "Com'è...?" (How is...?) to ask about the qual
 *   Das Schlafzimmer ist **rechts**. (The bedroom is on the right.) / La camera da letto è **a destra**.
 *   Das Wohnzimmer und die Küche sind **vorne**. (The living room and the kitchen are at the front.) / Il soggiorno e la cucina sono **davanti**. - *Note: Use 'sind' (DE) / 'sono' (IT) for plural subjects.*
 
-#### 4.3. Asking about Qualities
+### 4.3. Asking about Qualities
 
 *   **Wie ist deine Wohnung?** (How is your apartment?) / **Com'è il tuo appartamento?** - *Informal 'your'*
 *   **Ist die Wohnung teuer?** (Is the apartment expensive?) / **L'appartamento è costoso?**
 
-#### 4.4. Other Useful Phrases
+### 4.4. Other Useful Phrases
 
 *   **Wir wollen ein neues Haus kaufen.** (We want to buy a new house.) / **Vogliamo comprare una casa nuova.**
 *   **Das ist doch toll!** (That's great!) / **È fantastico! / È magnifico!** - *'doch' adds emphasis or contradicts a negative assumption (DE)*
 *   **Hast du eine Wohnung?** (Do you have an apartment?) / **Hai un appartamento?** - *Informal 'you'*
 *   **Hat Steffi ein neues Haus?** (Does Steffi have a new house?) / **Steffi ha una casa nuova?**
 
-#### 4.5 Describing Rooms and Items
+### 4.5. Describing Rooms and Items
 *   In der Küche haben wir eine Spüle und einen großen Küchenschrank. Daneben ist der Herd und der Kühlschrank. (In the kitchen, we have a sink and a large kitchen cupboard. Next to it is the stove and the refrigerator.)
 *   Wir haben zwei Badezimmer. In einem ist die Badewanne und die Waschmaschine. (We have two bathrooms. In one is the bathtub and the washing machine.)
 
 ---
 
-### 4.4 Asking about liking something
+### 4.6. Asking about Liking Something (gefallen)
 
 #### Asking about liking something
 
@@ -223,8 +223,7 @@ Use "Wie ist...?" (How is...?) / "Com'è...?" (How is...?) to ask about the qual
 
 ---
 
-
-### 5. Grammar Notes
+## 5. Grammar Notes
 
 *   **Compound Nouns (German):** In German compound nouns (like *Wohnzimmer*, *Couchtisch*), the gender and pluralization are determined by the **last** noun in the compound. Italian does not typically form compounds this way.
     *   DE: das Zimmer -> das Wohn**zimmer**, das Schlaf**zimmer**
