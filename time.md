@@ -15,14 +15,15 @@ Understanding how to tell and ask for time is crucial for daily communication in
 *   Use **Es ist ... Uhr.** (It is ... o'clock.)
     *   `Es ist ein Uhr.` (It is one o'clock.) - Note: "ein" instead of "eins" before Uhr.
     *   `Es ist acht Uhr.` (It is eight o'clock.)
+    *   `Es ist neun Uhr.` (It is nine o'clock.)
     *   `Es ist zwölf Uhr.` (It is twelve o'clock.)
 
 ### Half Hours
 *   Germans say "half towards the next hour."
-*   **halb + [next hour number]**
-    *   `halb neun` - half past eight (8:30) (Literally: half nine)
-    *   `halb drei` - half past two (2:30) (Literally: half three)
-    *   Example: *Es ist halb neun.*
+*   **Es ist halb + [next hour number]**
+    *   `Es ist halb neun.` - It's half past eight (8:30). (Literally: half nine)
+    *   `Es ist halb drei.` - It's half past two (2:30). (Literally: half three)
+    *   `Es ist halb zwei.` - It's half past one (1:30). (Literally: half two)
 
 ### Quarter Hours
 *   **Viertel nach + [past hour]** (quarter past ...)
