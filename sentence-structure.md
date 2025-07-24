@@ -34,6 +34,11 @@ If an element other than the subject starts the sentence (for emphasis or variet
     - *Element 1: Im Sommer, Verb: fahren, Subject: wir, Other: ans Meer*
   - **Manchmal spiele ich Gitarre.** (Sometimes I play guitar.)
     - *Element 1: Manchmal, Verb: spiele, Subject: ich, Other: Gitarre*
+  - **Um 8 Uhr geht sie zur Schule.** (At 8 o'clock she goes to school.)
+  - **Von 8 bis 4 arbeitet Jana.** (From 8 to 4, Jana works.)
+  - **Um 3 Uhr kocht er das Mittagessen.** (At 3 o'clock he cooks lunch.)
+  - **Jeden Tag von 1 bis 3 Uhr bin ich in der Bibliothek.** (Every day from 1 to 3 o'clock I am in the library.)
+  - **Um 5 Uhr kommen mein Bruder und ich nach Hause.** (At 5 o'clock my brother and I come home.)
 
 ---
 

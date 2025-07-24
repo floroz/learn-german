@@ -39,9 +39,27 @@ Understanding how to tell and ask for time is crucial for daily communication in
     *   `fünf vor neun` - five to nine (8:55)
     *   `zwanzig vor neun` - twenty to nine (8:40)
 
+### Minutes Around the Half Hour
+In colloquial German, it's common to reference the half-hour mark for times around it.
+
+*   **[minutes] vor halb [next hour]**
+    *   (9:25) `fünf vor halb zehn` - five minutes before half past nine (Literally: five to half ten)
+*   **[minutes] nach halb [next hour]**
+    *   (9:35) `fünf nach halb zehn` - five minutes after half past nine (Literally: five after half ten)
+
+This can be combined with other numbers as well:
+* `zehn vor halb...` (e.g., 9:20)
+* `zehn nach halb...` (e.g., 9:40)
+
 ### Formal vs. Informal Time (12-hour vs. 24-hour clock)
 
 *   **Informal (12-hour clock):** Uses phrases like `halb`, `Viertel vor/nach`. Typically used in everyday conversation.
+    *   (9:55) `Es ist fünf vor zehn.`
+    *   (10:05) `Es ist fünf nach zehn.`
+    *   (9:25) `Es ist fünfundzwanzig nach neun.` (or `fünf vor halb zehn`)
+    *   (6:45) `Es ist Viertel vor sieben.`
+    *   (7:15) `Es ist Viertel nach sieben.`
+    *   (informal) `Es ist kurz nach sieben.` (It's just a bit past 7)
     *   `Es ist zehn nach sieben (am Abend).` (It's ten past seven (in the evening) - 7:10 PM / 19:10)
     *   To specify morning/afternoon/evening, you can add `morgens`, `vormittags`, `mittags`, `nachmittags`, `abends`.
         *   `Es ist Viertel vor neun morgens.` (It's quarter to nine in the morning - 8:45 AM)
@@ -56,6 +74,7 @@ Understanding how to tell and ask for time is crucial for daily communication in
 *   `die Stunde` (f) - hour
 *   `die Minute` (f) - minute
 *   `die Sekunde` (f) - second
+*   **Temporal Prepositions and Adverbs**: Words like `um`, `gegen`, `bis`, `von`, `nach`, and `jeden Tag` are crucial for structuring sentences with time. `um` specifies a precise time, `von...bis...` defines a period, and `jeden Tag` indicates frequency. These are explained in more detail in [prepositions.md](./prepositions.md).
 *   **um ... Uhr** - at ... o'clock (used for specific times of events)
     *   `Der Film beginnt um 20 Uhr.` (The movie starts at 8 PM.)
     *   `Um 12 Uhr geht Timo schlafen.` (At 12 o'clock Timo goes to sleep.)
@@ -67,6 +86,19 @@ Understanding how to tell and ask for time is crucial for daily communication in
     *   `Das Geschäft ist von 9 bis 18 Uhr geöffnet.` (The shop is open from 9 AM to 6 PM.)
 *   **genau ... Uhr** - exactly ... o'clock
 *   **kurz nach/vor ...** - shortly after/before ...
+*   **vor** - before
+*   **nach** - after
+
+## Asking About Activities at a Certain Time
+
+| German Phrase                      | English Translation                      |
+|------------------------------------|------------------------------------------|
+| Was macht Timo um 8 Uhr?           | What does Timo do at 8 o'clock?          |
+| Um 8 Uhr steht er auf.             | He gets up at 8 o'clock.                 |
+| Was macht er von 9 bis 5?          | What does he do from 9 to 5?             |
+| Timo arbeitet von 9 bis 5.         | Timo works from 9 to 5.                  |
+| Was macht er vor der Arbeit?       | What does he do before work?             |
+| Was macht Timo nach der Arbeit?    | What does Timo do after work?            |
 
 ## Examples in Context
 
