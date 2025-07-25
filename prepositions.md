@@ -1,10 +1,10 @@
-# German Prepositions (A1/A2 Focus)
+# Deutsche Präpositionen (German Prepositions - A1/A2 Focus)
 
 Prepositions are words that link nouns, pronouns, or phrases to other words within a sentence. They often indicate location, direction, time, cause, or manner. In German, prepositions are crucial because they **govern a specific grammatical case** (Accusative, Dative, or sometimes Genitive). Some prepositions, known as "two-way" or "dual" prepositions, can take either Accusative or Dative depending on the context (motion vs. location).
 
 ---
 
-## 1. Prepositions that Always Take the Accusative Case
+## 1. Präpositionen mit Akkusativ (Prepositions that Always Take the Accusative Case)
 These prepositions are always followed by a noun or pronoun in the Accusative case.
 A common mnemonic is **DOGFUB** (or FUDGE-O, or similar):
 *   **D**urch (through)
@@ -29,7 +29,7 @@ A common mnemonic is **DOGFUB** (or FUDGE-O, or similar):
 
 ---
 
-## 2. Prepositions that Always Take the Dative Case
+## 2. Präpositionen mit Dativ (Prepositions that Always Take the Dative Case)
 These prepositions are always followed by a noun or pronoun in the Dative case.
 Common ones include:
 *   **Aus** (from - origin, out of)

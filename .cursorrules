@@ -1,20 +1,156 @@
+# German Learning Repository: Content Standards & Processing Rules
+
+This file defines content standards, processing rules, and maintenance guidelines for the German learning repository.
+
+---
+
+## Core Repository Principles
+
+### 1. **Learning Progression Standards**
+- **A1 Foundation**: Ensure solid A1 mastery before introducing A2 concepts
+- **Level Appropriateness**: Mark content clearly with A1/A2/B1/B2 indicators
+- **Progressive Complexity**: Build concepts systematically from basic to advanced
+- **Italian Speaker Focus**: Highlight differences in gender, false friends, and structural patterns
+
+### 2. **Content Quality Standards**
+- **Accuracy First**: All German content must be grammatically correct and contextually appropriate
+- **Italian Comparisons**: Include Italian translations and note gender/structural differences
+- **Practical Examples**: Provide real-world usage examples, not just theoretical explanations
+- **Consistency**: Use consistent formatting, terminology, and organizational patterns across files
+
+### 3. **Strategic Learning Organization**
+- **Frequency-Based**: Prioritize high-frequency vocabulary and essential grammar patterns
+- **Thematic Coherence**: Group related concepts (food, family, work) for contextual learning
+- **Cross-Referencing**: Maintain clear links between related grammar and vocabulary topics
+- **Quick Access**: Provide cheat sheets and quick reference materials for review
+
+---
+
 ## Processing Temporary Notes (tmp.md)
 
 When new notes are added to `tmp.md`, follow these steps:
 
-1.  **Read the entire `tmp.md` file.**
-2.  **Understand and categorize all the elements within it.**
-3.  **Review existing files** to determine if the new learnings are already covered or could be integrated.
-4.  **Decide on the best approach for structuring the new learning:**
-    *   **Integrate:** Add the new content or examples into relevant existing files (e.g., new verbs into `verbs.md`, new phrases into thematic lessons like `3-eating-and-drinking.md`).
-    *   **Create New File:** If the content represents a new, distinct topic, create a new Markdown file for it.
-    *   **Extract and Combine:** If the new content relates to a part of an existing large file, consider extracting that part into a new, more focused file and then integrate the new content from `tmp.md` into this new file.
-5.  **Ensure all spelling is correct.**
-6.  **Validate the correctness** of the information in `tmp.md`: if a word is mispelled, a grammar rule is incorrect, or an example is unclear, it should be corrected before integration.
-7.  **Synthesize the content** to avoid redundancy and ensure clarity.
-8.  **Update links** in other relevant files if new files are created or major restructuring occurs.
-9.  **Clear `tmp.md`** after its contents have been successfully processed and integrated.
+### Step 1: Analysis & Assessment
+1. **Read the entire `tmp.md` file** and understand all elements within it
+2. **Categorize content** by type (vocabulary, grammar, phrases, cultural notes)
+3. **Assess learning level** (A1, A2, B1, B2) and verify appropriateness
+4. **Check for accuracy**: Validate spelling, grammar rules, and translations
 
-Remember the overall goal is to create a list of files that allows for a comprehensive overview of the main aspects of the German language, from A1 to B2 levels.
+### Step 2: Integration Strategy Decision
+Review existing files to determine the best approach:
 
-Not everything in tmp.md should automatically be promoted to be integrated - if you believe an information, example or rule is already covered, you should notify of this decision and skip over that content.
+**🔄 INTEGRATE** (Most Common)
+- Add new vocabulary to existing thematic files (e.g., `2-family-and-friends.md`)
+- Enhance grammar explanations in specific files (e.g., `verbs.md`, `cases.md`)
+- Add examples to existing concepts for better understanding
+- Update quick reference materials with new essential content
+
+**🆕 CREATE NEW FILE** (When Needed)
+- Content represents a distinct new topic not covered elsewhere
+- Volume of content justifies a separate file (50+ items)
+- Topic requires specialized organization (e.g., complex grammar rule)
+
+**🔗 EXTRACT & COMBINE** (Advanced Cases)
+- Large file becomes unwieldy and needs splitting
+- Related content from multiple sources needs consolidation
+- New content fits better in a reorganized structure
+
+**❌ SKIP INTEGRATION** (Quality Control)
+- Content already well-covered in existing files
+- Information is inaccurate or unclear
+- Level is inappropriate for current learning focus
+- Quality doesn't meet repository standards
+
+### Step 3: Quality Enhancement
+Before integration:
+- **Correct any errors** in spelling, grammar, or examples
+- **Add Italian comparisons** where helpful for learning
+- **Include practical examples** showing real-world usage
+- **Verify gender accuracy** especially for nouns with Italian differences
+- **Add level indicators** (A1/A2/B1/B2) where appropriate
+
+### Step 4: Integration & Maintenance
+- **Maintain formatting consistency** with existing file structure
+- **Update cross-references** in other files when adding new content
+- **Add new content to relevant sections** in README.md table of contents
+- **Preserve existing organization** and logical flow of files
+- **Ensure quick reference updates** for essential new content
+
+### Step 5: Cleanup
+- **Clear `tmp.md`** completely after successful integration
+- **Document decision** if content was skipped and explain why
+- **Test links** to ensure no broken references were created
+
+---
+
+## File-Specific Guidelines
+
+### Grammar Files (`verbs.md`, `cases.md`, `adjective-endings.md`, etc.)
+- **Complete coverage** of A1 concepts before expanding to A2
+- **Tables and examples** for all major patterns
+- **Italian comparison notes** for tricky concepts
+- **Progressive difficulty** within each topic
+
+### Vocabulary Files (`words.md`, `vocabulary-frequency.md`)
+- **Gender with every noun** (der/die/das, never standalone)
+- **Frequency indicators** for learning prioritization
+- **Italian gender differences** clearly marked
+- **Contextual grouping** over alphabetical ordering
+
+### Thematic Lessons (`1-greetings-and-introducing.md`, etc.)
+- **Practical dialogues** for real-world application
+- **Grammar integration** linking to detailed grammar files
+- **Cultural context** where relevant for understanding
+- **Progressive complexity** within each lesson
+
+### Reference Materials (`quick-reference.md`, `a2-preparation.md`)
+- **Cheat sheet format** for rapid review
+- **High-frequency content only** for quick reference
+- **Clear progression indicators** for learning path
+- **Self-assessment tools** where appropriate
+
+---
+
+## Repository Maintenance Standards
+
+### Regular Quality Checks
+- **Monthly review** of cross-references and links
+- **Content accuracy verification** for new additions
+- **Learning progression assessment** (A1→A2 readiness)
+- **Italian speaker specific needs** evaluation
+
+### Strategic Development
+- **User progress tracking** to guide new content development
+- **Gap analysis** for missing essential topics
+- **Efficiency optimization** for learning outcomes
+- **External resource integration** when beneficial
+
+### Content Evolution
+- **A2 preparation** as A1 mastery develops
+- **Advanced features** (audio, visual aids) as base content solidifies
+- **Practice materials** development for reinforcement
+- **Assessment tools** for progress measurement
+
+---
+
+## Content Integration Priorities
+
+### High Priority (Integrate Immediately)
+- Essential A1 vocabulary missing from current coverage
+- Grammar corrections or clarifications
+- High-frequency verbs or expressions
+- Italian-German comparison insights
+
+### Medium Priority (Integrate Thoughtfully)
+- A2 preparation vocabulary
+- Cultural context and usage notes
+- Extended examples for complex grammar
+- Thematic vocabulary expansion
+
+### Low Priority (Consider Carefully)
+- Advanced grammar beyond A2 scope
+- Low-frequency specialized vocabulary
+- Redundant content already well-covered
+- Content requiring significant reorganization
+
+Remember: The goal is creating a comprehensive, strategically organized learning system that efficiently guides progression from A1 to B2, with special attention to Italian speaker needs.

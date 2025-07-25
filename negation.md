@@ -1,10 +1,10 @@
-# Negation in German: Using "nicht" and "kein"
+# Verneinung im Deutschen (Negation in German): "nicht" und "kein" verwenden
 
 Negation in German is primarily achieved using two words: **nicht** (not) and **kein** (no, not a/an, not any). Understanding when and how to use them is crucial for expressing negative statements.
 
 ---
 
-## 1. Using "nicht" (not)
+## 1. "nicht" verwenden (Using "nicht" - not)
 **Nicht** is used to negate:
 *   Verbs
 *   Adjectives
@@ -12,7 +12,7 @@ Negation in German is primarily achieved using two words: **nicht** (not) and **
 *   Specific nouns (preceded by a definite article or possessive pronoun)
 *   Entire phrases or clauses
 
-### Position of "nicht":
+### Position von "nicht" (Position of "nicht"):
 
 *   **To negate a verb:** `nicht` usually comes **after the conjugated verb**. If there's a direct object, `nicht` often comes after it. If there's a modal verb or an auxiliary verb in a compound tense (like Perfekt), `nicht` comes **before the infinitive or past participle at the end**.
     *   Ich schlafe **nicht**. (I am not sleeping.)
@@ -34,14 +34,14 @@ Negation in German is primarily achieved using two words: **nicht** (not) and **
 
 ---
 
-## 2. Using "kein" (no, not a/an, not any)
+## 2. "kein" verwenden (Using "kein" - no, not a/an, not any)
 **Kein** is used to negate:
 *   Nouns that are preceded by an **indefinite article (ein, eine)** in the positive form.
 *   Nouns that have **no article** in the positive form (e.g., plural nouns or abstract nouns used generally).
 
 **`Kein` acts like an indefinite article and must be declined according to the gender, number, and case of the noun it negates.**
 
-### Declension of "kein":
+### Deklination von "kein" (Declension of "kein"):
 
 | Case       | Masculine | Feminine | Neuter  | Plural  |
 |------------|-----------|----------|---------|---------|

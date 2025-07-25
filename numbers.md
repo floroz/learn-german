@@ -1,6 +1,6 @@
-# Numbers
+# Zahlen (Numbers)
 
-## Basic Numbers (0–20)
+## Grundzahlen (Basic Numbers 0–20)
 These are the foundational numbers in German. Pay attention to spelling and pronunciation.
 
 | **German**   | **English** | **Italian** | **Notes**                                   |  

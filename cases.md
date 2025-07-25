@@ -1,24 +1,24 @@
-# German Cases: Nominative, Accusative, Dative
+# Deutsche Fälle (German Cases): Nominativ, Akkusativ, Dativ
 
 This file explains the core German grammatical cases relevant for A1/A2 levels: Nominative, Accusative, and Dative. Understanding cases is crucial as they affect articles, pronouns, and adjective endings. The Genitive case is generally introduced at B1 level and is briefly mentioned here for awareness.
 
 ---
 
-## 1. What are Cases?
+## 1. Was sind Fälle? (What are Cases?)
 In German, the role a noun plays in a sentence (e.g., subject, direct object, indirect object) is indicated by its "case." This means that articles, pronouns, and adjectives modifying the noun change their form to reflect this role.
 
 ---
 
-## 2. The Four German Cases
+## 2. Die vier deutschen Fälle (The Four German Cases)
 German has four cases:
-1.  **Nominative (Nominativ):** The subject of the sentence. Who or what is doing the action?
-2.  **Accusative (Akkusativ):** The direct object of the sentence. Who or what is receiving the action directly?
-3.  **Dative (Dativ):** The indirect object of the sentence. To whom or for whom is the action done?
-4.  **Genitive (Genitiv):** Shows possession. Whose is it? (Less common at A1/A2, primarily for B1+)
+1.  **Nominativ (Nominative):** The subject of the sentence. Who or what is doing the action?
+2.  **Akkusativ (Accusative):** The direct object of the sentence. Who or what is receiving the action directly?
+3.  **Dativ (Dative):** The indirect object of the sentence. To whom or for whom is the action done?
+4.  **Genitiv (Genitive):** Shows possession. Whose is it? (Less common at A1/A2, primarily for B1+)
 
 ---
 
-## 3. Nominative Case (Der Wer-Fall - The "Who" Case)
+## 3. Nominativ (Nominative Case) - Der Wer-Fall (The "Who" Case)
 - The subject of the verb.
 - Answers the question: **Wer?** (Who?) or **Was?** (What?) is performing the action.
 
@@ -32,7 +32,7 @@ German has four cases:
 - **Die Katzen** schlafen. (The cats sleep.)
   - *Wer schläft? -> Die Katzen.*
 
-**Articles in Nominative:**
+**Artikel im Nominativ (Articles in Nominative):**
 | Gender    | Definite | Indefinite |
 |-----------|----------|------------|
 | Masculine | der      | ein        |
@@ -43,7 +43,7 @@ German has four cases:
 
 ---
 
-## 4. Accusative Case (Der Wen-Fall - The "Whom/What" Case)
+## 4. Akkusativ (Accusative Case) - Der Wen-Fall (The "Whom/What" Case)
 - The direct object of the verb.
 - Answers the question: **Wen?** (Whom?) or **Was?** (What?) is being directly affected by the action.
 - Many common verbs take an accusative object (e.g., haben, sehen, kaufen, lesen, essen, trinken, lieben, brauchen, suchen, finden).
@@ -58,7 +58,7 @@ German has four cases:
 - Wir haben **einen Hund**. (We have a dog.)
   - *Was haben wir? -> Einen Hund.*
 
-**Articles in Accusative:**
+**Artikel im Akkusativ (Articles in Accusative):**
 | Gender    | Definite | Indefinite |
 |-----------|----------|------------|
 | Masculine | de**n**  | ein**en**  |
@@ -70,7 +70,7 @@ German has four cases:
 
 ---
 
-## 5. Dative Case (Der Wem-Fall - The "To Whom/For Whom" Case)
+## 5. Dativ (Dative Case) - Der Wem-Fall (The "To Whom/For Whom" Case)
 - The indirect object of the verb.
 - Answers the question: **Wem?** (To whom? For whom?) is the action done.
 - Often used with verbs of giving, helping, showing, telling (e.g., geben, helfen, zeigen, sagen, schenken, antworten, danken, gefallen, gehören).
@@ -86,7 +86,7 @@ German has four cases:
 - Wir danken **den Freunden**. (We thank the friends.)
   - *Wem danken wir? -> Den Freunden.*
 
-**Articles in Dative:**
+**Artikel im Dativ (Articles in Dative):**
 | Gender    | Definite | Indefinite |
 |-----------|----------|------------|
 | Masculine | de**m**  | eine**m**  |
@@ -98,7 +98,7 @@ German has four cases:
 
 ---
 
-## 6. Genitive Case (Der Wessen-Fall - The "Whose" Case)
+## 6. Genitiv (Genitive Case) - Der Wessen-Fall (The "Whose" Case)
 - Shows possession or relationship.
 - Answers the question: **Wessen?** (Whose?).
 - More common in written German and at higher levels (B1+).
@@ -109,7 +109,7 @@ German has four cases:
   - *Wessen Auto ist das? -> Des Mannes.*
 - Die Farbe **der Blume** ist rot. (The color of the flower is red.)
 
-**Articles in Genitive (for reference):**
+**Artikel im Genitiv (Articles in Genitive - for reference):**
 | Gender    | Definite      | Indefinite    |
 |-----------|---------------|---------------|
 | Masculine | de**s** (+s/es on noun) | eine**s** (+s/es on noun) |

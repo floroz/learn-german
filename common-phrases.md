@@ -1,8 +1,8 @@
-# Common German Phrases for Daily Use
+# Häufige deutsche Wendungen (Common German Phrases for Daily Use)
 
-- [Common German Phrases for Daily Use](#common-german-phrases-for-daily-use)
-    - [1. Politeness and Everyday Phrases](#1-politeness-and-everyday-phrases)
-    - [2. Asking for Help or Clarification](#2-asking-for-help-or-clarification)
+- [Häufige deutsche Wendungen (Common German Phrases for Daily Use)](#häufige-deutsche-wendungen-common-german-phrases-for-daily-use)
+    - [1. Höflichkeit und Alltagswendungen (Politeness and Everyday Phrases)](#1-höflichkeit-und-alltagswendungen-politeness-and-everyday-phrases)
+    - [2. Um Hilfe oder Klärung bitten (Asking for Help or Clarification)](#2-um-hilfe-oder-klärung-bitten-asking-for-help-or-clarification)
     - [3. Expressing Gratitude and Responses](#3-expressing-gratitude-and-responses)
     - [4. Duzen and Siezen](#4-duzen-and-siezen)
       - [When to Use Du vs. Sie](#when-to-use-du-vs-sie)
@@ -11,7 +11,7 @@
 
 ---
 
-### 1. Politeness and Everyday Phrases
+### 1. Höflichkeit und Alltagswendungen (Politeness and Everyday Phrases)
 
 | **German**               | **English**               | **Italian**               | **Notes**                                   |  
 |--------------------------|--------------------------|--------------------------|--------------------------------------------|  
@@ -24,7 +24,7 @@
 
 ---
 
-### 2. Asking for Help or Clarification
+### 2. Um Hilfe oder Klärung bitten (Asking for Help or Clarification)
 
 | **German**               | **English**               | **Italian**               | **Notes**                                   |  
 |--------------------------|--------------------------|--------------------------|--------------------------------------------|  

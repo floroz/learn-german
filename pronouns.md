@@ -1,6 +1,6 @@
-### Pronouns
+### Pronomen (Pronouns)
 
-#### Personal Pronouns
+#### Personalpronomen (Personal Pronouns)
 
 | **German** | **English**       | **Italian** | **Notes**                                   |  
 |------------|-------------------|-------------|--------------------------------------------|  
@@ -21,7 +21,7 @@
 
 ---
 
-#### Reflexive Pronouns
+#### Reflexivpronomen (Reflexive Pronouns)
 
 Reflexive pronouns are used with reflexive verbs (e.g., *sich freuen* - to be happy). They reflect back to the subject and must match the subject in person and number.
 
@@ -40,7 +40,7 @@ Reflexive pronouns are used with reflexive verbs (e.g., *sich freuen* - to be ha
 
 ---
 
-#### Possessive Pronouns
+#### Possessivpronomen (Possessive Pronouns)
 
 Possessive pronouns indicate ownership and must agree in **gender**, **number**, and **case** with the noun they modify.  
 

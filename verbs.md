@@ -1,34 +1,34 @@
 - [German Verbs Guide](#german-verbs-guide)
-  - [1. Regular Verbs (Present Tense)](#1-regular-verbs-present-tense)
-    - [Conjugation of "spielen" (to play)](#conjugation-of-spielen-to-play)
-  - [2. Irregular Verbs (Present Tense)](#2-irregular-verbs-present-tense)
-    - [Conjugation of "sein" (to be)](#conjugation-of-sein-to-be)
-    - [Conjugation of "haben" (to have)](#conjugation-of-haben-to-have)
-  - [3. Modal Verbs](#3-modal-verbs)
-    - [Common Modal Verbs](#common-modal-verbs)
-  - [4. Separable Verbs](#4-separable-verbs)
-    - [Examples of Separable Verbs:](#examples-of-separable-verbs)
-  - [5. Reflexive Verbs](#5-reflexive-verbs)
-    - [Examples of Reflexive Verbs:](#examples-of-reflexive-verbs)
-  - [6. The Perfekt Tense (Present Perfect)](#6-the-perfekt-tense-present-perfect)
-    - [Formation with "haben" or "sein"](#formation-with-haben-or-sein)
-    - [Partizip II (Past Participle) Formation](#partizip-ii-past-participle-formation)
-    - [Examples of Perfekt Tense](#examples-of-perfekt-tense)
-  - [7. Practice Dialogues](#7-practice-dialogues)
-    - [Dialogue 1: Using Regular Verbs](#dialogue-1-using-regular-verbs)
-    - [Dialogue 2: Using Modal Verbs](#dialogue-2-using-modal-verbs)
-    - [Dialogue 3: Using Reflexive Verbs](#dialogue-3-using-reflexive-verbs)
-  - [8. Common Verbs](#8-common-verbs)
-    - [Essential Verbs for Beginners](#essential-verbs-for-beginners)
+  - [1. Regelmäßige Verben (Regular Verbs) - Präsens (Present Tense)](#1-regelmäßige-verben-regular-verbs---präsens-present-tense)
+    - [Konjugation von "spielen" (Conjugation of "spielen" - to play)](#konjugation-von-spielen-conjugation-of-spielen---to-play)
+  - [2. Unregelmäßige Verben (Irregular Verbs) - Präsens (Present Tense)](#2-unregelmäßige-verben-irregular-verbs---präsens-present-tense)
+    - [Konjugation von "sein" (Conjugation of "sein" - to be)](#konjugation-von-sein-conjugation-of-sein---to-be)
+    - [Konjugation von "haben" (Conjugation of "haben" - to have)](#konjugation-von-haben-conjugation-of-haben---to-have)
+  - [3. Modalverben (Modal Verbs)](#3-modalverben-modal-verbs)
+    - [Häufige Modalverben (Common Modal Verbs)](#häufige-modalverben-common-modal-verbs)
+  - [4. Trennbare Verben (Separable Verbs)](#4-trennbare-verben-separable-verbs)
+    - [Beispiele für trennbare Verben (Examples of Separable Verbs):](#beispiele-für-trennbare-verben-examples-of-separable-verbs)
+  - [5. Reflexive Verben (Reflexive Verbs)](#5-reflexive-verben-reflexive-verbs)
+    - [Beispiele für reflexive Verben (Examples of Reflexive Verbs):](#beispiele-für-reflexive-verben-examples-of-reflexive-verbs)
+  - [6. Das Perfekt (The Perfekt Tense - Present Perfect)](#6-das-perfekt-the-perfekt-tense---present-perfect)
+    - [Bildung mit "haben" oder "sein" (Formation with "haben" or "sein")](#bildung-mit-haben-oder-sein-formation-with-haben-or-sein)
+    - [Partizip II Bildung (Past Participle Formation)](#partizip-ii-bildung-past-participle-formation)
+    - [Beispiele für das Perfekt (Examples of Perfekt Tense)](#beispiele-für-das-perfekt-examples-of-perfekt-tense)
+  - [7. Übungsdialoge (Practice Dialogues)](#7-übungsdialoge-practice-dialogues)
+    - [Dialog 1: Regelmäßige Verben verwenden (Dialogue 1: Using Regular Verbs)](#dialog-1-regelmäßige-verben-verwenden-dialogue-1-using-regular-verbs)
+    - [Dialog 2: Modalverben verwenden (Dialogue 2: Using Modal Verbs)](#dialog-2-modalverben-verwenden-dialogue-2-using-modal-verbs)
+    - [Dialog 3: Reflexive Verben verwenden (Dialogue 3: Using Reflexive Verbs)](#dialog-3-reflexive-verben-verwenden-dialogue-3-using-reflexive-verbs)
+  - [8. Häufige Verben (Common Verbs)](#8-häufige-verben-common-verbs)
+    - [Wichtige Verben für Anfänger (Essential Verbs for Beginners)](#wichtige-verben-für-anfänger-essential-verbs-for-beginners)
   - [| **geboren** | to be born  | nascere     | ich bin geboren / du bist geboren | Ich **bin** in Berlin **geboren**. (I was born in Berlin.) | Ich **bin** in Italien **geboren**. (I was born in Italy.) |](#-geboren--to-be-born---nascere------ich-bin-geboren--du-bist-geboren--ich-bin-in-berlin-geboren-i-was-born-in-berlin--ich-bin-in-italien-geboren-i-was-born-in-italy-)
 
 
 #  German Verbs Guide
 
-##  1. Regular Verbs (Present Tense) 
+##  1. Regelmäßige Verben (Regular Verbs) - Präsens (Present Tense) 
 Regular verbs follow a predictable pattern in the present tense. The endings depend on the subject pronoun.  
 
-###  Conjugation of "spielen" (to play) 
+###  Konjugation von "spielen" (Conjugation of "spielen" - to play) 
 | **Pronoun** | **German** | **English**      | **Italian**       |  
 |-------------|------------|------------------|-------------------|  
 | ich         | spiele     | I play           | io gioco          |  
@@ -47,10 +47,10 @@ Regular verbs follow a predictable pattern in the present tense. The endings dep
 
 ---
 
-##  2. Irregular Verbs (Present Tense) 
+##  2. Unregelmäßige Verben (Irregular Verbs) - Präsens (Present Tense) 
 Some verbs have irregular forms in the present tense.  
 
-###  Conjugation of "sein" (to be) 
+###  Konjugation von "sein" (Conjugation of "sein" - to be) 
 | **Pronoun** | **German** | **English**      | **Italian**       |  
 |-------------|------------|------------------|-------------------|  
 | ich         | bin        | I am             | io sono           |  
@@ -64,7 +64,7 @@ Some verbs have irregular forms in the present tense.
 - Ich **bin** müde. (I am tired.) → Io sono stanco.  
 - Sie **ist** Lehrerin. (She is a teacher.) → Lei è insegnante.  
 
-###  Conjugation of "haben" (to have) 
+###  Konjugation von "haben" (Conjugation of "haben" - to have) 
 | **Pronoun** | **German** | **English**      | **Italian**       |  
 |-------------|------------|------------------|-------------------|  
 | ich         | habe       | I have           | io ho             |  
@@ -80,10 +80,10 @@ Some verbs have irregular forms in the present tense.
 
 ---
 
-##  3. Modal Verbs 
+##  3. Modalverben (Modal Verbs) 
 Modal verbs express ability, necessity, or permission. They are conjugated irregularly and are followed by an infinitive verb.  
 
-###  Common Modal Verbs 
+###  Häufige Modalverben (Common Modal Verbs) 
 | **German** | **English** | **Italian** | **Example |  
 |------------|-------------|-------------|--------------------------------------------|  
 | können     | can         | potere       | Ich **kann** schwimmen. (I can swim.)      |  
@@ -98,7 +98,7 @@ Modal verbs express ability, necessity, or permission. They are conjugated irreg
 
 ---
 
-##  4. Separable Verbs
+##  4. Trennbare Verben (Separable Verbs)
 Separable verbs have prefixes that detach and move to the end of the sentence in main clauses in the present or simple past tense. In subordinate clauses or with modal verbs (in the infinitive form), the prefix rejoins the verb.
 
 **General Rule:**
@@ -108,7 +108,7 @@ Separable verbs have prefixes that detach and move to the end of the sentence in
     *   Example (Modal): *Er **möchte** früh **aufstehen**.* (He wants to get up early.)
     *   Example (Subordinate): *..., weil er früh **aufstehen** muss.* (...because he has to get up early.)
 
-###  Examples of Separable Verbs:
+###  Beispiele für trennbare Verben (Examples of Separable Verbs):
 
 **"aufstehen" (to get up)**
 | **Pronoun** | **German (Main Clause)** | **English**          | **Italian**         |
@@ -144,10 +144,10 @@ Separable verbs have prefixes that detach and move to the end of the sentence in
 
 ---
 
-##  5. Reflexive Verbs
+##  5. Reflexive Verben (Reflexive Verbs)
 Reflexive verbs require a reflexive pronoun (e.g., mich, dich, sich) because the subject performs the action on themselves. The reflexive pronoun usually comes directly after the conjugated verb.
 
-**Reflexive Pronouns (Accusative):**
+**Reflexivpronomen (Reflexive Pronouns) - Akkusativ (Accusative):**
 *   ich: **mich** (myself)
 *   du: **dich** (yourself)
 *   er/sie/es: **sich** (himself/herself/itself)
@@ -155,7 +155,7 @@ Reflexive verbs require a reflexive pronoun (e.g., mich, dich, sich) because the
 *   ihr: **euch** (yourselves)
 *   sie/Sie: **sich** (themselves/yourself formal)
 
-**Reflexive Pronouns (Dative):**
+**Reflexivpronomen (Reflexive Pronouns) - Dativ (Dative):**
 Sometimes, the reflexive pronoun is in the dative case, especially if there's another direct object (accusative) in the sentence.
 *   ich: **mir** (to/for myself)
 *   du: **dir** (to/for yourself)
@@ -164,7 +164,7 @@ Sometimes, the reflexive pronoun is in the dative case, especially if there's an
 *   ihr: **euch** (to/for yourselves)
 *   sie/Sie: **sich** (to/for themselves/yourself formal)
 
-###  Examples of Reflexive Verbs:
+###  Beispiele für reflexive Verben (Examples of Reflexive Verbs):
 
 **"sich freuen" (to be happy, to look forward to)** - Accusative
 | **Pronoun** | **German**         | **English**          | **Italian**         |
@@ -202,15 +202,15 @@ The phrase "Ich wollen mich putzen" should be "Ich **möchte** mich putzen" (I w
 
 ---
 
-## 6. The Perfekt Tense (Present Perfect)
+## 6. Das Perfekt (The Perfekt Tense - Present Perfect)
 The Perfekt tense is used to talk about completed actions in the past, especially in spoken German. It's formed with the auxiliary verb **haben** (to have) or **sein** (to be) in the present tense, plus the **Partizip II** (past participle) of the main verb.
 
-### Formation with "haben" or "sein"
+### Bildung mit "haben" oder "sein" (Formation with "haben" or "sein")
 *   Most verbs form the Perfekt with **haben**.
 *   Verbs indicating a change of location (e.g., gehen - to go, fahren - to drive, fliegen - to fly) or a change of state (e.g., aufwachen - to wake up, sterben - to die) usually form the Perfekt with **sein**.
 *   **Sein** (to be) and **bleiben** (to stay) also use **sein** as their auxiliary verb.
 
-### Partizip II (Past Participle) Formation
+### Partizip II Bildung (Past Participle Formation)
 
 *   **Regular Verbs (Weak Verbs):**
     *   Prefix **ge-** + verb stem + **-t**
@@ -234,7 +234,7 @@ The Perfekt tense is used to talk about completed actions in the past, especiall
     *   Do **not** take **ge-** and end in **-t**.
     *   Example: studieren (to study) → studier**t**
 
-### Examples of Perfekt Tense
+### Beispiele für das Perfekt (Examples of Perfekt Tense)
 
 | Sentence (Present)             | Auxiliary | Partizip II | Sentence (Perfekt)                      | English (Perfekt)            | Italian (Perfekt Equivalent) |
 |--------------------------------|-----------|-------------|-----------------------------------------|------------------------------|------------------------------|
@@ -253,21 +253,21 @@ The conjugated auxiliary verb (**haben** or **sein**) is in the second position,
 
 ---
 
-##  7. Practice Dialogues  
+##  7. Übungsdialoge (Practice Dialogues)  
 
-###  Dialogue 1: Using Regular Verbs  
+###  Dialog 1: Regelmäßige Verben verwenden (Dialogue 1: Using Regular Verbs)  
 - **A**: Was machst du? (What are you doing?) → Che fai?  
 - **B**: Ich **lerne** Deutsch. (I am learning German.) → Sto imparando il tedesco.  
 - **A**: **Spielst** du Fußball? (Do you play soccer?) → Giochi a calcio?  
 - **B**: Ja, ich **spiele** jeden Tag. (Yes, I play every day.) → Sì, gioco ogni giorno.  
 
-###  Dialogue 2: Using Modal Verbs  
+###  Dialog 2: Modalverben verwenden (Dialogue 2: Using Modal Verbs)  
 - **A**: **Kannst** du mir helfen? (Can you help me?) → Puoi aiutarmi?  
 - **B**: Ja, ich **kann** dir helfen. (Yes, I can help you.) → Sì, posso aiutarti.  
 - **A**: **Muss** ich jetzt gehen? (Do I have to go now?) → Devo andare adesso?  
 - **B**: Nein, du **musst** nicht gehen. (No, you don’t have to go.) → No, non devi andare.  
 
-###  Dialogue 3: Using Reflexive Verbs
+###  Dialog 3: Reflexive Verben verwenden (Dialogue 3: Using Reflexive Verbs)
 - **A**: **Freust** du **dich** auf die Party? (Are you looking forward to the party?) → Non vedi l’ora della festa?  
 - **B**: Ja, ich **freue mich** sehr. (Yes, I am very excited.) → Sì, non vedo l’ora.  
 - **A**: Wir **freuen uns** auch. (We are excited too.) → Anche noi non vediamo l’ora.  
@@ -275,9 +275,9 @@ The conjugated auxiliary verb (**haben** or **sein**) is in the second position,
 
 ---
 
-## 8. Common Verbs
+## 8. Häufige Verben (Common Verbs)
 
-### Essential Verbs for Beginners
+### Wichtige Verben für Anfänger (Essential Verbs for Beginners)
 
 | **German**  | **English** | **Italian** | **Conjugation (ich/du)** | **Example**                          |
 |-------------|-------------|-------------|--------------------------|--------------------------------------|

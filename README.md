@@ -6,6 +6,24 @@ Welcome to your personal German language learning repository! This space is desi
 
 We are currently focusing on A1 topics. As you progress, this document will be updated to reflect your journey.
 
+### 📈 Learning Progress Tracker
+
+**A1 Progress (Current Level)**
+- ✅ Basic greetings and introductions
+- ✅ Family and friends vocabulary
+- ✅ Food and drink essentials
+- ✅ Home and living basics
+- ✅ Core grammar foundations (cases, articles, verb conjugations)
+- 🔄 **Currently working on**: Expanding vocabulary and fluency with essential verbs
+- 📅 **Next milestone**: Complete A1 vocabulary mastery
+
+**A2 Preparation Roadmap**
+- ⏳ Past tense mastery (Perfekt and Präteritum)
+- ⏳ Advanced sentence structures
+- ⏳ Complex separable and inseparable verbs
+- ⏳ Expressing opinions and preferences
+- ⏳ Describing past experiences and future plans
+
 ## Repository Structure and Strategy
 
 This repository is organized to facilitate a structured approach to learning German, from A1 to B2 levels. The content is divided into thematic lessons, core grammar and vocabulary topics, and supplementary materials.
@@ -39,12 +57,15 @@ This repository is organized to facilitate a structured approach to learning Ger
     *   [Pronouns](./pronouns.md) - Detailed explanations and examples of personal, reflexive, possessive, demonstrative, indefinite, and relative pronouns.
     *   [Verbs](./verbs.md) - Covers regular/irregular verb conjugation, modal verbs, separable verbs, reflexive verbs, and an introduction to the Perfekt tense. Includes lists of common verbs.
 *   **Vocabulary & Pronunciation:**
+    *   [Vocabulary by Frequency](./vocabulary-frequency.md) - **NEW** - Strategically organized vocabulary by frequency and importance for optimal learning progression.
+    *   [General Vocabulary](./words.md) - Categorized A1 vocabulary lists including Time & Dates, Weather, Clothing, Hobbies, and Common Adjectives.
     *   [Numbers](./numbers.md) - Cardinal numbers from 1 to thousands, including rules for compound numbers and special cases.
     *   [Pronunciation Guide](./pronunciation.md) - Detailed guide on German pronunciation.
     *   [W-Wörter (Question Words)](./w-worter.md) - List of common German question words with examples.
-    *   [General Vocabulary](./words.md) - Categorized A1 vocabulary lists including Time & Dates, Weather, Clothing, Hobbies, and Common Adjectives. *(Strategy: Integrate more into thematic lessons over time or refine into specific vocabulary files if large enough).*
 
-### Common Phrases
+### Quick Reference & Study Aids
+*   [Quick Reference](./quick-reference.md) - **NEW** - Essential A1 content in cheat sheet format for rapid review and practice.
+*   [A2 Preparation Guide](./a2-preparation.md) - **NEW** - Complete roadmap for transitioning from A1 to A2 level with checklist and study plan.
 *   [Common Phrases](./common-phrases.md) - Essential German phrases for daily interactions.
 
 ### A1 Course Materials

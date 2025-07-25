@@ -1,10 +1,10 @@
-# Articles and Nouns in German
+# Artikel und Nomen (Articles and Nouns in German)
 
 This file covers the basics of German nouns, including their gender, and how articles (definite and indefinite) change with them, particularly focusing on the Nominative, Accusative, and Dative cases relevant for A1/A2 levels.
 
 ---
 
-## 1. Nouns and Gender
+## 1. Nomen und Geschlecht (Nouns and Gender)
 All German nouns are capitalized and have one of three genders: **masculine (der)**, **feminine (die)**, or **neuter (das)**.
 
 | **German**         | **English**       | **Italian**       | **Example**                                | **Notes**                      |
@@ -16,7 +16,7 @@ All German nouns are capitalized and have one of three genders: **masculine (der
 
 There are some rules and patterns to help determine the gender of a noun.
 
-### Common Gender Rules
+### Häufige Geschlechterregeln (Common Gender Rules)
 
 - **Masculine (der)**:
   - Most nouns ending in *-er, -en, -el, -ismus, -ling* (e.g., **der Lehrer** – the teacher, **der Apfel** – the apple, **der Optimismus** – optimism).
@@ -39,10 +39,10 @@ There are some rules and patterns to help determine the gender of a noun.
 
 ---
 
-## 2. Articles and Cases
+## 2. Artikel und Fälle (Articles and Cases)
 German uses four cases: **nominative** (subject), **accusative** (direct object), **dative** (indirect object), and **genitive** (possession). Articles change depending on the gender of the noun and its case in the sentence.
 
-### Definite Articles (der, die, das)
+### Bestimmte Artikel (Definite Articles - der, die, das)
 The definite article ("the") changes as follows:
 
 | **Case**    | **Masculine** | **Feminine** | **Neuter** | **Plural** |

@@ -25,9 +25,9 @@
 
 ---
 
-## 1. Name and Greetings
+## 1. Name und Begrüßungen (Name and Greetings)
 
-### Introducing Yourself
+### Sich vorstellen (Introducing Yourself)
 | **German**               | **English**               | **Italian**               | **Notes**                                   |
 |--------------------------|--------------------------|--------------------------|--------------------------------------------|
 | Mein Name ist Daniele.    | My name is Daniele.      | Il mio nome è Daniele.   | Formal introduction.                       |
@@ -40,7 +40,7 @@
 | Wie heißt du?             | What are you called?     | Come ti chiami?          | Informal.                                  |
 | Wie heißen Sie?           | What are you called?     | Come si chiama?          | Formal.                                    |
 
-### Vocabulary
+### Wortschatz (Vocabulary)
 | **German**               | **English**               | **Italian**               | **Notes**                                   |
 |--------------------------|--------------------------|--------------------------|--------------------------------------------|
 | Der Name                 | The name                 | Il nome                  |                                            |

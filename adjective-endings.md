@@ -1,4 +1,4 @@
-# German Adjective Endings (A1/A2 Focus)
+# Deutsche Adjektivendungen (German Adjective Endings - A1/A2 Focus)
 
 Adjectives in German take endings that depend on several factors:
 1.  The **gender** of the noun they describe (masculine, feminine, neuter).
@@ -12,10 +12,10 @@ This file focuses on the common patterns for A1/A2 learners, primarily with defi
 
 ---
 
-## 1. Adjective Endings with Definite Articles (Weak Declension)
+## 1. Adjektivendungen mit bestimmten Artikeln (Adjective Endings with Definite Articles - Weak Declension)
 When an adjective follows a definite article (der, die, das, den, dem), the article already provides a lot of information about the noun's gender and case. The adjective endings are therefore "weaker" and simpler.
 
-### Nominative Case
+### Nominativ (Nominative Case)
 | Gender    | Definite Article | Adjective Ending | Example                     | Translation          |
 |-----------|------------------|------------------|-----------------------------|----------------------|
 | Masculine | der              | **-e**           | der gut**e** Mann           | the good man         |
@@ -23,7 +23,7 @@ When an adjective follows a definite article (der, die, das, den, dem), the arti
 | Neuter    | das              | **-e**           | das gut**e** Kind           | the good child       |
 | Plural    | die              | **-en**          | die gut**en** Leute         | the good people      |
 
-### Accusative Case
+### Akkusativ (Accusative Case)
 | Gender    | Definite Article | Adjective Ending | Example                     | Translation          |
 |-----------|------------------|------------------|-----------------------------|----------------------|
 | Masculine | den              | **-en**          | den gut**en** Mann          | the good man (obj.)  |
@@ -31,7 +31,7 @@ When an adjective follows a definite article (der, die, das, den, dem), the arti
 | Neuter    | das              | **-e**           | das gut**e** Kind           | the good child (obj.)|
 | Plural    | die              | **-en**          | die gut**en** Leute         | the good people (obj.)|
 
-### Dative Case
+### Dativ (Dative Case)
 | Gender    | Definite Article | Adjective Ending | Example                     | Translation            |
 |-----------|------------------|------------------|-----------------------------|------------------------|
 | Masculine | dem              | **-en**          | dem gut**en** Mann          | to/for the good man    |
@@ -46,7 +46,7 @@ When an adjective follows a definite article (der, die, das, den, dem), the arti
 
 ---
 
-## 2. Adjective Endings with Indefinite Articles (Mixed Declension)
+## 2. Adjektivendungen mit unbestimmten Artikeln (Adjective Endings with Indefinite Articles - Mixed Declension)
 When an adjective follows an indefinite article (ein, eine, einen, einem, etc.) or a possessive pronoun (mein, dein, etc.), the article provides less information about gender/case, so the adjective ending is "stronger" to compensate.
 
 ### Nominative Case

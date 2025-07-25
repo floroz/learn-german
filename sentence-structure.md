@@ -1,13 +1,13 @@
-# German Sentence Structure (Wortstellung)
+# Deutsche Satzstruktur (German Sentence Structure - Wortstellung)
 
 Understanding basic German sentence structure (also known as *Wortstellung* or word order) is fundamental for forming correct and natural-sounding sentences. This guide covers the most important rules for A1/A2 learners, focusing on main clauses, questions, and the position of verbs.
 
 ---
 
-## 1. Main Clauses (Hauptsätze) - Basic Word Order
+## 1. Hauptsätze (Main Clauses) - Grundlegende Wortstellung (Basic Word Order)
 A main clause is a simple sentence that can stand on its own.
 
-### Rule 1: Verb in Second Position (V2 Rule)
+### Regel 1: Verb an zweiter Stelle (Rule 1: Verb in Second Position - V2 Rule)
 In a standard declarative sentence (a statement), the **conjugated verb is always the second element**.
 - **Subject - Verb - Other elements.**
   - **Ich lese ein Buch.** (I read a book.)
@@ -17,7 +17,7 @@ In a standard declarative sentence (a statement), the **conjugated verb is alway
   - **Der Hund spielt im Garten.** (The dog plays in the garden.)
     - *Subject: Der Hund, Verb: spielt, Other: im Garten*
 
-### Rule 2: Time, Manner, Place (TMP)
+### Regel 2: Zeit, Art, Ort (Rule 2: Time, Manner, Place - TMP)
 Adverbial phrases or words that indicate Time, Manner, or Place often follow a general order, though this is more of a guideline and can be flexible, especially if one element is emphasized.
 - **General Guideline:** Time - Manner - Place (TeKaMoLo: Temporal, Kausal, Modal, Lokal)
   - **Ich fahre morgen mit dem Zug nach Berlin.** (I am driving to Berlin by train tomorrow.)
@@ -25,7 +25,7 @@ Adverbial phrases or words that indicate Time, Manner, or Place often follow a g
     - *Manner: mit dem Zug*
     - *Place: nach Berlin*
 
-### Rule 3: Inversion - When Another Element Starts the Sentence
+### Regel 3: Inversion - Wenn ein anderes Element den Satz beginnt (Rule 3: Inversion - When Another Element Starts the Sentence)
 If an element other than the subject starts the sentence (for emphasis or variety), the **verb still remains in the second position**, and the subject moves to a position *after* the verb.
 - **Element 1 - Verb - Subject - Other elements.**
   - **Heute lerne ich Deutsch.** (Today I learn German.)
@@ -42,9 +42,9 @@ If an element other than the subject starts the sentence (for emphasis or variet
 
 ---
 
-## 2. Questions (Fragesätze)
+## 2. Fragesätze (Questions)
 
-### Yes/No Questions (Ja/Nein-Fragen)
+### Ja/Nein-Fragen (Yes/No Questions)
 To form a question that can be answered with "yes" or "no," the **conjugated verb moves to the first position**.
 - **Verb - Subject - Other elements?**
   - **Lernst du Deutsch?** (Do you learn German?)
