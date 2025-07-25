@@ -138,6 +138,10 @@ Separable verbs have prefixes that detach and move to the end of the sentence in
 *   *Ich **mache** das Fenster **auf**.* (I open the window.) - `aufmachen`
 *   *Du **rufst** deine Freundin **an**.* (You call your friend.) - `anrufen`
 
+**"zurückkommen" (to come back)**
+* Main Clause: *Wann **kommst** du aus dem Urlaub **zurück**?* (When do you come back from vacation?)
+* Main Clause: *Ich **komme** am Mittwoch aus dem Urlaub **zurück**.* (I come back from vacation on Wednesday.)
+
 ---
 
 ##  5. Reflexive Verbs

@@ -4,44 +4,6 @@ This file contains categorized vocabulary lists relevant for the A1 level.
 
 ---
 
-## Time & Dates (Zeit & Datum)
-
-| German (Gender)         | English                   | Italian (Gender)              |
-|-------------------------|---------------------------|-------------------------------|
-| die Zeit (f)            | time                      | il tempo (m)                  |
-| die Stunde (f)          | hour                      | l'ora (f)                     |
-| die Minute (f)          | minute                    | il minuto (m)                 |
-| die Sekunde (f)         | second                    | il secondo (m)                |
-| der Tag (m)             | day                       | il giorno (m)                 |
-| die Woche (f)           | week                      | la settimana (f)              |
-| der Monat (m)           | month                     | il mese (m)                   |
-| das Jahr (n)            | year                      | l'anno (m)                    |
-| der Morgen (m)          | morning                   | la mattina (f)                |
-| der Vormittag (m)       | late morning (before noon)| la tarda mattinata (f)        |
-| der Mittag (m)          | noon, midday              | il mezzogiorno (m)            |
-| der Nachmittag (m)      | afternoon                 | il pomeriggio (m)             |
-| der Abend (m)           | evening                   | la sera (f)                   |
-| die Nacht (f)           | night                     | la notte (f)                  |
-| heute                   | today                     | oggi                          |
-| gestern                 | yesterday                 | ieri                          |
-| morgen                  | tomorrow                  | domani                        |
-| das Datum (n)           | date                      | la data (f)                   |
-| der Kalender (m)        | calendar                  | il calendario (m)             |
-
-### Days of the Week (Wochentage)
-
-| German (Gender)         | English                   | Italian (Gender)              |
-|-------------------------|---------------------------|-------------------------------|
-| der Montag (m)          | Monday                    | il lunedì (m)                 |
-| der Dienstag (m)        | Tuesday                   | il martedì (m)                |
-| der Mittwoch (m)        | Wednesday                 | il mercoledì (m)              |
-| der Donnerstag (m)      | Thursday                  | il giovedì (m)                |
-| der Freitag (m)         | Friday                    | il venerdì (m)                |
-| der Samstag (m)         | Saturday                  | il sabato (m)                 |
-| der Sonntag (m)         | Sunday                    | la domenica (f)               |
-
----
-
 ## Weather (Das Wetter)
 
 | German (Gender)         | English                   | Italian (Gender)              |
@@ -141,6 +103,7 @@ This file contains categorized vocabulary lists relevant for the A1 level.
 
 | German (Gender, Plural) | English                   | Italian (Gender, Plural)      |
 |-------------------------|---------------------------|-------------------------------|
+| der Urlaub (m, Urlaube) | vacation, holiday         | la vacanza (f, vacanze)       |
 | der Zahn (m, Zähne)     | tooth                     | il dente (m, denti)           |
 | das Essen (n, -)        | food, meal                | il cibo (m), il pasto (m)     |
 | der Besuch (m, Besuche) | visit                     | la visita (f, visite)         |
