@@ -50,6 +50,48 @@ Understanding how to tell and ask for time **and** dates is crucial for daily co
 * The preposition **am** is used to mean "on" a specific day:
   * *Ich komme **am Mittwoch**.* (I am coming on Wednesday.)
 
+### Monate (Months)
+
+| German (Gender)         | English                   | Italian (Gender)              |
+|-------------------------|---------------------------|-------------------------------|
+| der Januar (m)          | January                   | gennaio (m)                   |
+| der Februar (m)         | February                  | febbraio (m)                  |
+| der März (m)            | March                     | marzo (m)                     |
+| der April (m)           | April                     | aprile (m)                    |
+| der Mai (m)             | May                       | maggio (m)                    |
+| der Juni (m)            | June                      | giugno (m)                    |
+| der Juli (m)            | July                      | luglio (m)                    |
+| der August (m)          | August                    | agosto (m)                    |
+| der September (m)       | September                 | settembre (m)                 |
+| der Oktober (m)         | October                   | ottobre (m)                   |
+| der November (m)        | November                  | novembre (m)                  |
+| der Dezember (m)        | December                  | dicembre (m)                  |
+| die Monate (pl)         | the months                | i mesi (m, pl)                |
+
+**Usage with preposition "im" (in):**
+* *Im Januar gehen wir immer Skifahren.* (In January we always go skiing.)
+* *Im Juli oder August haben wir Urlaub.* (In July or August we have vacation.)
+* *Mein Geburtstag ist im Dezember.* (My birthday is in December.)
+* *Von September bis November renovieren wir unsere Wohnung.* (From September to November we're renovating our apartment.)
+
+### Jahreszeiten (Seasons)
+
+| German (Gender)         | English                   | Italian (Gender)              |
+|-------------------------|---------------------------|-------------------------------|
+| der Frühling (m)        | spring                    | la primavera (f)              |
+| der Sommer (m)          | summer                    | l'estate (f)                  |
+| der Herbst (m)          | autumn/fall               | l'autunno (m)                 |
+| der Winter (m)          | winter                    | l'inverno (m)                 |
+| die Jahreszeiten (pl)   | the seasons               | le stagioni (f, pl)           |
+
+**Usage with preposition "im" (in):**
+* *Im Sommer fahren wir ans Meer.* (In summer we drive to the sea.)
+* *Im Winter ist es kalt.* (In winter it is cold.)
+* *Im Herbst habe ich Geburtstag.* (In autumn I have my birthday.)
+* *Im Frühling ist das Wetter schön.* (In spring the weather is nice.)
+
+**Note**: All months are masculine in German (der), while seasons are also all masculine. This differs from Italian where seasons have mixed genders.
+
 ---
 
 ## Asking for the Time

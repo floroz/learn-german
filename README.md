@@ -42,6 +42,7 @@ This repository is organized to facilitate a structured approach to learning Ger
 *   [Family and Friends](./2-family-and-friends.md)
 *   [Eating and Drinking](./3-eating-and-drinking.md)
 *   [Home and Living](./4-home-and-living.md)
+*   [Preferences and Hobbies](./5-preferences-and-hobbies.md) Expressing likes and dislikes using "gerne", discussing hobbies and daily activities.
 *   [Colors](./colors.md) - Understanding and using common colors, including shades and adjective endings.
 
 ### Core Grammar & Vocabulary
